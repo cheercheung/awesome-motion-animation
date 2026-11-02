@@ -1,0 +1,352 @@
+{
+  "title": "Awesome Motion & Animation",
+  "checked_on": "2026-11-02",
+  "collection_license": "CC-BY-4.0",
+  "categories": [
+    {
+      "id": "animation",
+      "name_en": "Animation & Choreography",
+      "name_zh": "动画与编排"
+    },
+    {
+      "id": "scenes",
+      "name_en": "3D & Scenes",
+      "name_zh": "3D 与场景"
+    },
+    {
+      "id": "physics",
+      "name_en": "Physics & Drawing",
+      "name_zh": "物理与手绘"
+    },
+    {
+      "id": "audio",
+      "name_en": "Audio & Editing",
+      "name_zh": "声音与剪辑"
+    },
+    {
+      "id": "delivery",
+      "name_en": "Render & Delivery",
+      "name_zh": "渲染与交付"
+    }
+  ],
+  "projects": [
+    {
+      "number": 1,
+      "name": "Remotion",
+      "repository": "remotion-dev/remotion",
+      "category": "animation",
+      "source_url": "https://github.com/remotion-dev/remotion",
+      "description_en": "Make videos programmatically with React.",
+      "description_zh": "用 React 编程生成视频。",
+      "license": {
+        "label": "Remotion custom license",
+        "source_url": "https://github.com/remotion-dev/remotion/blob/main/LICENSE.md",
+        "verified": true,
+        "note_en": "Free use is limited by the upstream eligibility rules; a Company License is required for other organizations.",
+        "note_zh": "免费使用须符合上游资格条件，其他组织需要 Company License。"
+      }
+    },
+    {
+      "number": 2,
+      "name": "Anime.js",
+      "repository": "juliangarnier/anime",
+      "category": "animation",
+      "source_url": "https://github.com/juliangarnier/anime",
+      "description_en": "Choreograph JavaScript animations with timelines.",
+      "description_zh": "通过时间轴编排 JavaScript 动画。",
+      "license": {
+        "label": "MIT",
+        "source_url": "https://github.com/juliangarnier/anime/blob/master/LICENSE.md",
+        "verified": true
+      }
+    },
+    {
+      "number": 3,
+      "name": "mo.js",
+      "repository": "mojs/mojs",
+      "category": "animation",
+      "source_url": "https://github.com/mojs/mojs",
+      "description_en": "Create shape bursts and motion effects.",
+      "description_zh": "制作图形爆发与动态效果。",
+      "license": {
+        "label": "MIT",
+        "source_url": "https://github.com/mojs/mojs/blob/main/LICENSE.md",
+        "verified": true
+      }
+    },
+    {
+      "number": 4,
+      "name": "Theatre.js",
+      "repository": "theatre-js/theatre",
+      "category": "animation",
+      "source_url": "https://github.com/theatre-js/theatre",
+      "description_en": "Edit animation keyframes visually.",
+      "description_zh": "可视化编辑动画关键帧。",
+      "license": {
+        "label": "Apache-2.0 (core) / AGPL-3.0 (studio)",
+        "source_url": "https://github.com/theatre-js/theatre#license",
+        "verified": true,
+        "note_en": "The core runtime and visual studio use different licenses; check the component you use.",
+        "note_zh": "core 运行时与 studio 可视化编辑器使用不同许可，请按实际组件核对。"
+      }
+    },
+    {
+      "number": 5,
+      "name": "Two.js",
+      "repository": "jonobr1/two.js",
+      "category": "animation",
+      "source_url": "https://github.com/jonobr1/two.js",
+      "description_en": "Create animated 2D vector scenes.",
+      "description_zh": "创建二维矢量场景与动画。",
+      "license": {
+        "label": "MIT",
+        "source_url": "https://github.com/jonobr1/two.js/blob/dev/LICENSE",
+        "verified": true
+      }
+    },
+    {
+      "number": 6,
+      "name": "D3",
+      "repository": "d3/d3",
+      "category": "animation",
+      "source_url": "https://github.com/d3/d3",
+      "description_en": "Build data-driven graphics and visualizations.",
+      "description_zh": "制作数据驱动的图形与可视化。",
+      "license": {
+        "label": "ISC",
+        "source_url": "https://github.com/d3/d3/blob/main/LICENSE",
+        "verified": true
+      }
+    },
+    {
+      "number": 7,
+      "name": "Three.js",
+      "repository": "mrdoob/three.js",
+      "category": "scenes",
+      "source_url": "https://github.com/mrdoob/three.js",
+      "description_en": "Build 3D scenes and camera movements.",
+      "description_zh": "创建三维场景与摄像机运动。",
+      "license": {
+        "label": "MIT",
+        "source_url": "https://github.com/mrdoob/three.js/blob/dev/LICENSE",
+        "verified": true
+      }
+    },
+    {
+      "number": 8,
+      "name": "Babylon.js",
+      "repository": "BabylonJS/Babylon.js",
+      "category": "scenes",
+      "source_url": "https://github.com/BabylonJS/Babylon.js",
+      "description_en": "Build and render real-time 3D scenes.",
+      "description_zh": "构建与渲染实时 3D 场景。",
+      "license": {
+        "label": "Apache-2.0",
+        "source_url": "https://github.com/BabylonJS/Babylon.js/blob/master/license.md",
+        "verified": true
+      }
+    },
+    {
+      "number": 9,
+      "name": "Drei",
+      "repository": "pmndrs/drei",
+      "category": "scenes",
+      "source_url": "https://github.com/pmndrs/drei",
+      "description_en": "Use ready-made React Three Fiber helpers.",
+      "description_zh": "使用现成的 React Three Fiber 辅助组件。",
+      "license": {
+        "label": "MIT",
+        "source_url": "https://github.com/pmndrs/drei/blob/master/LICENSE",
+        "verified": true
+      }
+    },
+    {
+      "number": 10,
+      "name": "Spark",
+      "repository": "sparkjsdev/spark",
+      "category": "scenes",
+      "source_url": "https://github.com/sparkjsdev/spark",
+      "description_en": "Render 3D Gaussian splats with Three.js.",
+      "description_zh": "使用 Three.js 渲染三维高斯泼溅场景。",
+      "license": {
+        "label": "MIT",
+        "source_url": "https://github.com/sparkjsdev/spark/blob/main/LICENSE",
+        "verified": true
+      }
+    },
+    {
+      "number": 11,
+      "name": "cables.gl",
+      "repository": "cables-gl/cables_electron",
+      "category": "scenes",
+      "source_url": "https://github.com/cables-gl/cables_electron",
+      "description_en": "Build node-based visual scenes in the standalone desktop editor.",
+      "description_zh": "在独立桌面编辑器中通过可视化节点搭建场景。",
+      "license": {
+        "label": "MIT",
+        "source_url": "https://github.com/cables-gl/cables_electron/blob/develop/LICENCE",
+        "verified": true
+      }
+    },
+    {
+      "number": 12,
+      "name": "Taichi",
+      "repository": "taichi-dev/taichi",
+      "category": "physics",
+      "source_url": "https://github.com/taichi-dev/taichi",
+      "description_en": "Write high-performance, GPU-accelerated physics simulations.",
+      "description_zh": "编写高性能、GPU 加速的物理模拟。",
+      "license": {
+        "label": "Apache-2.0",
+        "source_url": "https://github.com/taichi-dev/taichi/blob/master/LICENSE",
+        "verified": true
+      }
+    },
+    {
+      "number": 13,
+      "name": "SPlisHSPlasH",
+      "repository": "InteractiveComputerGraphics/SPlisHSPlasH",
+      "category": "physics",
+      "source_url": "https://github.com/InteractiveComputerGraphics/SPlisHSPlasH",
+      "description_en": "Simulate SPH fluids and generate foam and spray effects.",
+      "description_zh": "模拟 SPH 流体并生成泡沫与喷溅效果。",
+      "license": {
+        "label": "MIT",
+        "source_url": "https://github.com/InteractiveComputerGraphics/SPlisHSPlasH/blob/master/LICENSE",
+        "verified": true
+      }
+    },
+    {
+      "number": 14,
+      "name": "Custom Shader Material",
+      "repository": "FarazzShaikh/THREE-CustomShaderMaterial",
+      "category": "physics",
+      "source_url": "https://github.com/FarazzShaikh/THREE-CustomShaderMaterial",
+      "description_en": "Combine custom shaders with standard Three.js materials and lighting.",
+      "description_zh": "将自定义着色器与 Three.js 标准材质及光照结合。",
+      "license": {
+        "label": "MIT",
+        "source_url": "https://github.com/FarazzShaikh/THREE-CustomShaderMaterial/blob/main/LICENSE.md",
+        "verified": true
+      }
+    },
+    {
+      "number": 15,
+      "name": "OpenToonz",
+      "repository": "opentoonz/opentoonz",
+      "category": "physics",
+      "source_url": "https://github.com/opentoonz/opentoonz",
+      "description_en": "Create hand-drawn 2D character animation.",
+      "description_zh": "制作手绘二维角色动画。",
+      "license": {
+        "label": "BSD-3-Clause + third-party notices",
+        "source_url": "https://github.com/opentoonz/opentoonz/blob/master/LICENSE.txt",
+        "verified": true,
+        "note_en": "Third-party libraries and bundled brushes carry their own terms.",
+        "note_zh": "第三方库与随附笔刷适用各自的许可条款。"
+      }
+    },
+    {
+      "number": 16,
+      "name": "Qwen3-TTS",
+      "repository": "QwenLM/Qwen3-TTS",
+      "category": "audio",
+      "source_url": "https://github.com/QwenLM/Qwen3-TTS",
+      "description_en": "Generate expressive speech for voiceovers.",
+      "description_zh": "生成富有表现力的语音，用于配音。",
+      "license": {
+        "label": "Apache-2.0",
+        "source_url": "https://github.com/QwenLM/Qwen3-TTS/blob/main/LICENSE",
+        "verified": true
+      }
+    },
+    {
+      "number": 17,
+      "name": "Audacity",
+      "repository": "audacity/audacity",
+      "category": "audio",
+      "source_url": "https://github.com/audacity/audacity",
+      "description_en": "Record, clean up, edit, and mix audio.",
+      "description_zh": "录制、清理、编辑与混合音频。",
+      "license": {
+        "label": "GPL-3.0 + file-level notices",
+        "source_url": "https://github.com/audacity/audacity/blob/master/LICENSE.txt",
+        "verified": true,
+        "note_en": "See the upstream license for file-level and third-party notices.",
+        "note_zh": "文件级与第三方组件许可说明以上游文件为准。"
+      }
+    },
+    {
+      "number": 18,
+      "name": "Subtitle Edit",
+      "repository": "SubtitleEdit/subtitleedit",
+      "category": "audio",
+      "source_url": "https://github.com/SubtitleEdit/subtitleedit",
+      "description_en": "Edit subtitles and adjust their timing.",
+      "description_zh": "编辑字幕并调整时间同步。",
+      "license": {
+        "label": "MIT",
+        "source_url": "https://github.com/SubtitleEdit/subtitleedit/blob/main/LICENSE",
+        "verified": true
+      }
+    },
+    {
+      "number": 19,
+      "name": "Auto-Editor",
+      "repository": "WyattBlue/auto-editor",
+      "category": "audio",
+      "source_url": "https://github.com/WyattBlue/auto-editor",
+      "description_en": "Automatically edit video and audio using silence or loudness analysis.",
+      "description_zh": "根据静音或响度分析自动剪辑视频与音频。",
+      "license": {
+        "label": "Unlicense",
+        "source_url": "https://github.com/WyattBlue/auto-editor/blob/master/LICENSE",
+        "verified": true
+      }
+    },
+    {
+      "number": 20,
+      "name": "RIFE",
+      "repository": "hzwer/ECCV2022-RIFE",
+      "category": "delivery",
+      "source_url": "https://github.com/hzwer/ECCV2022-RIFE",
+      "description_en": "Interpolate video frames for smoother motion and slow motion.",
+      "description_zh": "通过视频补帧获得更流畅的画面与慢动作效果。",
+      "license": {
+        "label": "MIT",
+        "source_url": "https://github.com/hzwer/ECCV2022-RIFE/blob/main/LICENSE",
+        "verified": true
+      }
+    },
+    {
+      "number": 21,
+      "name": "OBS Studio",
+      "repository": "obsproject/obs-studio",
+      "category": "delivery",
+      "source_url": "https://github.com/obsproject/obs-studio",
+      "description_en": "Capture screens and record video.",
+      "description_zh": "采集屏幕并录制视频。",
+      "license": {
+        "label": "GPL-2.0-or-later",
+        "source_url": "https://github.com/obsproject/obs-studio/blob/master/COPYING",
+        "verified": true
+      }
+    },
+    {
+      "number": 22,
+      "name": "FFmpeg",
+      "repository": "FFmpeg/FFmpeg",
+      "category": "delivery",
+      "source_url": "https://github.com/FFmpeg/FFmpeg",
+      "description_en": "Encode, convert, and package the final video.",
+      "description_zh": "完成视频编码、格式转换与最终封装。",
+      "license": {
+        "label": "LGPL-2.1-or-later / optional GPL",
+        "source_url": "https://github.com/FFmpeg/FFmpeg/blob/master/LICENSE.md",
+        "verified": true,
+        "note_en": "Enabled components and external libraries affect the license of the resulting build.",
+        "note_zh": "启用的组件与外部库会影响最终构建产物的许可。"
+      }
+    }
+  ]
+}

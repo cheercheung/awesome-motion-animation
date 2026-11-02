@@ -1,0 +1,30 @@
+name: Suggest a resource / 建议资源
+description: Propose a relevant motion or animation GitHub project.
+title: "[Resource] "
+body:
+  - type: input
+    id: repository
+    attributes:
+      label: Official GitHub repository / 官方仓库
+    validations:
+      required: true
+  - type: textarea
+    id: purpose
+    attributes:
+      label: Concrete use case and category / 具体用途与建议分类
+      description: Explain what this adds and why it belongs in the collection.
+    validations:
+      required: true
+  - type: input
+    id: license
+    attributes:
+      label: Official license or terms URL / 官方许可链接
+    validations:
+      required: true
+  - type: textarea
+    id: affiliation
+    attributes:
+      label: Affiliation and duplicate check / 关联关系与重复检查
+      description: Disclose your relationship to the project and mention any similar existing entry.
+    validations:
+      required: true

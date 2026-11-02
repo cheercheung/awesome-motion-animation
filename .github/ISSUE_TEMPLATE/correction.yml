@@ -1,0 +1,22 @@
+name: Report a correction / 内容纠错
+description: Report an inaccurate description, license note, translation, or broken link.
+title: "[Correction] "
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: Project or section / 项目或章节
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: What should change? / 需要修改什么？
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Official supporting sources / 官方依据
+    validations:
+      required: true
