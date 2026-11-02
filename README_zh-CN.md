@@ -6,10 +6,7 @@
 
 <p>22 个 GitHub 项目，覆盖动画、3D、物理模拟、声音、剪辑与交付。</p>
 
-<a href="LICENSE"><img src="assets/badge-license.svg" alt="Collection license: CC BY 4.0"></a>
-<a href="#animation"><img src="assets/badge-projects.svg" alt="22 GitHub projects"></a>
-<a href="README.md"><img src="assets/badge-en.svg" alt="Read in English"></a>
-<a href="README_zh-CN.md"><img src="assets/badge-zh.svg" alt="阅读简体中文"></a>
+<p><a href="LICENSE"><img src="assets/badge-license.svg" alt="Collection license: CC BY 4.0"></a> <a href="#animation"><img src="assets/badge-projects.svg" alt="22 GitHub projects"></a> <a href="README.md"><img src="assets/badge-en.svg" alt="Read in English"></a> <a href="README_zh-CN.md"><img src="assets/badge-zh.svg" alt="阅读简体中文"></a></p>
 
 <p><a href="#animation">浏览工具合集</a> · <a href="CONTRIBUTING.md">提交资源建议</a></p>
 
@@ -41,13 +38,13 @@
 <a id="overview"></a>
 
 ## 🧭 合集概览
-| 分类 | 项目数 | 主要用途 |
-| --- | ---: | --- |
-| [动画与编排](#animation) | 6 | 从时间轴、关键帧到矢量场景与数据图形，让画面动起来。 |
-| [3D 与场景](#scenes) | 5 | 搭建三维空间，控制摄像机，探索不同的场景渲染方式。 |
-| [物理与手绘](#physics) | 4 | 模拟物理运动，编写材质，为手绘角色赋予动作。 |
-| [声音与剪辑](#audio) | 4 | 完成配音、音频处理、字幕同步与自动剪辑。 |
-| [渲染与交付](#delivery) | 3 | 完成视频补帧、画面采集与最终编码。 |
+| 分类 | 项目数 |
+| --- | ---: |
+| [动画与编排](#animation) | 6 |
+| [3D 与场景](#scenes) | 5 |
+| [物理与手绘](#physics) | 4 |
+| [声音与剪辑](#audio) | 4 |
+| [渲染与交付](#delivery) | 3 |
 
 <a id="getting-started"></a>
 

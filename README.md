@@ -6,10 +6,7 @@
 
 <p>22 GitHub projects for animation, 3D, physics, audio, editing, and delivery.</p>
 
-<a href="LICENSE"><img src="assets/badge-license.svg" alt="Collection license: CC BY 4.0"></a>
-<a href="#animation"><img src="assets/badge-projects.svg" alt="22 GitHub projects"></a>
-<a href="README.md"><img src="assets/badge-en.svg" alt="Read in English"></a>
-<a href="README_zh-CN.md"><img src="assets/badge-zh.svg" alt="阅读简体中文"></a>
+<p><a href="LICENSE"><img src="assets/badge-license.svg" alt="Collection license: CC BY 4.0"></a> <a href="#animation"><img src="assets/badge-projects.svg" alt="22 GitHub projects"></a> <a href="README.md"><img src="assets/badge-en.svg" alt="Read in English"></a> <a href="README_zh-CN.md"><img src="assets/badge-zh.svg" alt="阅读简体中文"></a></p>
 
 <p><a href="#animation">Explore the collection</a> · <a href="CONTRIBUTING.md">Suggest a resource</a></p>
 
@@ -41,13 +38,13 @@ This collection includes open-source projects and source-available software with
 <a id="overview"></a>
 
 ## 🧭 Overview
-| Category | Projects | Use it for |
-| --- | ---: | --- |
-| [Animation & Choreography](#animation) | 6 | Timelines, keyframes, vector scenes, and data-driven graphics. |
-| [3D & Scenes](#scenes) | 5 | Build spatial scenes, control cameras, and explore different rendering approaches. |
-| [Physics & Drawing](#physics) | 4 | Simulate physical motion, write materials, and animate hand-drawn characters. |
-| [Audio & Editing](#audio) | 4 | Add voiceovers, clean up audio, sync subtitles, and automate editing. |
-| [Render & Delivery](#delivery) | 3 | Interpolate frames, capture footage, and encode the final output. |
+| Category | Projects |
+| --- | ---: |
+| [Animation & Choreography](#animation) | 6 |
+| [3D & Scenes](#scenes) | 5 |
+| [Physics & Drawing](#physics) | 4 |
+| [Audio & Editing](#audio) | 4 |
+| [Render & Delivery](#delivery) | 3 |
 
 <a id="getting-started"></a>
 
