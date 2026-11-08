@@ -367,28 +367,6 @@
       "guide_url": "https://opentoonz.readthedocs.io/en/latest/"
     },
     {
-      "number": 16,
-      "name": "Qwen3-TTS",
-      "repository": "QwenLM/Qwen3-TTS",
-      "category": "audio",
-      "source_url": "https://github.com/QwenLM/Qwen3-TTS",
-      "description_en": "Qwen3-TTS is a text-to-speech model family with variants for preset voices, voice design, and reference-based cloning. The upstream quickstart shows how to choose and run the model variant for each task.",
-      "description_zh": "Qwen3-TTS 是一组文字转语音模型，不同版本分别支持预设音色、音色设计或参考音频克隆，上游快速入门给出了各任务的用法",
-      "license": {
-        "label": "Apache-2.0",
-        "source_url": "https://github.com/QwenLM/Qwen3-TTS/blob/main/LICENSE",
-        "verified": true
-      },
-      "banner": {
-        "image_url": "https://opengraph.githubassets.com/77e2240c1ce87a5a0b898992b90e670d5857070c6b0c8f8cfb59f93faceaef82/QwenLM/Qwen3-TTS",
-        "source_page": "https://github.com/QwenLM/Qwen3-TTS",
-        "kind": "github-generated-repository-preview"
-      },
-      "use_case_en": "Audition different narration styles against the same rough cut before settling on a voice.",
-      "use_case_zh": "给同一版粗剪试配不同风格的旁白，再决定用哪种声音",
-      "guide_url": "https://github.com/QwenLM/Qwen3-TTS#quickstart"
-    },
-    {
       "number": 17,
       "name": "Audacity",
       "repository": "audacity/audacity",
@@ -477,28 +455,6 @@
       "use_case_en": "Create a slow-motion insert from a short clip and review fast movement and occlusions for interpolation artifacts.",
       "use_case_zh": "把短片段做成慢动作插镜，再检查快速运动和遮挡处有没有插帧瑕疵",
       "guide_url": "https://github.com/hzwer/ECCV2022-RIFE#cli-usage"
-    },
-    {
-      "number": 21,
-      "name": "OBS Studio",
-      "repository": "obsproject/obs-studio",
-      "category": "delivery",
-      "source_url": "https://github.com/obsproject/obs-studio",
-      "description_en": "OBS Studio records or streams scenes assembled from sources such as a window, display, camera, and microphone. You can switch scenes and mix audio during capture.",
-      "description_zh": "OBS Studio 可把窗口、屏幕、摄像头和麦克风等来源组合成场景，用于录制或直播，采集时可以切换场景并调节声音",
-      "license": {
-        "label": "GPL-2.0-or-later",
-        "source_url": "https://github.com/obsproject/obs-studio/blob/master/COPYING",
-        "verified": true
-      },
-      "banner": {
-        "image_url": "https://repository-images.githubusercontent.com/13233158/2e2fae80-da26-11e9-8da2-e1e0b931a235",
-        "source_page": "https://github.com/obsproject/obs-studio",
-        "kind": "upstream-custom-social-banner"
-      },
-      "use_case_en": "Record a software walkthrough with a webcam inset and a dedicated microphone track.",
-      "use_case_zh": "录制带摄像头小窗和独立麦克风音轨的软件演示",
-      "guide_url": "https://obsproject.com/kb/quick-start-guide"
     },
     {
       "number": 22,

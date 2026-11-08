@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="3840" height="2160" viewBox="0 0 1920 1080" role="img" aria-labelledby="title desc">
 <title id="title">Build a motion studio with code</title>
-<desc id="desc">32 GitHub projects grouped into five production stages, from idea to export.</desc>
+<desc id="desc">30 GitHub projects grouped into five production stages, from idea to export.</desc>
 <defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M1 1L6 4L1 7" fill="none" stroke="#23765F" stroke-width="1.2"/></marker></defs>
 <rect width="1920" height="1080" fill="#F7F8F3"/>
 <style>text{font-family:'Noto Sans CJK SC','PingFang SC',sans-serif;fill:#192C28}.en{font-family:Arial,'Noto Sans CJK SC',sans-serif}.muted{fill:#64726C}.green{fill:#23765F}.sketch{fill:none;stroke:#23765F;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}.fine{fill:none;stroke:#CCD4CD;stroke-width:1.2;stroke-linecap:round}</style>
 <text x="64" y="54" font-size="16" font-weight="700" class="en green" letter-spacing="2.5">MOTION WITH CODE</text>
 <path d="M285 47H352" class="fine" />
-<text x="370" y="54" font-size="16" font-weight="400" class="muted">32 GITHUB REPOS · ONE WORKFLOW MAP</text>
+<text x="370" y="54" font-size="16" font-weight="400" class="muted">30 GITHUB REPOS · ONE WORKFLOW MAP</text>
 <text x="61" y="151" font-size="60" font-weight="700" class="">Build a motion studio with code</text>
 <text x="65" y="206" font-size="25" font-weight="400" class="muted">Animation, 3D, physics, sound, editing, and final delivery.</text>
 <g transform="translate(1490,62)">
@@ -129,30 +129,27 @@
 <text x="1153" y="409" font-size="27" font-weight="700" class="">Audio &amp; Editing</text>
 <text x="1153" y="436" font-size="12" font-weight="700" class="en muted" letter-spacing="1.7">AUDIO &amp; EDITING</text>
 <path d="M1153 452H1478" class="fine" />
-<text x="1153" y="483" font-size="14" font-weight="500" class="en green">16</text>
-<text x="1187" y="483" font-size="24" font-weight="700" class="en">Qwen3-TTS</text>
-<text x="1187" y="502" font-size="16" font-weight="400" class="muted">Expressive speech generation</text>
-<text x="1153" y="527" font-size="14" font-weight="500" class="en green">17</text>
-<text x="1187" y="527" font-size="24" font-weight="700" class="en">Audacity</text>
-<text x="1187" y="546" font-size="16" font-weight="400" class="muted">Audio cleanup and mixing</text>
-<text x="1153" y="571" font-size="14" font-weight="500" class="en green">18</text>
-<text x="1187" y="571" font-size="24" font-weight="700" class="en">Subtitle Edit</text>
-<text x="1187" y="590" font-size="16" font-weight="400" class="muted">Subtitle editing and timing</text>
-<text x="1153" y="615" font-size="14" font-weight="500" class="en green">19</text>
-<text x="1187" y="615" font-size="24" font-weight="700" class="en">Auto-Editor</text>
-<text x="1187" y="634" font-size="16" font-weight="400" class="muted">Automatic silence cuts</text>
-<text x="1153" y="659" font-size="14" font-weight="500" class="en green">29</text>
-<text x="1187" y="659" font-size="24" font-weight="700" class="en">OpenCut</text>
-<text x="1187" y="678" font-size="16" font-weight="400" class="muted">Browser timeline editing</text>
-<text x="1153" y="703" font-size="14" font-weight="500" class="en green">30</text>
-<text x="1187" y="703" font-size="24" font-weight="700" class="en">LosslessCut</text>
-<text x="1187" y="722" font-size="16" font-weight="400" class="muted">Rough cuts without re-encoding</text>
-<text x="1153" y="747" font-size="14" font-weight="500" class="en green">31</text>
-<text x="1187" y="747" font-size="24" font-weight="700" class="en">video-use</text>
-<text x="1187" y="766" font-size="16" font-weight="400" class="muted">Transcript-driven editing</text>
-<text x="1153" y="791" font-size="14" font-weight="500" class="en green">32</text>
-<text x="1187" y="791" font-size="24" font-weight="700" class="en">Palmier Pro</text>
-<text x="1187" y="810" font-size="16" font-weight="400" class="muted">macOS timeline with MCP</text>
+<text x="1153" y="483" font-size="14" font-weight="500" class="en green">17</text>
+<text x="1187" y="483" font-size="24" font-weight="700" class="en">Audacity</text>
+<text x="1187" y="502" font-size="16" font-weight="400" class="muted">Audio cleanup and mixing</text>
+<text x="1153" y="527" font-size="14" font-weight="500" class="en green">18</text>
+<text x="1187" y="527" font-size="24" font-weight="700" class="en">Subtitle Edit</text>
+<text x="1187" y="546" font-size="16" font-weight="400" class="muted">Subtitle editing and timing</text>
+<text x="1153" y="571" font-size="14" font-weight="500" class="en green">19</text>
+<text x="1187" y="571" font-size="24" font-weight="700" class="en">Auto-Editor</text>
+<text x="1187" y="590" font-size="16" font-weight="400" class="muted">Automatic silence cuts</text>
+<text x="1153" y="615" font-size="14" font-weight="500" class="en green">29</text>
+<text x="1187" y="615" font-size="24" font-weight="700" class="en">OpenCut</text>
+<text x="1187" y="634" font-size="16" font-weight="400" class="muted">Browser timeline editing</text>
+<text x="1153" y="659" font-size="14" font-weight="500" class="en green">30</text>
+<text x="1187" y="659" font-size="24" font-weight="700" class="en">LosslessCut</text>
+<text x="1187" y="678" font-size="16" font-weight="400" class="muted">Rough cuts without re-encoding</text>
+<text x="1153" y="703" font-size="14" font-weight="500" class="en green">31</text>
+<text x="1187" y="703" font-size="24" font-weight="700" class="en">video-use</text>
+<text x="1187" y="722" font-size="16" font-weight="400" class="muted">Transcript-driven editing</text>
+<text x="1153" y="747" font-size="14" font-weight="500" class="en green">32</text>
+<text x="1187" y="747" font-size="24" font-weight="700" class="en">Palmier Pro</text>
+<text x="1187" y="766" font-size="16" font-weight="400" class="muted">macOS timeline with MCP</text>
 <path d="M1497 290V862" class="fine" />
 <g transform="translate(1516,290)">
 <rect x="3" y="1" width="112" height="66" rx="3" class="sketch"/>
@@ -166,12 +163,9 @@
 <text x="1516" y="483" font-size="14" font-weight="500" class="en green">20</text>
 <text x="1550" y="483" font-size="24" font-weight="700" class="en">RIFE</text>
 <text x="1550" y="502" font-size="16" font-weight="400" class="muted">Frame interpolation and slow motion</text>
-<text x="1516" y="527" font-size="14" font-weight="500" class="en green">21</text>
-<text x="1550" y="527" font-size="24" font-weight="700" class="en">OBS Studio</text>
-<text x="1550" y="546" font-size="16" font-weight="400" class="muted">Screen capture and recording</text>
-<text x="1516" y="571" font-size="14" font-weight="500" class="en green">22</text>
-<text x="1550" y="571" font-size="24" font-weight="700" class="en">FFmpeg</text>
-<text x="1550" y="590" font-size="16" font-weight="400" class="muted">Encoding and final delivery</text>
+<text x="1516" y="527" font-size="14" font-weight="500" class="en green">22</text>
+<text x="1550" y="527" font-size="24" font-weight="700" class="en">FFmpeg</text>
+<text x="1550" y="546" font-size="16" font-weight="400" class="muted">Encoding and final delivery</text>
 <g transform="translate(801,769)">
 <path d="M0 55H280" class="fine" />
 <path d="M33 55L71 0L109 55ZM71 0L74 55M46 36H96M55 22H86" class="fine" />

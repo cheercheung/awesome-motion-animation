@@ -2,13 +2,13 @@
 
 <div align="center">
 
-<a href="assets/infographic-zh-CN.png"><img src="assets/infographic-zh-CN.png" width="760" alt="32 个动效与动画 GitHub 项目的五分类信息图，点击查看高清版"></a>
+<a href="assets/infographic-zh-CN.png"><img src="assets/infographic-zh-CN.png" width="760" alt="30 个动效与动画 GitHub 项目的五分类信息图，点击查看高清版"></a>
 
 <h1>用代码，搭一间动效工作室</h1>
 
-<p>32 个 GitHub 项目，覆盖动画、3D、物理模拟、声音、剪辑与交付</p>
+<p>30 个 GitHub 项目，覆盖动画、3D、物理模拟、声音、剪辑与交付</p>
 
-<p><a href="LICENSE"><img src="assets/badge-license.svg" alt="Collection license: CC BY 4.0"></a> <a href="#animation"><img src="assets/badge-projects.svg" alt="32 GitHub projects"></a> <a href="README.md"><img src="assets/badge-en.svg" alt="Read in English"></a> <a href="README_zh-CN.md"><img src="assets/badge-zh.svg" alt="阅读简体中文"></a></p>
+<p><a href="LICENSE"><img src="assets/badge-license.svg" alt="Collection license: CC BY 4.0"></a> <a href="#animation"><img src="assets/badge-projects.svg" alt="30 GitHub projects"></a> <a href="README.md"><img src="assets/badge-en.svg" alt="Read in English"></a> <a href="README_zh-CN.md"><img src="assets/badge-zh.svg" alt="阅读简体中文"></a></p>
 
 <p><a href="#animation">浏览工具合集</a> · <a href="CONTRIBUTING.md">提交资源建议</a></p>
 
@@ -45,8 +45,8 @@
 | [动画与编排](#animation) | 9 |
 | [3D 与场景](#scenes) | 7 |
 | [物理与手绘](#physics) | 5 |
-| [声音与剪辑](#audio) | 8 |
-| [渲染与交付](#delivery) | 3 |
+| [声音与剪辑](#audio) | 7 |
+| [渲染与交付](#delivery) | 2 |
 
 <a id="getting-started"></a>
 
@@ -362,18 +362,6 @@ ClaudeAnimationBase 是用 p5.js 和 p5.brush 搭的起步套件，提供可复�
 
 完成配音、音频处理、字幕同步与自动剪辑。
 
-<a id="project-16"></a>
-
-### 16 · [Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)
-
-Qwen3-TTS 是一组文字转语音模型，不同版本分别支持预设音色、音色设计或参考音频克隆，上游快速入门给出了各任务的用法
-
-**制作场景** — 给同一版粗剪试配不同风格的旁白，再决定用哪种声音
-
-[上游指南](https://github.com/QwenLM/Qwen3-TTS#quickstart) · **上游许可** [Apache-2.0](https://github.com/QwenLM/Qwen3-TTS/blob/main/LICENSE)
-
-<a href="https://github.com/QwenLM/Qwen3-TTS"><img src="https://opengraph.githubassets.com/77e2240c1ce87a5a0b898992b90e670d5857070c6b0c8f8cfb59f93faceaef82/QwenLM/Qwen3-TTS" alt="Qwen3-TTS — GitHub 官方仓库预览图，点击访问仓库" width="760"></a>
-
 <a id="project-17"></a>
 
 ### 17 · [Audacity](https://github.com/audacity/audacity)
@@ -470,7 +458,7 @@ Palmier Pro 是支持 MCP 和编辑器内素材生成的 macOS 时间线编辑�
 
 ## 📦 渲染与交付
 
-完成视频补帧、画面采集与最终编码。
+完成视频补帧与最终编码
 
 <a id="project-20"></a>
 
@@ -483,18 +471,6 @@ RIFE 在已有画面之间预测中间帧，推理脚本可处理视频或图片
 [上游指南](https://github.com/hzwer/ECCV2022-RIFE#cli-usage) · **上游许可** [MIT](https://github.com/hzwer/ECCV2022-RIFE/blob/main/LICENSE)
 
 <a href="https://github.com/hzwer/ECCV2022-RIFE"><img src="https://opengraph.githubassets.com/6cbb4110b9a5ca968f5f26919056594374c1f523b6cab86b418665d4491f68b1/hzwer/ECCV2022-RIFE" alt="RIFE — GitHub 官方仓库预览图，点击访问仓库" width="760"></a>
-
-<a id="project-21"></a>
-
-### 21 · [OBS Studio](https://github.com/obsproject/obs-studio)
-
-OBS Studio 可把窗口、屏幕、摄像头和麦克风等来源组合成场景，用于录制或直播，采集时可以切换场景并调节声音
-
-**制作场景** — 录制带摄像头小窗和独立麦克风音轨的软件演示
-
-[上游指南](https://obsproject.com/kb/quick-start-guide) · **上游许可** [GPL-2.0-or-later](https://github.com/obsproject/obs-studio/blob/master/COPYING)
-
-<a href="https://github.com/obsproject/obs-studio"><img src="https://repository-images.githubusercontent.com/13233158/2e2fae80-da26-11e9-8da2-e1e0b931a235" alt="OBS Studio — 官方项目 banner，点击访问仓库" width="760"></a>
 
 <a id="project-22"></a>
 
@@ -537,6 +513,6 @@ FFmpeg 是读写、滤镜处理、编码和封装媒体流的命令行工具，�
 
 感谢所有上游项目的作者、贡献者与维护者。工具的开发、支持与许可由各自项目负责。
 
-[Remotion](https://github.com/remotion-dev/remotion), [Anime.js](https://github.com/juliangarnier/anime), [mo.js](https://github.com/mojs/mojs), [Theatre.js](https://github.com/theatre-js/theatre), [Two.js](https://github.com/jonobr1/two.js), [D3](https://github.com/d3/d3), [Three.js](https://github.com/mrdoob/three.js), [Babylon.js](https://github.com/BabylonJS/Babylon.js), [Drei](https://github.com/pmndrs/drei), [Spark](https://github.com/sparkjsdev/spark), [cables.gl](https://github.com/cables-gl/cables_electron), [Taichi](https://github.com/taichi-dev/taichi), [SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH), [Custom Shader Material](https://github.com/FarazzShaikh/THREE-CustomShaderMaterial), [OpenToonz](https://github.com/opentoonz/opentoonz), [Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS), [Audacity](https://github.com/audacity/audacity), [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit), [Auto-Editor](https://github.com/WyattBlue/auto-editor), [RIFE](https://github.com/hzwer/ECCV2022-RIFE), [OBS Studio](https://github.com/obsproject/obs-studio), [FFmpeg](https://github.com/FFmpeg/FFmpeg), [HyperFrames](https://github.com/heygen-com/hyperframes), [cinetic](https://github.com/Leonxlnx/cinetic), [Guizang Product Video Skill](https://github.com/op7418/guizang-product-video-skill), [MCP for Blender](https://github.com/ahujasid/mcp-for-blender), [Motion2MixamoRig](https://github.com/MaxLiu22/Motion2MixamoRig), [ClaudeAnimationBase](https://github.com/JohnHeibel/ClaudeAnimationBase), [OpenCut](https://github.com/OpenCut-app/OpenCut), [LosslessCut](https://github.com/mifi/lossless-cut), [video-use](https://github.com/browser-use/video-use), [Palmier Pro](https://github.com/palmier-io/palmier-pro)
+[Remotion](https://github.com/remotion-dev/remotion), [Anime.js](https://github.com/juliangarnier/anime), [mo.js](https://github.com/mojs/mojs), [Theatre.js](https://github.com/theatre-js/theatre), [Two.js](https://github.com/jonobr1/two.js), [D3](https://github.com/d3/d3), [Three.js](https://github.com/mrdoob/three.js), [Babylon.js](https://github.com/BabylonJS/Babylon.js), [Drei](https://github.com/pmndrs/drei), [Spark](https://github.com/sparkjsdev/spark), [cables.gl](https://github.com/cables-gl/cables_electron), [Taichi](https://github.com/taichi-dev/taichi), [SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH), [Custom Shader Material](https://github.com/FarazzShaikh/THREE-CustomShaderMaterial), [OpenToonz](https://github.com/opentoonz/opentoonz), [Audacity](https://github.com/audacity/audacity), [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit), [Auto-Editor](https://github.com/WyattBlue/auto-editor), [RIFE](https://github.com/hzwer/ECCV2022-RIFE), [FFmpeg](https://github.com/FFmpeg/FFmpeg), [HyperFrames](https://github.com/heygen-com/hyperframes), [cinetic](https://github.com/Leonxlnx/cinetic), [Guizang Product Video Skill](https://github.com/op7418/guizang-product-video-skill), [MCP for Blender](https://github.com/ahujasid/mcp-for-blender), [Motion2MixamoRig](https://github.com/MaxLiu22/Motion2MixamoRig), [ClaudeAnimationBase](https://github.com/JohnHeibel/ClaudeAnimationBase), [OpenCut](https://github.com/OpenCut-app/OpenCut), [LosslessCut](https://github.com/mifi/lossless-cut), [video-use](https://github.com/browser-use/video-use), [Palmier Pro](https://github.com/palmier-io/palmier-pro)
 
 整理：**@林悦己 cheer**

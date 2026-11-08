@@ -2,13 +2,13 @@
 
 <div align="center">
 
-<a href="assets/infographic-en.png"><img src="assets/infographic-en.png" width="760" alt="Infographic of 32 motion and animation GitHub projects in five categories; open full resolution"></a>
+<a href="assets/infographic-en.png"><img src="assets/infographic-en.png" width="760" alt="Infographic of 30 motion and animation GitHub projects in five categories; open full resolution"></a>
 
 <h1>Awesome Motion & Animation</h1>
 
-<p>32 GitHub projects for animation, 3D, physics, audio, editing, and delivery.</p>
+<p>30 GitHub projects for animation, 3D, physics, audio, editing, and delivery.</p>
 
-<p><a href="LICENSE"><img src="assets/badge-license.svg" alt="Collection license: CC BY 4.0"></a> <a href="#animation"><img src="assets/badge-projects.svg" alt="32 GitHub projects"></a> <a href="README.md"><img src="assets/badge-en.svg" alt="Read in English"></a> <a href="README_zh-CN.md"><img src="assets/badge-zh.svg" alt="阅读简体中文"></a></p>
+<p><a href="LICENSE"><img src="assets/badge-license.svg" alt="Collection license: CC BY 4.0"></a> <a href="#animation"><img src="assets/badge-projects.svg" alt="30 GitHub projects"></a> <a href="README.md"><img src="assets/badge-en.svg" alt="Read in English"></a> <a href="README_zh-CN.md"><img src="assets/badge-zh.svg" alt="阅读简体中文"></a></p>
 
 <p><a href="#animation">Explore the collection</a> · <a href="CONTRIBUTING.md">Suggest a resource</a></p>
 
@@ -45,8 +45,8 @@ This collection includes open-source projects and source-available software with
 | [Animation & Choreography](#animation) | 9 |
 | [3D & Scenes](#scenes) | 7 |
 | [Physics & Drawing](#physics) | 5 |
-| [Audio & Editing](#audio) | 8 |
-| [Render & Delivery](#delivery) | 3 |
+| [Audio & Editing](#audio) | 7 |
+| [Render & Delivery](#delivery) | 2 |
 
 <a id="getting-started"></a>
 
@@ -362,18 +362,6 @@ ClaudeAnimationBase is a p5.js and p5.brush starter kit with reusable character 
 
 Add voiceovers, clean up audio, sync subtitles, and automate editing.
 
-<a id="project-16"></a>
-
-### 16 · [Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)
-
-Qwen3-TTS is a text-to-speech model family with variants for preset voices, voice design, and reference-based cloning. The upstream quickstart shows how to choose and run the model variant for each task.
-
-**In production** — Audition different narration styles against the same rough cut before settling on a voice.
-
-[Upstream guide](https://github.com/QwenLM/Qwen3-TTS#quickstart) · **License** [Apache-2.0](https://github.com/QwenLM/Qwen3-TTS/blob/main/LICENSE)
-
-<a href="https://github.com/QwenLM/Qwen3-TTS"><img src="https://opengraph.githubassets.com/77e2240c1ce87a5a0b898992b90e670d5857070c6b0c8f8cfb59f93faceaef82/QwenLM/Qwen3-TTS" alt="Qwen3-TTS — official GitHub repository preview; open repository" width="760"></a>
-
 <a id="project-17"></a>
 
 ### 17 · [Audacity](https://github.com/audacity/audacity)
@@ -470,7 +458,7 @@ Published source is GPLv3. Binary releases after v0.7.6 are distributed under a 
 
 ## 📦 Render & Delivery
 
-Interpolate frames, capture footage, and encode the final output.
+Interpolate frames and encode the final output.
 
 <a id="project-20"></a>
 
@@ -483,18 +471,6 @@ RIFE estimates intermediate frames between existing images. Its inference script
 [Upstream guide](https://github.com/hzwer/ECCV2022-RIFE#cli-usage) · **License** [MIT](https://github.com/hzwer/ECCV2022-RIFE/blob/main/LICENSE)
 
 <a href="https://github.com/hzwer/ECCV2022-RIFE"><img src="https://opengraph.githubassets.com/6cbb4110b9a5ca968f5f26919056594374c1f523b6cab86b418665d4491f68b1/hzwer/ECCV2022-RIFE" alt="RIFE — official GitHub repository preview; open repository" width="760"></a>
-
-<a id="project-21"></a>
-
-### 21 · [OBS Studio](https://github.com/obsproject/obs-studio)
-
-OBS Studio records or streams scenes assembled from sources such as a window, display, camera, and microphone. You can switch scenes and mix audio during capture.
-
-**In production** — Record a software walkthrough with a webcam inset and a dedicated microphone track.
-
-[Upstream guide](https://obsproject.com/kb/quick-start-guide) · **License** [GPL-2.0-or-later](https://github.com/obsproject/obs-studio/blob/master/COPYING)
-
-<a href="https://github.com/obsproject/obs-studio"><img src="https://repository-images.githubusercontent.com/13233158/2e2fae80-da26-11e9-8da2-e1e0b931a235" alt="OBS Studio — official project banner; open repository" width="760"></a>
 
 <a id="project-22"></a>
 
@@ -537,6 +513,6 @@ Start by [reading the contribution guide](CONTRIBUTING.md), or [suggest a projec
 
 Thanks to the authors, contributors, and maintainers of every upstream project. Development, support, and licensing remain with each project.
 
-[Remotion](https://github.com/remotion-dev/remotion), [Anime.js](https://github.com/juliangarnier/anime), [mo.js](https://github.com/mojs/mojs), [Theatre.js](https://github.com/theatre-js/theatre), [Two.js](https://github.com/jonobr1/two.js), [D3](https://github.com/d3/d3), [Three.js](https://github.com/mrdoob/three.js), [Babylon.js](https://github.com/BabylonJS/Babylon.js), [Drei](https://github.com/pmndrs/drei), [Spark](https://github.com/sparkjsdev/spark), [cables.gl](https://github.com/cables-gl/cables_electron), [Taichi](https://github.com/taichi-dev/taichi), [SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH), [Custom Shader Material](https://github.com/FarazzShaikh/THREE-CustomShaderMaterial), [OpenToonz](https://github.com/opentoonz/opentoonz), [Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS), [Audacity](https://github.com/audacity/audacity), [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit), [Auto-Editor](https://github.com/WyattBlue/auto-editor), [RIFE](https://github.com/hzwer/ECCV2022-RIFE), [OBS Studio](https://github.com/obsproject/obs-studio), [FFmpeg](https://github.com/FFmpeg/FFmpeg), [HyperFrames](https://github.com/heygen-com/hyperframes), [cinetic](https://github.com/Leonxlnx/cinetic), [Guizang Product Video Skill](https://github.com/op7418/guizang-product-video-skill), [MCP for Blender](https://github.com/ahujasid/mcp-for-blender), [Motion2MixamoRig](https://github.com/MaxLiu22/Motion2MixamoRig), [ClaudeAnimationBase](https://github.com/JohnHeibel/ClaudeAnimationBase), [OpenCut](https://github.com/OpenCut-app/OpenCut), [LosslessCut](https://github.com/mifi/lossless-cut), [video-use](https://github.com/browser-use/video-use), [Palmier Pro](https://github.com/palmier-io/palmier-pro).
+[Remotion](https://github.com/remotion-dev/remotion), [Anime.js](https://github.com/juliangarnier/anime), [mo.js](https://github.com/mojs/mojs), [Theatre.js](https://github.com/theatre-js/theatre), [Two.js](https://github.com/jonobr1/two.js), [D3](https://github.com/d3/d3), [Three.js](https://github.com/mrdoob/three.js), [Babylon.js](https://github.com/BabylonJS/Babylon.js), [Drei](https://github.com/pmndrs/drei), [Spark](https://github.com/sparkjsdev/spark), [cables.gl](https://github.com/cables-gl/cables_electron), [Taichi](https://github.com/taichi-dev/taichi), [SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH), [Custom Shader Material](https://github.com/FarazzShaikh/THREE-CustomShaderMaterial), [OpenToonz](https://github.com/opentoonz/opentoonz), [Audacity](https://github.com/audacity/audacity), [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit), [Auto-Editor](https://github.com/WyattBlue/auto-editor), [RIFE](https://github.com/hzwer/ECCV2022-RIFE), [FFmpeg](https://github.com/FFmpeg/FFmpeg), [HyperFrames](https://github.com/heygen-com/hyperframes), [cinetic](https://github.com/Leonxlnx/cinetic), [Guizang Product Video Skill](https://github.com/op7418/guizang-product-video-skill), [MCP for Blender](https://github.com/ahujasid/mcp-for-blender), [Motion2MixamoRig](https://github.com/MaxLiu22/Motion2MixamoRig), [ClaudeAnimationBase](https://github.com/JohnHeibel/ClaudeAnimationBase), [OpenCut](https://github.com/OpenCut-app/OpenCut), [LosslessCut](https://github.com/mifi/lossless-cut), [video-use](https://github.com/browser-use/video-use), [Palmier Pro](https://github.com/palmier-io/palmier-pro).
 
 Curated by **@林悦己 cheer**.
