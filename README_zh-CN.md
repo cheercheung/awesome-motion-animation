@@ -2,13 +2,13 @@
 
 <div align="center">
 
-<a href="assets/infographic-zh-CN.png"><img src="assets/infographic-zh-CN.png" width="760" alt="22 个动效与动画 GitHub 项目的五分类信息图，点击查看高清版"></a>
+<a href="assets/infographic-zh-CN.png"><img src="assets/infographic-zh-CN.png" width="760" alt="32 个动效与动画 GitHub 项目的五分类信息图，点击查看高清版"></a>
 
 <h1>用代码，搭一间动效工作室</h1>
 
-<p>22 个 GitHub 项目，覆盖动画、3D、物理模拟、声音、剪辑与交付。</p>
+<p>32 个 GitHub 项目，覆盖动画、3D、物理模拟、声音、剪辑与交付</p>
 
-<p><a href="LICENSE"><img src="assets/badge-license.svg" alt="Collection license: CC BY 4.0"></a> <a href="#animation"><img src="assets/badge-projects.svg" alt="22 GitHub projects"></a> <a href="README.md"><img src="assets/badge-en.svg" alt="Read in English"></a> <a href="README_zh-CN.md"><img src="assets/badge-zh.svg" alt="阅读简体中文"></a></p>
+<p><a href="LICENSE"><img src="assets/badge-license.svg" alt="Collection license: CC BY 4.0"></a> <a href="#animation"><img src="assets/badge-projects.svg" alt="32 GitHub projects"></a> <a href="README.md"><img src="assets/badge-en.svg" alt="Read in English"></a> <a href="README_zh-CN.md"><img src="assets/badge-zh.svg" alt="阅读简体中文"></a></p>
 
 <p><a href="#animation">浏览工具合集</a> · <a href="CONTRIBUTING.md">提交资源建议</a></p>
 
@@ -42,10 +42,10 @@
 ## 🧭 合集概览
 | 分类 | 项目数 |
 | --- | ---: |
-| [动画与编排](#animation) | 6 |
-| [3D 与场景](#scenes) | 5 |
-| [物理与手绘](#physics) | 4 |
-| [声音与剪辑](#audio) | 4 |
+| [动画与编排](#animation) | 9 |
+| [3D 与场景](#scenes) | 7 |
+| [物理与手绘](#physics) | 5 |
+| [声音与剪辑](#audio) | 8 |
 | [渲染与交付](#delivery) | 3 |
 
 <a id="getting-started"></a>
@@ -59,6 +59,12 @@
 
 合集用于工具发现与选型；你可以按需组合，无须一次安装全部项目。
 
+
+也可以按当前任务直接选工具：
+
+- **用 HTML 制作和渲染动效:** [HyperFrames](#project-23)
+- **制作产品宣传片:** [cinetic](#project-24) 或 [Guizang Product Video Skill](#project-25)
+- **粗剪素材:** [LosslessCut](#project-30) 适合保留原画质的选段，[video-use](#project-31) 适合按转录文本剪辑
 
 <a id="workflow"></a>
 
@@ -138,6 +144,40 @@ core 运行时与 studio 可视化编辑器使用不同许可，请按实际组�
 
 **上游许可说明:** [ISC](https://github.com/d3/d3/blob/main/LICENSE).
 
+<a id="project-23"></a>
+
+### 23 · [HyperFrames](https://github.com/heygen-com/hyperframes)
+
+<a href="https://github.com/heygen-com/hyperframes"><img src="https://opengraph.githubassets.com/6e0fcb958680bae36cd27d37c5186f86a71d55124942594928be8f96b16407cc/heygen-com/hyperframes" alt="HyperFrames — GitHub 官方仓库预览图，点击访问仓库" width="760"></a>
+
+用 HTML/CSS 制作片头、叠加层和动态图形，再通过 CLI 渲染成 MP4
+
+**上游许可说明:** [Apache-2.0](https://github.com/heygen-com/hyperframes/blob/main/LICENSE)
+
+<a id="project-24"></a>
+
+### 24 · [cinetic](https://github.com/Leonxlnx/cinetic)
+
+<a href="https://github.com/Leonxlnx/cinetic"><img src="https://opengraph.githubassets.com/6243e867f2658391808e583356ce37ce36c9eb7b16410f04bbc75ef6680c2942/Leonxlnx/cinetic" alt="cinetic — GitHub 官方仓库预览图，点击访问仓库" width="760"></a>
+
+让编码代理用 Remotion 或 HyperFrames 制作产品发布片或更新片，覆盖文案、文字动效到渲染
+
+**上游许可说明:** [MIT](https://github.com/Leonxlnx/cinetic/blob/main/LICENSE)
+
+默认渲染器 Remotion 适用[独立许可条款](https://github.com/remotion-dev/remotion/blob/main/LICENSE.md)
+
+<a id="project-25"></a>
+
+### 25 · [Guizang Product Video Skill](https://github.com/op7418/guizang-product-video-skill)
+
+<a href="https://github.com/op7418/guizang-product-video-skill"><img src="https://opengraph.githubassets.com/c93b43abfb6d19922aff54dd39dab02d60b3b95a63a942a259fbaeeb83d3bcc0/op7418/guizang-product-video-skill" alt="Guizang Product Video Skill — GitHub 官方仓库预览图，点击访问仓库" width="760"></a>
+
+复用真实的软件功能与界面组件，通过分镜、代码动效和声音设计制作版本更新片
+
+**上游许可说明:** [AGPL-3.0](https://github.com/op7418/guizang-product-video-skill/blob/main/LICENSE)
+
+内置的 CodePilot 回退素材保留 [Business Source License 1.1 条款](https://github.com/op7418/guizang-product-video-skill/blob/main/assets/fallback/LICENSE.CodePilot)
+
 <a id="scenes"></a>
 
 ## 🧊 3D 与场景
@@ -194,6 +234,28 @@ core 运行时与 studio 可视化编辑器使用不同许可，请按实际组�
 
 **上游许可说明:** [MIT](https://github.com/cables-gl/cables_electron/blob/develop/LICENCE).
 
+<a id="project-26"></a>
+
+### 26 · [MCP for Blender](https://github.com/ahujasid/mcp-for-blender)
+
+<a href="https://github.com/ahujasid/mcp-for-blender"><img src="https://opengraph.githubassets.com/d0660785425b79050202708b4c7d9c4ba9cc60fc5c8ed3daee24bc87a00e6bbb/ahujasid/mcp-for-blender" alt="MCP for Blender — GitHub 官方仓库预览图，点击访问仓库" width="760"></a>
+
+将 MCP 客户端连接到 Blender，在预演阶段搭建镜头、调整相机并查看场景预览
+
+**上游许可说明:** [MIT](https://github.com/ahujasid/mcp-for-blender/blob/main/LICENSE)
+
+<a id="project-27"></a>
+
+### 27 · [Motion2MixamoRig](https://github.com/MaxLiu22/Motion2MixamoRig)
+
+<a href="https://github.com/MaxLiu22/Motion2MixamoRig"><img src="https://opengraph.githubassets.com/f92b2987f7f19941685f12d63ea735fdfa122bfaccffb50cc9aaa1f1f4b386c7/MaxLiu22/Motion2MixamoRig" alt="Motion2MixamoRig — GitHub 官方仓库预览图，点击访问仓库" width="760"></a>
+
+从视频中提取人体动作并重定向到 Mixamo 骨骼角色，供 3D 场景使用
+
+**上游许可说明:** [Apache-2.0 (code)](https://github.com/MaxLiu22/Motion2MixamoRig/blob/main/LICENSE)
+
+下载的模型、权重和角色素材适用[独立条款](https://github.com/MaxLiu22/Motion2MixamoRig#license)，SMPL-X 的默认许可限制商业使用
+
 <a id="physics"></a>
 
 ## 🌊 物理与手绘
@@ -241,6 +303,16 @@ core 运行时与 studio 可视化编辑器使用不同许可，请按实际组�
 **上游许可说明:** [BSD-3-Clause + third-party notices](https://github.com/opentoonz/opentoonz/blob/master/LICENSE.txt).
 
 第三方库与随附笔刷适用各自的许可条款。
+
+<a id="project-28"></a>
+
+### 28 · [ClaudeAnimationBase](https://github.com/JohnHeibel/ClaudeAnimationBase)
+
+<a href="https://github.com/JohnHeibel/ClaudeAnimationBase"><img src="https://opengraph.githubassets.com/fa387dce7cb66fbf4d230c914ea4c3c1975b589de9b29283b56a47e6a916e061/JohnHeibel/ClaudeAnimationBase" alt="ClaudeAnimationBase — GitHub 官方仓库预览图，点击访问仓库" width="760"></a>
+
+用 p5.js 和 p5.brush 制作手绘风格的角色短片，复用现成的表情并逐镜头渲染为 MP4
+
+**上游许可说明:** [MIT](https://github.com/JohnHeibel/ClaudeAnimationBase/blob/main/LICENSE)
 
 <a id="audio"></a>
 
@@ -290,6 +362,52 @@ core 运行时与 studio 可视化编辑器使用不同许可，请按实际组�
 
 **上游许可说明:** [Unlicense](https://github.com/WyattBlue/auto-editor/blob/master/LICENSE).
 
+<a id="project-29"></a>
+
+### 29 · [OpenCut](https://github.com/OpenCut-app/OpenCut)
+
+<a href="https://github.com/OpenCut-app/OpenCut"><img src="https://opengraph.githubassets.com/5a57619992da9efc4dcf7869aabf5cb091e376aa583a711ff392bb9f7896987c/OpenCut-app/OpenCut" alt="OpenCut — GitHub 官方仓库预览图，点击访问仓库" width="760"></a>
+
+用 OpenCut Classic 在浏览器时间线上剪辑素材，并在主仓库跟进新版编辑器
+
+**上游许可说明:** [MIT](https://github.com/OpenCut-app/OpenCut/blob/main/LICENSE)
+
+主仓库正在重写，目前可用的浏览器编辑器见 [OpenCut Classic](https://github.com/opencut-app/opencut-classic)
+
+<a id="project-30"></a>
+
+### 30 · [LosslessCut](https://github.com/mifi/lossless-cut)
+
+<a href="https://github.com/mifi/lossless-cut"><img src="https://opengraph.githubassets.com/0ef4c12c8fc988a82b1540dd1871c725836935904ffe8bb073de6e3cc8c56776/mifi/lossless-cut" alt="LosslessCut — GitHub 官方仓库预览图，点击访问仓库" width="760"></a>
+
+从相机素材中挑选可用镜头并做粗剪，在源格式和切点允许时跳过重新编码
+
+**上游许可说明:** [GPL-2.0-only](https://github.com/mifi/lossless-cut/blob/master/LICENSE)
+
+<a id="project-31"></a>
+
+### 31 · [video-use](https://github.com/browser-use/video-use)
+
+<a href="https://github.com/browser-use/video-use"><img src="https://opengraph.githubassets.com/e044180e0445e87a5dac37fe37a14c9470c7f102da044a18d09fc610dc6fb3dd/browser-use/video-use" alt="video-use — GitHub 官方仓库预览图，点击访问仓库" width="760"></a>
+
+让剪辑代理依据逐词转录选择片段、删除口头填充词并烧录字幕
+
+**上游许可说明:** [MIT](https://github.com/browser-use/video-use/blob/main/LICENSE)
+
+文档中的转录流程需要 ElevenLabs API Key
+
+<a id="project-32"></a>
+
+### 32 · [Palmier Pro](https://github.com/palmier-io/palmier-pro)
+
+<a href="https://github.com/palmier-io/palmier-pro"><img src="https://opengraph.githubassets.com/9d76ad33143b460b80e11ea49cb59273868e211977e4bb11472dd7b00e2c3092/palmier-io/palmier-pro" alt="Palmier Pro — GitHub 官方仓库预览图，点击访问仓库" width="760"></a>
+
+在 macOS 时间线上通过 MCP 让代理参与剪辑，并在编辑器内生成素材
+
+**上游许可说明:** [GPL-3.0 (source)](https://github.com/palmier-io/palmier-pro/blob/main/LICENSE)
+
+公开源码使用 GPLv3，v0.7.6 之后的二进制发行版使用[专有许可](https://github.com/palmier-io/palmier-pro/blob/main/BINARY_LICENSE.md)
+
 <a id="delivery"></a>
 
 ## 📦 渲染与交付
@@ -338,7 +456,7 @@ core 运行时与 studio 可视化编辑器使用不同许可，请按实际组�
 
 项目 banner 优先使用其 GitHub 页面设置的官方分享图；没有自定义分享图时使用 GitHub 生成的仓库预览卡。所有图片均可点击访问对应项目。[查看封面来源](docs/media-sources.md)。这些上游图片不属于本合集的 CC BY 4.0 授权范围。
 
-项目来源与许可信息核对日期：**2026-11-02**。这些标签用于导航，完整条款以上游文件为准。
+项目来源与许可信息核对日期：**2026-11-02**（01–22）、**2026-11-08**（23–32）。许可标签用于导航，完整条款以上游文件为准
 
 
 <a id="contributing"></a>
@@ -355,6 +473,6 @@ core 运行时与 studio 可视化编辑器使用不同许可，请按实际组�
 
 感谢所有上游项目的作者、贡献者与维护者。工具的开发、支持与许可由各自项目负责。
 
-[Remotion](https://github.com/remotion-dev/remotion), [Anime.js](https://github.com/juliangarnier/anime), [mo.js](https://github.com/mojs/mojs), [Theatre.js](https://github.com/theatre-js/theatre), [Two.js](https://github.com/jonobr1/two.js), [D3](https://github.com/d3/d3), [Three.js](https://github.com/mrdoob/three.js), [Babylon.js](https://github.com/BabylonJS/Babylon.js), [Drei](https://github.com/pmndrs/drei), [Spark](https://github.com/sparkjsdev/spark), [cables.gl](https://github.com/cables-gl/cables_electron), [Taichi](https://github.com/taichi-dev/taichi), [SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH), [Custom Shader Material](https://github.com/FarazzShaikh/THREE-CustomShaderMaterial), [OpenToonz](https://github.com/opentoonz/opentoonz), [Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS), [Audacity](https://github.com/audacity/audacity), [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit), [Auto-Editor](https://github.com/WyattBlue/auto-editor), [RIFE](https://github.com/hzwer/ECCV2022-RIFE), [OBS Studio](https://github.com/obsproject/obs-studio), [FFmpeg](https://github.com/FFmpeg/FFmpeg).
+[Remotion](https://github.com/remotion-dev/remotion), [Anime.js](https://github.com/juliangarnier/anime), [mo.js](https://github.com/mojs/mojs), [Theatre.js](https://github.com/theatre-js/theatre), [Two.js](https://github.com/jonobr1/two.js), [D3](https://github.com/d3/d3), [Three.js](https://github.com/mrdoob/three.js), [Babylon.js](https://github.com/BabylonJS/Babylon.js), [Drei](https://github.com/pmndrs/drei), [Spark](https://github.com/sparkjsdev/spark), [cables.gl](https://github.com/cables-gl/cables_electron), [Taichi](https://github.com/taichi-dev/taichi), [SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH), [Custom Shader Material](https://github.com/FarazzShaikh/THREE-CustomShaderMaterial), [OpenToonz](https://github.com/opentoonz/opentoonz), [Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS), [Audacity](https://github.com/audacity/audacity), [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit), [Auto-Editor](https://github.com/WyattBlue/auto-editor), [RIFE](https://github.com/hzwer/ECCV2022-RIFE), [OBS Studio](https://github.com/obsproject/obs-studio), [FFmpeg](https://github.com/FFmpeg/FFmpeg), [HyperFrames](https://github.com/heygen-com/hyperframes), [cinetic](https://github.com/Leonxlnx/cinetic), [Guizang Product Video Skill](https://github.com/op7418/guizang-product-video-skill), [MCP for Blender](https://github.com/ahujasid/mcp-for-blender), [Motion2MixamoRig](https://github.com/MaxLiu22/Motion2MixamoRig), [ClaudeAnimationBase](https://github.com/JohnHeibel/ClaudeAnimationBase), [OpenCut](https://github.com/OpenCut-app/OpenCut), [LosslessCut](https://github.com/mifi/lossless-cut), [video-use](https://github.com/browser-use/video-use), [Palmier Pro](https://github.com/palmier-io/palmier-pro)
 
 整理：**@林悦己 cheer**

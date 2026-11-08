@@ -9,7 +9,7 @@ Five categories organize the collection: animation, scenes, physics, audio, and 
 ## When updating
 
 1. Read the upstream repository, its README, and the actual license/terms file. Check for moves, archived status, component-specific terms, and changed project scope.
-2. Update the data and both READMEs in the same PR. Change the checked date only after the records being claimed as checked have actually been reviewed; do not refresh it mechanically.
+2. Update the data and both READMEs in the same PR. Change the checked date only after the records being claimed as checked have actually been reviewed; do not refresh it mechanically. For a partial review, keep the collection-wide baseline and record a per-project `checked_on` for the records reviewed.
 3. Keep descriptions specific. Avoid unconditional free/commercial claims or presenting the list as a tested integrated software stack.
 4. Confirm project counts, category membership, source links, license links, translation parity, and stable navigation. Check local images and preview desktop/narrow layouts.
 5. Update the infographic if its names, counts, descriptions, or categories become inaccurate. Original source SVGs live in `assets/`; preserve the creator attribution.
