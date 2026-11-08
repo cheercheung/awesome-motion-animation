@@ -6,7 +6,7 @@ These upstream project images retain their respective rights and terms. They are
 
 两版 README 首图为本合集原创信息图。各项目封面来自对应官方 GitHub 仓库页面的 `og:image`：有自定义分享图时使用项目设置的图片，否则使用 GitHub 自动生成的仓库预览卡。图片点击后直接进入对应仓库。上游图片保留各自的权利与条款，不纳入本合集的 CC BY 4.0。
 
-Banner metadata and image availability checked on **2026-11-03** (01–22) and **2026-11-08** (23–32). / 封面元数据与可访问性核对日期：**2026-11-03**（01–22）、**2026-11-08**（23–32）
+Banner metadata and image availability checked on **2026-11-03** (01–22) and **2026-11-08** (23–37). / 封面元数据与可访问性核对日期：**2026-11-03**（01–22）、**2026-11-08**（23–37）
 
 | # | Project / 项目 | Preview type / 封面类型 | Source / 来源 | Image / 图片 |
 | --- | --- | --- | --- | --- |
@@ -40,3 +40,8 @@ Banner metadata and image availability checked on **2026-11-03** (01–22) and *
 | 30 | LosslessCut | GitHub repository preview / GitHub 仓库预览 | [Open upstream repository](https://github.com/mifi/lossless-cut) | [View image](https://opengraph.githubassets.com/0ef4c12c8fc988a82b1540dd1871c725836935904ffe8bb073de6e3cc8c56776/mifi/lossless-cut) |
 | 31 | video-use | GitHub repository preview / GitHub 仓库预览 | [Open upstream repository](https://github.com/browser-use/video-use) | [View image](https://opengraph.githubassets.com/e044180e0445e87a5dac37fe37a14c9470c7f102da044a18d09fc610dc6fb3dd/browser-use/video-use) |
 | 32 | Palmier Pro | GitHub repository preview / GitHub 仓库预览 | [Open upstream repository](https://github.com/palmier-io/palmier-pro) | [View image](https://opengraph.githubassets.com/9d76ad33143b460b80e11ea49cb59273868e211977e4bb11472dd7b00e2c3092/palmier-io/palmier-pro) |
+| 33 | liquid-glass-react | GitHub repository preview / GitHub 仓库预览 | [Open upstream repository](https://github.com/rdev/liquid-glass-react) | [View image](https://opengraph.githubassets.com/ff4b85397a8ce27632a488776f72d22067a82559ddd014d8dd7141c7407d956a/rdev/liquid-glass-react) |
+| 34 | Chart.js | GitHub repository preview / GitHub 仓库预览 | [Open upstream repository](https://github.com/chartjs/Chart.js) | [View image](https://opengraph.githubassets.com/11486419ab3f242f4bcc603bab6bc128874cfb51875b1a304d3c4c49005893bc/chartjs/Chart.js) |
+| 35 | Apache ECharts | GitHub repository preview / GitHub 仓库预览 | [Open upstream repository](https://github.com/apache/echarts) | [View image](https://opengraph.githubassets.com/9957fce95001093a1cd13094908630115ec5b140b0d57d07e9781f2d414a82d0/apache/echarts) |
+| 36 | Matplotlib | GitHub repository preview / GitHub 仓库预览 | [Open upstream repository](https://github.com/matplotlib/matplotlib) | [View image](https://opengraph.githubassets.com/e278a31bbea57303c7ef0f1dfed0fbe8f152049b7e9fc55ce11deae7bf3802be/matplotlib/matplotlib) |
+| 37 | Plotly.py | GitHub repository preview / GitHub 仓库预览 | [Open upstream repository](https://github.com/plotly/plotly.py) | [View image](https://opengraph.githubassets.com/1ea600ea02640a047655142be440721cf03162e2871a09523a91ba88db72b319/plotly/plotly.py) |

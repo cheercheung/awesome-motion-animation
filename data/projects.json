@@ -721,6 +721,125 @@
       "use_case_en": "Ask an agent to assemble or adjust a rough cut, then inspect and refine it on the timeline.",
       "use_case_zh": "让代理搭一版粗剪或调整现有片段，再回到时间线上查看和微调",
       "guide_url": "https://github.com/palmier-io/palmier-pro#mcp-server"
+    },
+    {
+      "number": 33,
+      "name": "liquid-glass-react",
+      "repository": "rdev/liquid-glass-react",
+      "category": "animation",
+      "source_url": "https://github.com/rdev/liquid-glass-react",
+      "description_en": "A React component for refractive glass effects with configurable displacement, elasticity, and pointer feedback.",
+      "description_zh": "React 液态玻璃组件，可调折射位移、弹性和鼠标交互反馈",
+      "license": {
+        "label": "MIT",
+        "source_url": "https://github.com/rdev/liquid-glass-react/blob/master/LICENSE",
+        "verified": true,
+        "note_en": "The displacement effect has limited support in Safari and Firefox.",
+        "note_zh": "Safari 和 Firefox 对位移效果的支持有限"
+      },
+      "banner": {
+        "image_url": "https://opengraph.githubassets.com/ff4b85397a8ce27632a488776f72d22067a82559ddd014d8dd7141c7407d956a/rdev/liquid-glass-react",
+        "source_page": "https://github.com/rdev/liquid-glass-react",
+        "kind": "github-generated-repository-preview"
+      },
+      "checked_on": "2026-11-08",
+      "use_case_en": "Add a tactile hover and press treatment to a product UI card or button.",
+      "use_case_zh": "为产品界面里的卡片或按钮加上悬停和按压时的弹性形变",
+      "guide_url": "https://github.com/rdev/liquid-glass-react#basic-usage"
+    },
+    {
+      "number": 34,
+      "name": "Chart.js",
+      "repository": "chartjs/Chart.js",
+      "category": "animation",
+      "source_url": "https://github.com/chartjs/Chart.js",
+      "description_en": "A Canvas chart library with per-property animation options for start and end values, easing, duration, and transitions between chart states.",
+      "description_zh": "Canvas 图表库，可单独设置图表属性的动画起止值、缓动、时长和状态切换",
+      "license": {
+        "label": "MIT",
+        "source_url": "https://github.com/chartjs/Chart.js/blob/master/LICENSE.md",
+        "verified": true
+      },
+      "banner": {
+        "image_url": "https://opengraph.githubassets.com/11486419ab3f242f4bcc603bab6bc128874cfb51875b1a304d3c4c49005893bc/chartjs/Chart.js",
+        "source_page": "https://github.com/chartjs/Chart.js",
+        "kind": "github-generated-repository-preview"
+      },
+      "checked_on": "2026-11-08",
+      "use_case_en": "Reveal a trend line or animate a bar chart when a filter changes.",
+      "use_case_zh": "制作趋势线入场，或在筛选条件切换时让柱状图过渡到新值",
+      "guide_url": "https://www.chartjs.org/docs/latest/configuration/animations.html"
+    },
+    {
+      "number": 35,
+      "name": "Apache ECharts",
+      "repository": "apache/echarts",
+      "category": "animation",
+      "source_url": "https://github.com/apache/echarts",
+      "description_en": "A JavaScript charting library that animates data entering, updating, and leaving a chart, with controls for timing, easing, and delay.",
+      "description_zh": "JavaScript 图表库，为数据新增、更新和移除提供过渡动画，可设置时长、缓动和延迟",
+      "license": {
+        "label": "Apache-2.0",
+        "source_url": "https://github.com/apache/echarts/blob/master/LICENSE",
+        "verified": true
+      },
+      "banner": {
+        "image_url": "https://opengraph.githubassets.com/9957fce95001093a1cd13094908630115ec5b140b0d57d07e9781f2d414a82d0/apache/echarts",
+        "source_page": "https://github.com/apache/echarts",
+        "kind": "github-generated-repository-preview"
+      },
+      "checked_on": "2026-11-08",
+      "use_case_en": "Animate the change between two reporting periods in a data story.",
+      "use_case_zh": "做一段数据叙事动效，让观众看清两个报告周期之间的变化",
+      "guide_url": "https://echarts.apache.org/handbook/en/how-to/animation/transition/"
+    },
+    {
+      "number": 36,
+      "name": "Matplotlib",
+      "repository": "matplotlib/matplotlib",
+      "category": "animation",
+      "source_url": "https://github.com/matplotlib/matplotlib",
+      "description_en": "A Python plotting library with an animation API that updates plot elements at each frame. Its writers can save the sequence as a video or animated image.",
+      "description_zh": "Python 绘图库，可逐帧更新图形元素，并通过写出器将动画保存为视频或动图",
+      "license": {
+        "label": "Matplotlib license",
+        "source_url": "https://github.com/matplotlib/matplotlib/blob/main/LICENSE/LICENSE",
+        "verified": true,
+        "note_en": "Bundled fonts and other components have separate terms in the [license directory](https://github.com/matplotlib/matplotlib/tree/main/LICENSE).",
+        "note_zh": "内置字体等组件的独立条款见[许可目录](https://github.com/matplotlib/matplotlib/tree/main/LICENSE)"
+      },
+      "banner": {
+        "image_url": "https://opengraph.githubassets.com/e278a31bbea57303c7ef0f1dfed0fbe8f152049b7e9fc55ce11deae7bf3802be/matplotlib/matplotlib",
+        "source_page": "https://github.com/matplotlib/matplotlib",
+        "kind": "github-generated-repository-preview"
+      },
+      "checked_on": "2026-11-08",
+      "use_case_en": "Animate a trajectory, simulation, or time series frame by frame for a scientific explainer.",
+      "use_case_zh": "为科学解说片逐帧制作运动轨迹、模拟过程或时间序列",
+      "guide_url": "https://matplotlib.org/stable/api/animation_api.html"
+    },
+    {
+      "number": 37,
+      "name": "Plotly.py",
+      "repository": "plotly/plotly.py",
+      "category": "animation",
+      "source_url": "https://github.com/plotly/plotly.py",
+      "description_en": "A Python charting library that plays a sequence of chart states using animation frames, with optional play and pause controls.",
+      "description_zh": "Python 图表库，可用动画帧编排一系列图表状态，并添加播放和暂停按钮",
+      "license": {
+        "label": "MIT",
+        "source_url": "https://github.com/plotly/plotly.py/blob/main/LICENSE.txt",
+        "verified": true
+      },
+      "banner": {
+        "image_url": "https://opengraph.githubassets.com/1ea600ea02640a047655142be440721cf03162e2871a09523a91ba88db72b319/plotly/plotly.py",
+        "source_page": "https://github.com/plotly/plotly.py",
+        "kind": "github-generated-repository-preview"
+      },
+      "checked_on": "2026-11-08",
+      "use_case_en": "Build an interactive chart that reveals how values move over successive years.",
+      "use_case_zh": "做一个可播放的交互图表，展示数值逐年怎么变化",
+      "guide_url": "https://plotly.com/python/animations/"
     }
   ]
 }

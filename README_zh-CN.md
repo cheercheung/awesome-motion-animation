@@ -2,13 +2,13 @@
 
 <div align="center">
 
-<a href="assets/infographic-zh-CN.png"><img src="assets/infographic-zh-CN.png" width="760" alt="30 个动效与动画 GitHub 项目的五分类信息图，点击查看高清版"></a>
+<a href="assets/infographic-zh-CN.png"><img src="assets/infographic-zh-CN.png" width="760" alt="35 个动效与动画 GitHub 项目的五分类信息图，点击查看高清版"></a>
 
 <h1>用代码，搭一间动效工作室</h1>
 
-<p>30 个 GitHub 项目，覆盖动画、3D、物理模拟、声音、剪辑与交付</p>
+<p>35 个 GitHub 项目，覆盖动画、3D、物理模拟、声音、剪辑与交付</p>
 
-<p><a href="LICENSE"><img src="assets/badge-license.svg" alt="Collection license: CC BY 4.0"></a> <a href="#animation"><img src="assets/badge-projects.svg" alt="30 GitHub projects"></a> <a href="README.md"><img src="assets/badge-en.svg" alt="Read in English"></a> <a href="README_zh-CN.md"><img src="assets/badge-zh.svg" alt="阅读简体中文"></a></p>
+<p><a href="LICENSE"><img src="assets/badge-license.svg" alt="Collection license: CC BY 4.0"></a> <a href="#animation"><img src="assets/badge-projects.svg" alt="35 GitHub projects"></a> <a href="README.md"><img src="assets/badge-en.svg" alt="Read in English"></a> <a href="README_zh-CN.md"><img src="assets/badge-zh.svg" alt="阅读简体中文"></a></p>
 
 <p><a href="#animation">浏览工具合集</a> · <a href="CONTRIBUTING.md">提交资源建议</a></p>
 
@@ -28,6 +28,7 @@
 - [从哪里开始](#getting-started)
 - [制作流程](#workflow)
 - [动画与编排](#animation)
+  - [数据动效](#data-motion-tools)
 - [3D 与场景](#scenes)
 - [物理与手绘](#physics)
 - [声音与剪辑](#audio)
@@ -42,7 +43,7 @@
 ## 🧭 合集概览
 | 分类 | 项目数 |
 | --- | ---: |
-| [动画与编排](#animation) | 9 |
+| [动画与编排](#animation) | 14 |
 | [3D 与场景](#scenes) | 7 |
 | [物理与手绘](#physics) | 5 |
 | [声音与剪辑](#audio) | 7 |
@@ -195,6 +196,76 @@ cinetic 给编码代理提供产品发布片和更新片的制作流程，覆盖
 内置的 CodePilot 回退素材保留 [Business Source License 1.1 条款](https://github.com/op7418/guizang-product-video-skill/blob/main/assets/fallback/LICENSE.CodePilot)
 
 <a href="https://github.com/op7418/guizang-product-video-skill"><img src="https://opengraph.githubassets.com/c93b43abfb6d19922aff54dd39dab02d60b3b95a63a942a259fbaeeb83d3bcc0/op7418/guizang-product-video-skill" alt="Guizang Product Video Skill — GitHub 官方仓库预览图，点击访问仓库" width="760"></a>
+
+<a id="project-33"></a>
+
+### 33 · [liquid-glass-react](https://github.com/rdev/liquid-glass-react)
+
+React 液态玻璃组件，可调折射位移、弹性和鼠标交互反馈
+
+**制作场景** — 为产品界面里的卡片或按钮加上悬停和按压时的弹性形变
+
+[上游指南](https://github.com/rdev/liquid-glass-react#basic-usage) · **上游许可** [MIT](https://github.com/rdev/liquid-glass-react/blob/master/LICENSE)
+
+Safari 和 Firefox 对位移效果的支持有限
+
+<a href="https://github.com/rdev/liquid-glass-react"><img src="https://opengraph.githubassets.com/ff4b85397a8ce27632a488776f72d22067a82559ddd014d8dd7141c7407d956a/rdev/liquid-glass-react" alt="liquid-glass-react — GitHub 官方仓库预览图，点击访问仓库" width="760"></a>
+
+<a id="data-motion-tools"></a>
+
+### 数据动效
+
+用代码控制图表的过渡、缓动和逐帧变化
+
+<a id="project-34"></a>
+
+#### 34 · [Chart.js](https://github.com/chartjs/Chart.js)
+
+Canvas 图表库，可单独设置图表属性的动画起止值、缓动、时长和状态切换
+
+**制作场景** — 制作趋势线入场，或在筛选条件切换时让柱状图过渡到新值
+
+[上游指南](https://www.chartjs.org/docs/latest/configuration/animations.html) · **上游许可** [MIT](https://github.com/chartjs/Chart.js/blob/master/LICENSE.md)
+
+<a href="https://github.com/chartjs/Chart.js"><img src="https://opengraph.githubassets.com/11486419ab3f242f4bcc603bab6bc128874cfb51875b1a304d3c4c49005893bc/chartjs/Chart.js" alt="Chart.js — GitHub 官方仓库预览图，点击访问仓库" width="760"></a>
+
+<a id="project-35"></a>
+
+#### 35 · [Apache ECharts](https://github.com/apache/echarts)
+
+JavaScript 图表库，为数据新增、更新和移除提供过渡动画，可设置时长、缓动和延迟
+
+**制作场景** — 做一段数据叙事动效，让观众看清两个报告周期之间的变化
+
+[上游指南](https://echarts.apache.org/handbook/en/how-to/animation/transition/) · **上游许可** [Apache-2.0](https://github.com/apache/echarts/blob/master/LICENSE)
+
+<a href="https://github.com/apache/echarts"><img src="https://opengraph.githubassets.com/9957fce95001093a1cd13094908630115ec5b140b0d57d07e9781f2d414a82d0/apache/echarts" alt="Apache ECharts — GitHub 官方仓库预览图，点击访问仓库" width="760"></a>
+
+<a id="project-36"></a>
+
+#### 36 · [Matplotlib](https://github.com/matplotlib/matplotlib)
+
+Python 绘图库，可逐帧更新图形元素，并通过写出器将动画保存为视频或动图
+
+**制作场景** — 为科学解说片逐帧制作运动轨迹、模拟过程或时间序列
+
+[上游指南](https://matplotlib.org/stable/api/animation_api.html) · **上游许可** [Matplotlib license](https://github.com/matplotlib/matplotlib/blob/main/LICENSE/LICENSE)
+
+内置字体等组件的独立条款见[许可目录](https://github.com/matplotlib/matplotlib/tree/main/LICENSE)
+
+<a href="https://github.com/matplotlib/matplotlib"><img src="https://opengraph.githubassets.com/e278a31bbea57303c7ef0f1dfed0fbe8f152049b7e9fc55ce11deae7bf3802be/matplotlib/matplotlib" alt="Matplotlib — GitHub 官方仓库预览图，点击访问仓库" width="760"></a>
+
+<a id="project-37"></a>
+
+#### 37 · [Plotly.py](https://github.com/plotly/plotly.py)
+
+Python 图表库，可用动画帧编排一系列图表状态，并添加播放和暂停按钮
+
+**制作场景** — 做一个可播放的交互图表，展示数值逐年怎么变化
+
+[上游指南](https://plotly.com/python/animations/) · **上游许可** [MIT](https://github.com/plotly/plotly.py/blob/main/LICENSE.txt)
+
+<a href="https://github.com/plotly/plotly.py"><img src="https://opengraph.githubassets.com/1ea600ea02640a047655142be440721cf03162e2871a09523a91ba88db72b319/plotly/plotly.py" alt="Plotly.py — GitHub 官方仓库预览图，点击访问仓库" width="760"></a>
 
 <a id="scenes"></a>
 
@@ -496,7 +567,7 @@ FFmpeg 是读写、滤镜处理、编码和封装媒体流的命令行工具，�
 
 项目 banner 优先使用其 GitHub 页面设置的官方分享图；没有自定义分享图时使用 GitHub 生成的仓库预览卡。所有图片均可点击访问对应项目。[查看封面来源](docs/media-sources.md)。这些上游图片不属于本合集的 CC BY 4.0 授权范围。
 
-项目来源与许可信息核对日期：**2026-11-02**（01–22）、**2026-11-08**（23–32）。许可标签用于导航，完整条款以上游文件为准
+项目来源与许可信息核对日期：**2026-11-02**（01–22）、**2026-11-08**（23–37）。许可标签用于导航，完整条款以上游文件为准
 
 
 <a id="contributing"></a>
@@ -513,6 +584,6 @@ FFmpeg 是读写、滤镜处理、编码和封装媒体流的命令行工具，�
 
 感谢所有上游项目的作者、贡献者与维护者。工具的开发、支持与许可由各自项目负责。
 
-[Remotion](https://github.com/remotion-dev/remotion), [Anime.js](https://github.com/juliangarnier/anime), [mo.js](https://github.com/mojs/mojs), [Theatre.js](https://github.com/theatre-js/theatre), [Two.js](https://github.com/jonobr1/two.js), [D3](https://github.com/d3/d3), [Three.js](https://github.com/mrdoob/three.js), [Babylon.js](https://github.com/BabylonJS/Babylon.js), [Drei](https://github.com/pmndrs/drei), [Spark](https://github.com/sparkjsdev/spark), [cables.gl](https://github.com/cables-gl/cables_electron), [Taichi](https://github.com/taichi-dev/taichi), [SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH), [Custom Shader Material](https://github.com/FarazzShaikh/THREE-CustomShaderMaterial), [OpenToonz](https://github.com/opentoonz/opentoonz), [Audacity](https://github.com/audacity/audacity), [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit), [Auto-Editor](https://github.com/WyattBlue/auto-editor), [RIFE](https://github.com/hzwer/ECCV2022-RIFE), [FFmpeg](https://github.com/FFmpeg/FFmpeg), [HyperFrames](https://github.com/heygen-com/hyperframes), [cinetic](https://github.com/Leonxlnx/cinetic), [Guizang Product Video Skill](https://github.com/op7418/guizang-product-video-skill), [MCP for Blender](https://github.com/ahujasid/mcp-for-blender), [Motion2MixamoRig](https://github.com/MaxLiu22/Motion2MixamoRig), [ClaudeAnimationBase](https://github.com/JohnHeibel/ClaudeAnimationBase), [OpenCut](https://github.com/OpenCut-app/OpenCut), [LosslessCut](https://github.com/mifi/lossless-cut), [video-use](https://github.com/browser-use/video-use), [Palmier Pro](https://github.com/palmier-io/palmier-pro)
+[Remotion](https://github.com/remotion-dev/remotion), [Anime.js](https://github.com/juliangarnier/anime), [mo.js](https://github.com/mojs/mojs), [Theatre.js](https://github.com/theatre-js/theatre), [Two.js](https://github.com/jonobr1/two.js), [D3](https://github.com/d3/d3), [Three.js](https://github.com/mrdoob/three.js), [Babylon.js](https://github.com/BabylonJS/Babylon.js), [Drei](https://github.com/pmndrs/drei), [Spark](https://github.com/sparkjsdev/spark), [cables.gl](https://github.com/cables-gl/cables_electron), [Taichi](https://github.com/taichi-dev/taichi), [SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH), [Custom Shader Material](https://github.com/FarazzShaikh/THREE-CustomShaderMaterial), [OpenToonz](https://github.com/opentoonz/opentoonz), [Audacity](https://github.com/audacity/audacity), [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit), [Auto-Editor](https://github.com/WyattBlue/auto-editor), [RIFE](https://github.com/hzwer/ECCV2022-RIFE), [FFmpeg](https://github.com/FFmpeg/FFmpeg), [HyperFrames](https://github.com/heygen-com/hyperframes), [cinetic](https://github.com/Leonxlnx/cinetic), [Guizang Product Video Skill](https://github.com/op7418/guizang-product-video-skill), [MCP for Blender](https://github.com/ahujasid/mcp-for-blender), [Motion2MixamoRig](https://github.com/MaxLiu22/Motion2MixamoRig), [ClaudeAnimationBase](https://github.com/JohnHeibel/ClaudeAnimationBase), [OpenCut](https://github.com/OpenCut-app/OpenCut), [LosslessCut](https://github.com/mifi/lossless-cut), [video-use](https://github.com/browser-use/video-use), [Palmier Pro](https://github.com/palmier-io/palmier-pro), [liquid-glass-react](https://github.com/rdev/liquid-glass-react), [Chart.js](https://github.com/chartjs/Chart.js), [Apache ECharts](https://github.com/apache/echarts), [Matplotlib](https://github.com/matplotlib/matplotlib), [Plotly.py](https://github.com/plotly/plotly.py)
 
 整理：**@林悦己 cheer**

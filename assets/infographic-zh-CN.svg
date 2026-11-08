@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="3840" height="2160" viewBox="0 0 1920 1080" role="img" aria-labelledby="title desc">
 <title id="title">用代码，搭一间动效工作室</title>
-<desc id="desc">30 个 GitHub 仓库，分为动画与编排、3D 与场景、物理与手绘、声音与剪辑、渲染与交付，构成从想法到导出的动效工作流。</desc>
+<desc id="desc">35 个 GitHub 仓库，分为动画与编排、3D 与场景、物理与手绘、声音与剪辑、渲染与交付，构成从想法到导出的动效工作流。</desc>
 <defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M1 1L6 4L1 7" fill="none" stroke="#23765F" stroke-width="1.2"/></marker></defs>
 <rect width="1920" height="1080" fill="#F7F8F3"/>
 <style>text{font-family:'Noto Sans CJK SC','PingFang SC',sans-serif;fill:#192C28}.en{font-family:Arial,'Noto Sans CJK SC',sans-serif}.muted{fill:#64726C}.green{fill:#23765F}.sketch{fill:none;stroke:#23765F;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}.fine{fill:none;stroke:#CCD4CD;stroke-width:1.2;stroke-linecap:round}</style>
 <text x="64" y="54" font-size="16" font-weight="700" class="en green" letter-spacing="2.5">MOTION WITH CODE</text>
 <path d="M285 47H352" class="fine" />
-<text x="370" y="54" font-size="16" font-weight="400" class="muted">30 个 GitHub 仓库 · 一张工作流地图</text>
+<text x="370" y="54" font-size="16" font-weight="400" class="muted">35 个 GitHub 仓库 · 一张工作流地图</text>
 <text x="61" y="151" font-size="70" font-weight="700" class="">用代码，搭一间动效工作室</text>
 <text x="65" y="206" font-size="25" font-weight="400" class="muted">从动画、物理到 3D，从声音、剪辑到最终交付。</text>
 <g transform="translate(1490,62)">
@@ -36,34 +36,37 @@
 <text x="64" y="409" font-size="27" font-weight="700" class="">动画与编排</text>
 <text x="64" y="436" font-size="12" font-weight="700" class="en muted" letter-spacing="1.7">ANIMATION</text>
 <path d="M64 452H389" class="fine" />
-<text x="64" y="483" font-size="14" font-weight="500" class="en green">01</text>
-<text x="98" y="483" font-size="24" font-weight="700" class="en">Remotion</text>
-<text x="98" y="502" font-size="18" font-weight="400" class="muted">用 React 编程生成视频</text>
-<text x="64" y="527" font-size="14" font-weight="500" class="en green">02</text>
-<text x="98" y="527" font-size="24" font-weight="700" class="en">Anime.js</text>
-<text x="98" y="546" font-size="18" font-weight="400" class="muted">时间轴与动画编排</text>
-<text x="64" y="571" font-size="14" font-weight="500" class="en green">03</text>
-<text x="98" y="571" font-size="24" font-weight="700" class="en">mo.js</text>
-<text x="98" y="590" font-size="18" font-weight="400" class="muted">图形爆发与动效</text>
-<text x="64" y="615" font-size="14" font-weight="500" class="en green">04</text>
-<text x="98" y="615" font-size="24" font-weight="700" class="en">Theatre.js</text>
-<text x="98" y="634" font-size="18" font-weight="400" class="muted">可视化关键帧编辑</text>
-<text x="64" y="659" font-size="14" font-weight="500" class="en green">05</text>
-<text x="98" y="659" font-size="24" font-weight="700" class="en">Two.js</text>
-<text x="98" y="678" font-size="18" font-weight="400" class="muted">二维矢量场景动画</text>
-<text x="64" y="703" font-size="14" font-weight="500" class="en green">06</text>
-<text x="98" y="703" font-size="24" font-weight="700" class="en">D3</text>
-<text x="98" y="722" font-size="18" font-weight="400" class="muted">数据驱动图形</text>
-<text x="64" y="747" font-size="14" font-weight="500" class="en green">23</text>
-<text x="98" y="747" font-size="24" font-weight="700" class="en">HyperFrames</text>
-<text x="98" y="766" font-size="16" font-weight="400" class="muted">HTML 动效转视频</text>
-<text x="64" y="791" font-size="14" font-weight="500" class="en green">24</text>
-<text x="98" y="791" font-size="24" font-weight="700" class="en">cinetic</text>
-<text x="98" y="810" font-size="16" font-weight="400" class="muted">代码制作产品发布片</text>
-<text x="64" y="835" font-size="14" font-weight="500" class="en green">25</text>
-<text x="98" y="835" font-size="20" font-weight="700" class="en">Guizang Product Video Skill</text>
-<text x="98" y="854" font-size="16" font-weight="400" class="muted">用真实产品界面做更新片</text>
-<path d="M408 290V862" class="fine" />
+<text x="64" y="481" font-size="13" font-weight="500" class="en green">01</text>
+<text x="98" y="481" font-size="22" font-weight="700" class="en">Remotion</text>
+<text x="98" y="498" font-size="15" font-weight="400" class="muted">用 React 编程生成视频</text>
+<text x="64" y="522" font-size="13" font-weight="500" class="en green">02</text>
+<text x="98" y="522" font-size="22" font-weight="700" class="en">Anime.js</text>
+<text x="98" y="539" font-size="15" font-weight="400" class="muted">时间轴与动画编排</text>
+<text x="64" y="563" font-size="13" font-weight="500" class="en green">03</text>
+<text x="98" y="563" font-size="22" font-weight="700" class="en">mo.js</text>
+<text x="98" y="580" font-size="15" font-weight="400" class="muted">图形爆发与动效</text>
+<text x="64" y="604" font-size="13" font-weight="500" class="en green">04</text>
+<text x="98" y="604" font-size="22" font-weight="700" class="en">Theatre.js</text>
+<text x="98" y="621" font-size="15" font-weight="400" class="muted">可视化关键帧编辑</text>
+<text x="64" y="645" font-size="13" font-weight="500" class="en green">05</text>
+<text x="98" y="645" font-size="22" font-weight="700" class="en">Two.js</text>
+<text x="98" y="662" font-size="15" font-weight="400" class="muted">二维矢量场景动画</text>
+<text x="64" y="686" font-size="13" font-weight="500" class="en green">06</text>
+<text x="98" y="686" font-size="22" font-weight="700" class="en">D3</text>
+<text x="98" y="703" font-size="15" font-weight="400" class="muted">数据驱动图形</text>
+<text x="64" y="727" font-size="13" font-weight="500" class="en green">23</text>
+<text x="98" y="727" font-size="22" font-weight="700" class="en">HyperFrames</text>
+<text x="98" y="744" font-size="15" font-weight="400" class="muted">HTML 动效转视频</text>
+<text x="64" y="768" font-size="13" font-weight="500" class="en green">24</text>
+<text x="98" y="768" font-size="22" font-weight="700" class="en">cinetic</text>
+<text x="98" y="785" font-size="15" font-weight="400" class="muted">代码制作产品发布片</text>
+<text x="64" y="809" font-size="13" font-weight="500" class="en green">25</text>
+<text x="98" y="809" font-size="20" font-weight="700" class="en">Guizang Product Video Skill</text>
+<text x="98" y="826" font-size="15" font-weight="400" class="muted">用真实产品界面做更新片</text>
+<text x="64" y="850" font-size="13" font-weight="500" class="en green">33</text>
+<text x="98" y="850" font-size="22" font-weight="700" class="en">liquid-glass-react</text>
+<text x="98" y="867" font-size="15" font-weight="400" class="muted">液态玻璃交互动效</text>
+<path d="M408 290V879" class="fine" />
 <g transform="translate(427,290)">
 <path d="M26 17L59 0L92 17V53L59 71L26 53ZM26 17L59 35L92 17M59 35V71" class="sketch" />
 <path d="M59 0V35" class="fine" stroke-dasharray="3 4"/>
@@ -178,12 +181,20 @@
 <rect x="12" y="10" width="80" height="20" rx="2" class="fine"/><rect x="103" y="10" width="120" height="20" rx="2" class="fine"/><rect x="32" y="40" width="128" height="20" rx="2" class="fine"/>
 <path d="M184 -4V72M179 -4H189" class="sketch" />
 </g>
-<g transform="translate(1541,725)">
-<rect x="0" y="0" width="258" height="126" rx="3" class="fine"/>
-<path d="M12 18H246M12 108H246M18 31V96M240 31V96" class="fine" />
-<path d="M113 44L148 64L113 84ZM104 64H87M169 64H184M134 38V28M134 100V91" class="sketch" />
-<text x="270" y="111" font-size="12" font-weight="700" class="en muted" text-anchor="end">16:9</text>
-</g>
+<path d="M1516 616H1841" class="fine" />
+<text x="1516" y="644" font-size="12" font-weight="700" class="muted" letter-spacing="1.4">数据动效 · 动画与编排</text>
+<text x="1516" y="674" font-size="13" font-weight="500" class="en green">34</text>
+<text x="1550" y="674" font-size="21" font-weight="700" class="en">Chart.js</text>
+<text x="1550" y="691" font-size="15" font-weight="400" class="muted">Canvas 图表过渡</text>
+<text x="1516" y="720" font-size="13" font-weight="500" class="en green">35</text>
+<text x="1550" y="720" font-size="21" font-weight="700" class="en">Apache ECharts</text>
+<text x="1550" y="737" font-size="15" font-weight="400" class="muted">数据更新动画</text>
+<text x="1516" y="766" font-size="13" font-weight="500" class="en green">36</text>
+<text x="1550" y="766" font-size="21" font-weight="700" class="en">Matplotlib</text>
+<text x="1550" y="783" font-size="15" font-weight="400" class="muted">Python 逐帧图形</text>
+<text x="1516" y="812" font-size="13" font-weight="500" class="en green">37</text>
+<text x="1550" y="812" font-size="21" font-weight="700" class="en">Plotly.py</text>
+<text x="1550" y="829" font-size="15" font-weight="400" class="muted">交互图表帧动画</text>
 <path d="M64 902H1856" class="fine" />
 <text x="64" y="949" font-size="20" font-weight="700" class="">把工具连成工作流</text>
 <circle cx="397" cy="941" r="6" class="sketch" fill="#F7F8F3"/>

@@ -2,13 +2,13 @@
 
 <div align="center">
 
-<a href="assets/infographic-en.png"><img src="assets/infographic-en.png" width="760" alt="Infographic of 30 motion and animation GitHub projects in five categories; open full resolution"></a>
+<a href="assets/infographic-en.png"><img src="assets/infographic-en.png" width="760" alt="Infographic of 35 motion and animation GitHub projects in five categories; open full resolution"></a>
 
 <h1>Awesome Motion & Animation</h1>
 
-<p>30 GitHub projects for animation, 3D, physics, audio, editing, and delivery.</p>
+<p>35 GitHub projects for animation, 3D, physics, audio, editing, and delivery.</p>
 
-<p><a href="LICENSE"><img src="assets/badge-license.svg" alt="Collection license: CC BY 4.0"></a> <a href="#animation"><img src="assets/badge-projects.svg" alt="30 GitHub projects"></a> <a href="README.md"><img src="assets/badge-en.svg" alt="Read in English"></a> <a href="README_zh-CN.md"><img src="assets/badge-zh.svg" alt="阅读简体中文"></a></p>
+<p><a href="LICENSE"><img src="assets/badge-license.svg" alt="Collection license: CC BY 4.0"></a> <a href="#animation"><img src="assets/badge-projects.svg" alt="35 GitHub projects"></a> <a href="README.md"><img src="assets/badge-en.svg" alt="Read in English"></a> <a href="README_zh-CN.md"><img src="assets/badge-zh.svg" alt="阅读简体中文"></a></p>
 
 <p><a href="#animation">Explore the collection</a> · <a href="CONTRIBUTING.md">Suggest a resource</a></p>
 
@@ -28,6 +28,7 @@ This collection includes open-source projects and source-available software with
 - [Getting started](#getting-started)
 - [Workflow](#workflow)
 - [Animation & Choreography](#animation)
+  - [Data Motion](#data-motion-tools)
 - [3D & Scenes](#scenes)
 - [Physics & Drawing](#physics)
 - [Audio & Editing](#audio)
@@ -42,7 +43,7 @@ This collection includes open-source projects and source-available software with
 ## 🧭 Overview
 | Category | Projects |
 | --- | ---: |
-| [Animation & Choreography](#animation) | 9 |
+| [Animation & Choreography](#animation) | 14 |
 | [3D & Scenes](#scenes) | 7 |
 | [Physics & Drawing](#physics) | 5 |
 | [Audio & Editing](#audio) | 7 |
@@ -195,6 +196,76 @@ Guizang Product Video Skill guides an agent through storyboarding, adapting real
 The bundled CodePilot fallback assets retain [Business Source License 1.1 terms](https://github.com/op7418/guizang-product-video-skill/blob/main/assets/fallback/LICENSE.CodePilot).
 
 <a href="https://github.com/op7418/guizang-product-video-skill"><img src="https://opengraph.githubassets.com/c93b43abfb6d19922aff54dd39dab02d60b3b95a63a942a259fbaeeb83d3bcc0/op7418/guizang-product-video-skill" alt="Guizang Product Video Skill — official GitHub repository preview; open repository" width="760"></a>
+
+<a id="project-33"></a>
+
+### 33 · [liquid-glass-react](https://github.com/rdev/liquid-glass-react)
+
+A React component for refractive glass effects with configurable displacement, elasticity, and pointer feedback.
+
+**In production** — Add a tactile hover and press treatment to a product UI card or button.
+
+[Upstream guide](https://github.com/rdev/liquid-glass-react#basic-usage) · **License** [MIT](https://github.com/rdev/liquid-glass-react/blob/master/LICENSE)
+
+The displacement effect has limited support in Safari and Firefox.
+
+<a href="https://github.com/rdev/liquid-glass-react"><img src="https://opengraph.githubassets.com/ff4b85397a8ce27632a488776f72d22067a82559ddd014d8dd7141c7407d956a/rdev/liquid-glass-react" alt="liquid-glass-react — official GitHub repository preview; open repository" width="760"></a>
+
+<a id="data-motion-tools"></a>
+
+### Data Motion
+
+Tools for animating charts, data transitions, and scientific graphics.
+
+<a id="project-34"></a>
+
+#### 34 · [Chart.js](https://github.com/chartjs/Chart.js)
+
+A Canvas chart library with per-property animation options for start and end values, easing, duration, and transitions between chart states.
+
+**In production** — Reveal a trend line or animate a bar chart when a filter changes.
+
+[Upstream guide](https://www.chartjs.org/docs/latest/configuration/animations.html) · **License** [MIT](https://github.com/chartjs/Chart.js/blob/master/LICENSE.md)
+
+<a href="https://github.com/chartjs/Chart.js"><img src="https://opengraph.githubassets.com/11486419ab3f242f4bcc603bab6bc128874cfb51875b1a304d3c4c49005893bc/chartjs/Chart.js" alt="Chart.js — official GitHub repository preview; open repository" width="760"></a>
+
+<a id="project-35"></a>
+
+#### 35 · [Apache ECharts](https://github.com/apache/echarts)
+
+A JavaScript charting library that animates data entering, updating, and leaving a chart, with controls for timing, easing, and delay.
+
+**In production** — Animate the change between two reporting periods in a data story.
+
+[Upstream guide](https://echarts.apache.org/handbook/en/how-to/animation/transition/) · **License** [Apache-2.0](https://github.com/apache/echarts/blob/master/LICENSE)
+
+<a href="https://github.com/apache/echarts"><img src="https://opengraph.githubassets.com/9957fce95001093a1cd13094908630115ec5b140b0d57d07e9781f2d414a82d0/apache/echarts" alt="Apache ECharts — official GitHub repository preview; open repository" width="760"></a>
+
+<a id="project-36"></a>
+
+#### 36 · [Matplotlib](https://github.com/matplotlib/matplotlib)
+
+A Python plotting library with an animation API that updates plot elements at each frame. Its writers can save the sequence as a video or animated image.
+
+**In production** — Animate a trajectory, simulation, or time series frame by frame for a scientific explainer.
+
+[Upstream guide](https://matplotlib.org/stable/api/animation_api.html) · **License** [Matplotlib license](https://github.com/matplotlib/matplotlib/blob/main/LICENSE/LICENSE)
+
+Bundled fonts and other components have separate terms in the [license directory](https://github.com/matplotlib/matplotlib/tree/main/LICENSE).
+
+<a href="https://github.com/matplotlib/matplotlib"><img src="https://opengraph.githubassets.com/e278a31bbea57303c7ef0f1dfed0fbe8f152049b7e9fc55ce11deae7bf3802be/matplotlib/matplotlib" alt="Matplotlib — official GitHub repository preview; open repository" width="760"></a>
+
+<a id="project-37"></a>
+
+#### 37 · [Plotly.py](https://github.com/plotly/plotly.py)
+
+A Python charting library that plays a sequence of chart states using animation frames, with optional play and pause controls.
+
+**In production** — Build an interactive chart that reveals how values move over successive years.
+
+[Upstream guide](https://plotly.com/python/animations/) · **License** [MIT](https://github.com/plotly/plotly.py/blob/main/LICENSE.txt)
+
+<a href="https://github.com/plotly/plotly.py"><img src="https://opengraph.githubassets.com/1ea600ea02640a047655142be440721cf03162e2871a09523a91ba88db72b319/plotly/plotly.py" alt="Plotly.py — official GitHub repository preview; open repository" width="760"></a>
 
 <a id="scenes"></a>
 
@@ -496,7 +567,7 @@ Each resource includes an upstream license link. Remotion has free-use eligibili
 
 Project banners use the official social images configured on their GitHub pages; where no custom image is set, a GitHub-generated repository preview is used. Each image links to its project. [View banner sources](docs/media-sources.md). These upstream images are excluded from this collection's CC BY 4.0 license.
 
-Project sources and license information were checked on **2026-11-02** (01–22) and **2026-11-08** (23–32). Labels are navigation aids; the full upstream terms govern.
+Project sources and license information were checked on **2026-11-02** (01–22) and **2026-11-08** (23–37). Labels are navigation aids; the full upstream terms govern.
 
 
 <a id="contributing"></a>
@@ -513,6 +584,6 @@ Start by [reading the contribution guide](CONTRIBUTING.md), or [suggest a projec
 
 Thanks to the authors, contributors, and maintainers of every upstream project. Development, support, and licensing remain with each project.
 
-[Remotion](https://github.com/remotion-dev/remotion), [Anime.js](https://github.com/juliangarnier/anime), [mo.js](https://github.com/mojs/mojs), [Theatre.js](https://github.com/theatre-js/theatre), [Two.js](https://github.com/jonobr1/two.js), [D3](https://github.com/d3/d3), [Three.js](https://github.com/mrdoob/three.js), [Babylon.js](https://github.com/BabylonJS/Babylon.js), [Drei](https://github.com/pmndrs/drei), [Spark](https://github.com/sparkjsdev/spark), [cables.gl](https://github.com/cables-gl/cables_electron), [Taichi](https://github.com/taichi-dev/taichi), [SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH), [Custom Shader Material](https://github.com/FarazzShaikh/THREE-CustomShaderMaterial), [OpenToonz](https://github.com/opentoonz/opentoonz), [Audacity](https://github.com/audacity/audacity), [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit), [Auto-Editor](https://github.com/WyattBlue/auto-editor), [RIFE](https://github.com/hzwer/ECCV2022-RIFE), [FFmpeg](https://github.com/FFmpeg/FFmpeg), [HyperFrames](https://github.com/heygen-com/hyperframes), [cinetic](https://github.com/Leonxlnx/cinetic), [Guizang Product Video Skill](https://github.com/op7418/guizang-product-video-skill), [MCP for Blender](https://github.com/ahujasid/mcp-for-blender), [Motion2MixamoRig](https://github.com/MaxLiu22/Motion2MixamoRig), [ClaudeAnimationBase](https://github.com/JohnHeibel/ClaudeAnimationBase), [OpenCut](https://github.com/OpenCut-app/OpenCut), [LosslessCut](https://github.com/mifi/lossless-cut), [video-use](https://github.com/browser-use/video-use), [Palmier Pro](https://github.com/palmier-io/palmier-pro).
+[Remotion](https://github.com/remotion-dev/remotion), [Anime.js](https://github.com/juliangarnier/anime), [mo.js](https://github.com/mojs/mojs), [Theatre.js](https://github.com/theatre-js/theatre), [Two.js](https://github.com/jonobr1/two.js), [D3](https://github.com/d3/d3), [Three.js](https://github.com/mrdoob/three.js), [Babylon.js](https://github.com/BabylonJS/Babylon.js), [Drei](https://github.com/pmndrs/drei), [Spark](https://github.com/sparkjsdev/spark), [cables.gl](https://github.com/cables-gl/cables_electron), [Taichi](https://github.com/taichi-dev/taichi), [SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH), [Custom Shader Material](https://github.com/FarazzShaikh/THREE-CustomShaderMaterial), [OpenToonz](https://github.com/opentoonz/opentoonz), [Audacity](https://github.com/audacity/audacity), [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit), [Auto-Editor](https://github.com/WyattBlue/auto-editor), [RIFE](https://github.com/hzwer/ECCV2022-RIFE), [FFmpeg](https://github.com/FFmpeg/FFmpeg), [HyperFrames](https://github.com/heygen-com/hyperframes), [cinetic](https://github.com/Leonxlnx/cinetic), [Guizang Product Video Skill](https://github.com/op7418/guizang-product-video-skill), [MCP for Blender](https://github.com/ahujasid/mcp-for-blender), [Motion2MixamoRig](https://github.com/MaxLiu22/Motion2MixamoRig), [ClaudeAnimationBase](https://github.com/JohnHeibel/ClaudeAnimationBase), [OpenCut](https://github.com/OpenCut-app/OpenCut), [LosslessCut](https://github.com/mifi/lossless-cut), [video-use](https://github.com/browser-use/video-use), [Palmier Pro](https://github.com/palmier-io/palmier-pro), [liquid-glass-react](https://github.com/rdev/liquid-glass-react), [Chart.js](https://github.com/chartjs/Chart.js), [Apache ECharts](https://github.com/apache/echarts), [Matplotlib](https://github.com/matplotlib/matplotlib), [Plotly.py](https://github.com/plotly/plotly.py).
 
 Curated by **@林悦己 cheer**.
