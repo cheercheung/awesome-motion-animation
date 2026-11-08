@@ -36,8 +36,8 @@
       "repository": "remotion-dev/remotion",
       "category": "animation",
       "source_url": "https://github.com/remotion-dev/remotion",
-      "description_en": "Make videos programmatically with React.",
-      "description_zh": "用 React 编程生成视频。",
+      "description_en": "Remotion renders React compositions frame by frame. Use React props to vary text, imagery, and other inputs, then preview the result in Studio before rendering a video.",
+      "description_zh": "Remotion 逐帧渲染 React 视频组合，可用 props 替换文案、图片等素材，在 Studio 中预览后再导出视频",
       "license": {
         "label": "Remotion custom license",
         "source_url": "https://github.com/remotion-dev/remotion/blob/main/LICENSE.md",
@@ -49,7 +49,10 @@
         "image_url": "https://repository-images.githubusercontent.com/274495425/970f34be-47bd-4010-9def-bc1bf7fb0669",
         "source_page": "https://github.com/remotion-dev/remotion",
         "kind": "upstream-custom-social-banner"
-      }
+      },
+      "use_case_en": "Build a reusable product demo and render a separate cut for each feature or language.",
+      "use_case_zh": "把产品演示做成可复用模板，为不同功能或语言分别出片",
+      "guide_url": "https://www.remotion.dev/docs/"
     },
     {
       "number": 2,
@@ -57,8 +60,8 @@
       "repository": "juliangarnier/anime",
       "category": "animation",
       "source_url": "https://github.com/juliangarnier/anime",
-      "description_en": "Choreograph JavaScript animations with timelines.",
-      "description_zh": "通过时间轴编排 JavaScript 动画。",
+      "description_en": "Anime.js animates DOM elements, SVG, and JavaScript objects. Its timelines let you overlap or sequence effects, with easing and stagger controls for groups of elements.",
+      "description_zh": "Anime.js 可以给 DOM 元素、SVG 和 JavaScript 对象做动画，用时间轴编排先后或重叠的效果，并设置缓动和错峰入场",
       "license": {
         "label": "MIT",
         "source_url": "https://github.com/juliangarnier/anime/blob/master/LICENSE.md",
@@ -68,7 +71,10 @@
         "image_url": "https://repository-images.githubusercontent.com/53809090/dbff3ffc-8459-43db-8a05-b6fdca5c9ed9",
         "source_page": "https://github.com/juliangarnier/anime",
         "kind": "upstream-custom-social-banner"
-      }
+      },
+      "use_case_en": "Build a title reveal where the headline, accents, and supporting text enter on different beats.",
+      "use_case_zh": "做片头标题动效，让主标题、装饰元素和副文案在不同节拍入场",
+      "guide_url": "https://animejs.com/documentation/"
     },
     {
       "number": 3,
@@ -76,8 +82,8 @@
       "repository": "mojs/mojs",
       "category": "animation",
       "source_url": "https://github.com/mojs/mojs",
-      "description_en": "Create shape bursts and motion effects.",
-      "description_zh": "制作图形爆发与动态效果。",
+      "description_en": "mo.js is a JavaScript toolkit for motion graphics built from shapes, bursts, and tweens. Combine those primitives to layer short accents over a web scene.",
+      "description_zh": "mo.js 提供图形、粒子爆发和补间动画等基础组件，可以组合成网页场景里的短动效",
       "license": {
         "label": "MIT",
         "source_url": "https://github.com/mojs/mojs/blob/main/LICENSE.md",
@@ -87,7 +93,10 @@
         "image_url": "https://repository-images.githubusercontent.com/21234201/eb8c6800-895e-11ea-883c-97b8a49e3e1d",
         "source_page": "https://github.com/mojs/mojs",
         "kind": "upstream-custom-social-banner"
-      }
+      },
+      "use_case_en": "Add a particle burst to a logo reveal or a confirmation moment in a product demo.",
+      "use_case_zh": "为标志揭晓或产品演示里的确认动作加一组粒子爆发效果",
+      "guide_url": "https://mojs.github.io/api/"
     },
     {
       "number": 4,
@@ -95,8 +104,8 @@
       "repository": "theatre-js/theatre",
       "category": "animation",
       "source_url": "https://github.com/theatre-js/theatre",
-      "description_en": "Edit animation keyframes visually.",
-      "description_zh": "可视化编辑动画关键帧。",
+      "description_en": "Theatre.js adds a visual timeline to a scene built in JavaScript. Its Studio records keyframes for exposed properties such as camera position, object transforms, and material values.",
+      "description_zh": "Theatre.js 给 JavaScript 场景加上可视化时间轴，Studio 可以为相机位置、物体变换、材质参数等暴露出来的属性记录关键帧",
       "license": {
         "label": "Apache-2.0 (core) / AGPL-3.0 (studio)",
         "source_url": "https://github.com/theatre-js/theatre#license",
@@ -108,7 +117,10 @@
         "image_url": "https://opengraph.githubassets.com/9b8fb753fbdf588f154c96e9b5687d720ca907281bc7964bb8ab8540f6d053be/theatre-js/theatre",
         "source_page": "https://github.com/theatre-js/theatre",
         "kind": "github-generated-repository-preview"
-      }
+      },
+      "use_case_en": "Tune the timing and framing of a Three.js product fly-through by adjusting keyframes in the editor.",
+      "use_case_zh": "在编辑器里调关键帧，微调 Three.js 产品运镜的节奏和构图",
+      "guide_url": "https://www.theatrejs.com/docs/latest/"
     },
     {
       "number": 5,
@@ -116,8 +128,8 @@
       "repository": "jonobr1/two.js",
       "category": "animation",
       "source_url": "https://github.com/jonobr1/two.js",
-      "description_en": "Create animated 2D vector scenes.",
-      "description_zh": "创建二维矢量场景与动画。",
+      "description_en": "Two.js provides a 2D scene graph with paths, shapes, text, and groups. The same drawing API works with SVG, Canvas, or WebGL, and an update loop lets you animate scene properties.",
+      "description_zh": "Two.js 提供由路径、图形、文字和分组组成的 2D 场景图，同一套绘图 API 可使用 SVG、Canvas 或 WebGL 渲染，并通过更新循环驱动属性变化",
       "license": {
         "label": "MIT",
         "source_url": "https://github.com/jonobr1/two.js/blob/dev/LICENSE",
@@ -127,7 +139,10 @@
         "image_url": "https://repository-images.githubusercontent.com/5694937/c230f18d-aa36-47cd-911a-2722414d7ec6",
         "source_page": "https://github.com/jonobr1/two.js",
         "kind": "upstream-custom-social-banner"
-      }
+      },
+      "use_case_en": "Animate icons, line illustrations, or callouts for an explainer.",
+      "use_case_zh": "为解说片制作图标、线条插画或标注动效",
+      "guide_url": "https://two.js.org/docs/two/"
     },
     {
       "number": 6,
@@ -135,8 +150,8 @@
       "repository": "d3/d3",
       "category": "animation",
       "source_url": "https://github.com/d3/d3",
-      "description_en": "Build data-driven graphics and visualizations.",
-      "description_zh": "制作数据驱动的图形与可视化。",
+      "description_en": "D3 maps data values to visual properties with scales, axes, and shape generators. Data joins and transitions can animate changes as values arrive, move, or disappear.",
+      "description_zh": "D3 用比例尺、坐标轴和形状生成器把数据变成视觉元素，还能通过数据绑定和过渡动画表现数据的新增、移动和消失",
       "license": {
         "label": "ISC",
         "source_url": "https://github.com/d3/d3/blob/main/LICENSE",
@@ -146,7 +161,10 @@
         "image_url": "https://repository-images.githubusercontent.com/943149/c8e15cb8-7046-4518-9677-cd5f56b226c0",
         "source_page": "https://github.com/d3/d3",
         "kind": "upstream-custom-social-banner"
-      }
+      },
+      "use_case_en": "Animate a launch metric chart or show how rankings change across a sequence of dates.",
+      "use_case_zh": "做发布数据动效，或演示一组排名随日期变化的过程",
+      "guide_url": "https://d3js.org/getting-started"
     },
     {
       "number": 7,
@@ -154,8 +172,8 @@
       "repository": "mrdoob/three.js",
       "category": "scenes",
       "source_url": "https://github.com/mrdoob/three.js",
-      "description_en": "Build 3D scenes and camera movements.",
-      "description_zh": "创建三维场景与摄像机运动。",
+      "description_en": "Three.js provides JavaScript building blocks for browser-based 3D, including cameras, lighting, materials, and model loaders. Set up a scene and drive its objects or camera with code.",
+      "description_zh": "Three.js 为浏览器 3D 提供相机、灯光、材质和模型加载器等基础能力，可用代码搭建场景并驱动物体或相机",
       "license": {
         "label": "MIT",
         "source_url": "https://github.com/mrdoob/three.js/blob/dev/LICENSE",
@@ -165,7 +183,10 @@
         "image_url": "https://repository-images.githubusercontent.com/576201/6c52fa00-6238-11eb-8763-f36f6e226bba",
         "source_page": "https://github.com/mrdoob/three.js",
         "kind": "upstream-custom-social-banner"
-      }
+      },
+      "use_case_en": "Stage a product turntable or a camera move through a glTF model for a product video.",
+      "use_case_zh": "为产品视频制作转台镜头，或在 glTF 模型中安排一段运镜",
+      "guide_url": "https://threejs.org/manual/"
     },
     {
       "number": 8,
@@ -173,8 +194,8 @@
       "repository": "BabylonJS/Babylon.js",
       "category": "scenes",
       "source_url": "https://github.com/BabylonJS/Babylon.js",
-      "description_en": "Build and render real-time 3D scenes.",
-      "description_zh": "构建与渲染实时 3D 场景。",
+      "description_en": "Babylon.js is a real-time 3D engine with a scene graph, animation, and physically based materials. Its browser Inspector lets you inspect and tune a running scene.",
+      "description_zh": "Babylon.js 是支持场景图、动画和基于物理的材质的实时 3D 引擎，可以用浏览器里的 Inspector 检查和调整运行中的场景",
       "license": {
         "label": "Apache-2.0",
         "source_url": "https://github.com/BabylonJS/Babylon.js/blob/master/license.md",
@@ -184,7 +205,10 @@
         "image_url": "https://repository-images.githubusercontent.com/11007313/03147e80-4379-11ea-80b8-58c66da0bf29",
         "source_page": "https://github.com/BabylonJS/Babylon.js",
         "kind": "upstream-custom-social-banner"
-      }
+      },
+      "use_case_en": "Prototype a product scene with animated parts, then review lighting and materials before recording it.",
+      "use_case_zh": "为产品拆解做一版实时 3D 原型，在录制前调整灯光和材质",
+      "guide_url": "https://doc.babylonjs.com/"
     },
     {
       "number": 9,
@@ -192,8 +216,8 @@
       "repository": "pmndrs/drei",
       "category": "scenes",
       "source_url": "https://github.com/pmndrs/drei",
-      "description_en": "Use ready-made React Three Fiber helpers.",
-      "description_zh": "使用现成的 React Three Fiber 辅助组件。",
+      "description_en": "Drei supplies reusable React Three Fiber components for common 3D tasks. Helpers for cameras, environments, text, and glTF loading handle much of the scene setup.",
+      "description_zh": "Drei 为 React Three Fiber 提供可复用组件，用于设置相机、环境光、文字或加载 glTF 模型",
       "license": {
         "label": "MIT",
         "source_url": "https://github.com/pmndrs/drei/blob/master/LICENSE",
@@ -203,7 +227,10 @@
         "image_url": "https://opengraph.githubassets.com/a36c241a2aae4c847fba5f35ed57b9d5fea864c778d77c212fc0b47d513b7811/pmndrs/drei",
         "source_page": "https://github.com/pmndrs/drei",
         "kind": "github-generated-repository-preview"
-      }
+      },
+      "use_case_en": "Set up a React 3D product shot with an environment light and camera controls.",
+      "use_case_zh": "用 React 搭一组带环境光和相机控制的 3D 产品镜头",
+      "guide_url": "https://drei.docs.pmnd.rs/"
     },
     {
       "number": 10,
@@ -211,8 +238,8 @@
       "repository": "sparkjsdev/spark",
       "category": "scenes",
       "source_url": "https://github.com/sparkjsdev/spark",
-      "description_en": "Render 3D Gaussian splats with Three.js.",
-      "description_zh": "使用 Three.js 渲染三维高斯泼溅场景。",
+      "description_en": "Spark renders 3D Gaussian splats inside Three.js and supports formats such as PLY and SPZ. A scene can combine splats with mesh objects and transform them together.",
+      "description_zh": "Spark 在 Three.js 中渲染 3D 高斯泼溅场景，支持 PLY、SPZ 等格式，可把泼溅场景和网格物体放在同一个场景里调整",
       "license": {
         "label": "MIT",
         "source_url": "https://github.com/sparkjsdev/spark/blob/main/LICENSE",
@@ -222,7 +249,10 @@
         "image_url": "https://opengraph.githubassets.com/98a8ddb16c31715bafc8899896163deaec7ec0d6768fe91882941a02c13510c2/sparkjsdev/spark",
         "source_page": "https://github.com/sparkjsdev/spark",
         "kind": "github-generated-repository-preview"
-      }
+      },
+      "use_case_en": "Use a scanned location as a backdrop and add 3D titles or mesh props for a camera move.",
+      "use_case_zh": "用扫描得到的实景做背景，加入 3D 标题或网格道具，再安排运镜",
+      "guide_url": "https://sparkjs.dev/docs/"
     },
     {
       "number": 11,
@@ -230,8 +260,8 @@
       "repository": "cables-gl/cables_electron",
       "category": "scenes",
       "source_url": "https://github.com/cables-gl/cables_electron",
-      "description_en": "Build node-based visual scenes in the standalone desktop editor.",
-      "description_zh": "在独立桌面编辑器中通过可视化节点搭建场景。",
+      "description_en": "The standalone cables.gl editor lets you connect visual nodes into patches on a desktop. Patches route data between operations that control graphics and animation.",
+      "description_zh": "cables.gl 的桌面编辑器通过连线把可视化节点组成 Patch，节点之间传递数据，用来控制图形和动画",
       "license": {
         "label": "MIT",
         "source_url": "https://github.com/cables-gl/cables_electron/blob/develop/LICENCE",
@@ -241,7 +271,10 @@
         "image_url": "https://opengraph.githubassets.com/00e4ac7410cf4f003e01bfd01dcfc9d0286ea0fa399733426513e707a72fc906/cables-gl/cables_electron",
         "source_page": "https://github.com/cables-gl/cables_electron",
         "kind": "github-generated-repository-preview"
-      }
+      },
+      "use_case_en": "Build a looping abstract background by connecting geometry, transforms, and timing nodes.",
+      "use_case_zh": "连接几何、变换和时间节点，做一段可循环的抽象背景",
+      "guide_url": "https://cables.gl/standalone"
     },
     {
       "number": 12,
@@ -249,8 +282,8 @@
       "repository": "taichi-dev/taichi",
       "category": "physics",
       "source_url": "https://github.com/taichi-dev/taichi",
-      "description_en": "Write high-performance, GPU-accelerated physics simulations.",
-      "description_zh": "编写高性能、GPU 加速的物理模拟。",
+      "description_en": "Taichi adds parallel kernels and data structures to Python for numerical and graphics workloads. Simulation code can target a CPU or a supported GPU backend.",
+      "description_zh": "Taichi 为 Python 提供并行计算内核和数据结构，用于数值计算和图形任务，模拟代码可以运行在 CPU 或受支持的 GPU 后端",
       "license": {
         "label": "Apache-2.0",
         "source_url": "https://github.com/taichi-dev/taichi/blob/master/LICENSE",
@@ -260,7 +293,10 @@
         "image_url": "https://opengraph.githubassets.com/dca4a7a79c000fea5d3e77a49625bce5f4cc44f32b08d8217055a6c966fc08cb/taichi-dev/taichi",
         "source_page": "https://github.com/taichi-dev/taichi",
         "kind": "github-generated-repository-preview"
-      }
+      },
+      "use_case_en": "Prototype a particle or cloth effect and tune how it moves before using it in a shot.",
+      "use_case_zh": "先做粒子或布料效果原型，调好运动表现再用于镜头",
+      "guide_url": "https://docs.taichi-lang.org/"
     },
     {
       "number": 13,
@@ -268,8 +304,8 @@
       "repository": "InteractiveComputerGraphics/SPlisHSPlasH",
       "category": "physics",
       "source_url": "https://github.com/InteractiveComputerGraphics/SPlisHSPlasH",
-      "description_en": "Simulate SPH fluids and generate foam and spray effects.",
-      "description_zh": "模拟 SPH 流体并生成泡沫与喷溅效果。",
+      "description_en": "SPlisHSPlasH simulates fluids with smoothed particle hydrodynamics and can generate secondary spray, foam, and bubbles. It exports particle data for downstream tools.",
+      "description_zh": "SPlisHSPlasH 用光滑粒子流体动力学模拟液体，可生成飞溅、泡沫和气泡，并把粒子数据导出给后续工具",
       "license": {
         "label": "MIT",
         "source_url": "https://github.com/InteractiveComputerGraphics/SPlisHSPlasH/blob/master/LICENSE",
@@ -279,7 +315,10 @@
         "image_url": "https://repository-images.githubusercontent.com/74058995/510e03f0-6306-48bb-afaf-5921b4455371",
         "source_page": "https://github.com/InteractiveComputerGraphics/SPlisHSPlasH",
         "kind": "upstream-custom-social-banner"
-      }
+      },
+      "use_case_en": "Simulate a liquid splash and bring the particle sequence into Blender for lighting and rendering.",
+      "use_case_zh": "模拟液体飞溅，再把粒子序列导入 Blender 打光和渲染",
+      "guide_url": "https://github.com/InteractiveComputerGraphics/SPlisHSPlasH/blob/master/doc/py_getting_started.md"
     },
     {
       "number": 14,
@@ -287,8 +326,8 @@
       "repository": "FarazzShaikh/THREE-CustomShaderMaterial",
       "category": "physics",
       "source_url": "https://github.com/FarazzShaikh/THREE-CustomShaderMaterial",
-      "description_en": "Combine custom shaders with standard Three.js materials and lighting.",
-      "description_zh": "将自定义着色器与 Three.js 标准材质及光照结合。",
+      "description_en": "Custom Shader Material lets you add custom vertex and fragment logic to a standard Three.js material. The base material can still supply features such as lighting and roughness.",
+      "description_zh": "Custom Shader Material 可以给 Three.js 标准材质加入自定义顶点和片元逻辑，同时保留基础材质的光照、粗糙度等能力",
       "license": {
         "label": "MIT",
         "source_url": "https://github.com/FarazzShaikh/THREE-CustomShaderMaterial/blob/main/LICENSE.md",
@@ -298,7 +337,10 @@
         "image_url": "https://opengraph.githubassets.com/fce19e6042626c6ab4867793dca16d6eae1026d3924b178b9fbde1d5d8670a58/FarazzShaikh/THREE-CustomShaderMaterial",
         "source_page": "https://github.com/FarazzShaikh/THREE-CustomShaderMaterial",
         "kind": "github-generated-repository-preview"
-      }
+      },
+      "use_case_en": "Add a procedural reveal or displacement to a product surface while keeping its existing scene lighting.",
+      "use_case_zh": "给产品表面加程序化揭晓或形变效果，同时沿用场景已有的打光",
+      "guide_url": "https://github.com/FarazzShaikh/THREE-CustomShaderMaterial#installation"
     },
     {
       "number": 15,
@@ -306,8 +348,8 @@
       "repository": "opentoonz/opentoonz",
       "category": "physics",
       "source_url": "https://github.com/opentoonz/opentoonz",
-      "description_en": "Create hand-drawn 2D character animation.",
-      "description_zh": "制作手绘二维角色动画。",
+      "description_en": "OpenToonz is a 2D animation application for drawing and painting frames, arranging exposures in an Xsheet, and compositing levels with effects. It supports vector and raster artwork.",
+      "description_zh": "OpenToonz 是 2D 动画软件，可以绘制和上色、在摄影表里安排画格，再把各图层和效果合成，支持矢量与位图素材",
       "license": {
         "label": "BSD-3-Clause + third-party notices",
         "source_url": "https://github.com/opentoonz/opentoonz/blob/master/LICENSE.txt",
@@ -319,7 +361,10 @@
         "image_url": "https://opengraph.githubassets.com/fcf63601c29c69468fa3aa91adebbe79b0212c60538f31a47ab9c27258f5db54/opentoonz/opentoonz",
         "source_page": "https://github.com/opentoonz/opentoonz",
         "kind": "github-generated-repository-preview"
-      }
+      },
+      "use_case_en": "Draw a character reaction frame by frame, time it in the Xsheet, and composite it with a background.",
+      "use_case_zh": "逐帧画一段角色反应，在摄影表里调节节奏，再和背景合成",
+      "guide_url": "https://opentoonz.readthedocs.io/en/latest/"
     },
     {
       "number": 16,
@@ -327,8 +372,8 @@
       "repository": "QwenLM/Qwen3-TTS",
       "category": "audio",
       "source_url": "https://github.com/QwenLM/Qwen3-TTS",
-      "description_en": "Generate expressive speech for voiceovers.",
-      "description_zh": "生成富有表现力的语音，用于配音。",
+      "description_en": "Qwen3-TTS is a text-to-speech model family with variants for preset voices, voice design, and reference-based cloning. The upstream quickstart shows how to choose and run the model variant for each task.",
+      "description_zh": "Qwen3-TTS 是一组文字转语音模型，不同版本分别支持预设音色、音色设计或参考音频克隆，上游快速入门给出了各任务的用法",
       "license": {
         "label": "Apache-2.0",
         "source_url": "https://github.com/QwenLM/Qwen3-TTS/blob/main/LICENSE",
@@ -338,7 +383,10 @@
         "image_url": "https://opengraph.githubassets.com/77e2240c1ce87a5a0b898992b90e670d5857070c6b0c8f8cfb59f93faceaef82/QwenLM/Qwen3-TTS",
         "source_page": "https://github.com/QwenLM/Qwen3-TTS",
         "kind": "github-generated-repository-preview"
-      }
+      },
+      "use_case_en": "Audition different narration styles against the same rough cut before settling on a voice.",
+      "use_case_zh": "给同一版粗剪试配不同风格的旁白，再决定用哪种声音",
+      "guide_url": "https://github.com/QwenLM/Qwen3-TTS#quickstart"
     },
     {
       "number": 17,
@@ -346,8 +394,8 @@
       "repository": "audacity/audacity",
       "category": "audio",
       "source_url": "https://github.com/audacity/audacity",
-      "description_en": "Record, clean up, edit, and mix audio.",
-      "description_zh": "录制、清理、编辑与混合音频。",
+      "description_en": "Audacity is a desktop editor for recording and editing audio tracks. Its tools cover waveform edits, noise reduction, fades, and level adjustment before export.",
+      "description_zh": "Audacity 是用于录制和编辑音轨的桌面工具，可做波形剪辑、降噪、淡入淡出和音量调整，再导出音频",
       "license": {
         "label": "GPL-3.0 + file-level notices",
         "source_url": "https://github.com/audacity/audacity/blob/master/LICENSE.txt",
@@ -359,7 +407,10 @@
         "image_url": "https://opengraph.githubassets.com/b15a43eca658d79444a94b5c8979c659e22b68f654cec298f4a68f16893ee941/audacity/audacity",
         "source_page": "https://github.com/audacity/audacity",
         "kind": "github-generated-repository-preview"
-      }
+      },
+      "use_case_en": "Clean up a voiceover take and balance its level against a music bed before bringing the mix into a video editor.",
+      "use_case_zh": "清理旁白录音并调整它与配乐的音量比例，再把混音导入视频编辑器",
+      "guide_url": "https://manual.audacityteam.org/"
     },
     {
       "number": 18,
@@ -367,8 +418,8 @@
       "repository": "SubtitleEdit/subtitleedit",
       "category": "audio",
       "source_url": "https://github.com/SubtitleEdit/subtitleedit",
-      "description_en": "Edit subtitles and adjust their timing.",
-      "description_zh": "编辑字幕并调整时间同步。",
+      "description_en": "Subtitle Edit lets you preview captions against video, adjust cue timing and text, and convert between subtitle formats. Its built-in checks help catch common subtitle errors.",
+      "description_zh": "Subtitle Edit 可以对照视频预览字幕、调整字幕段落的时间和文字、转换字幕格式，并用内置检查发现常见问题",
       "license": {
         "label": "MIT",
         "source_url": "https://github.com/SubtitleEdit/subtitleedit/blob/main/LICENSE",
@@ -378,7 +429,10 @@
         "image_url": "https://opengraph.githubassets.com/a1e1ba001eea4a19eb1adfb4174f5f2a901b51e224d10cb3fea1bb69372fdf78/SubtitleEdit/subtitleedit",
         "source_page": "https://github.com/SubtitleEdit/subtitleedit",
         "kind": "github-generated-repository-preview"
-      }
+      },
+      "use_case_en": "Review auto-generated captions for timing and line breaks, then deliver a corrected SRT.",
+      "use_case_zh": "检查自动字幕的时轴和断行，再交付修订后的 SRT",
+      "guide_url": "https://subtitleedit.github.io/subtitleedit/"
     },
     {
       "number": 19,
@@ -386,8 +440,8 @@
       "repository": "WyattBlue/auto-editor",
       "category": "audio",
       "source_url": "https://github.com/WyattBlue/auto-editor",
-      "description_en": "Automatically edit video and audio using silence or loudness analysis.",
-      "description_zh": "根据静音或响度分析自动剪辑视频与音频。",
+      "description_en": "Auto-Editor analyzes a video with rules such as audio loudness or detected motion. It can trim or speed through selected intervals and export an editing timeline for further work.",
+      "description_zh": "Auto-Editor 可以按音量或画面运动等规则分析视频，裁掉或加速指定区间，也能导出剪辑时间线供后续调整",
       "license": {
         "label": "Unlicense",
         "source_url": "https://github.com/WyattBlue/auto-editor/blob/master/LICENSE",
@@ -397,7 +451,10 @@
         "image_url": "https://repository-images.githubusercontent.com/260117248/8e873ebb-fe50-48f2-8e62-e9ad9f85b3aa",
         "source_page": "https://github.com/WyattBlue/auto-editor",
         "kind": "upstream-custom-social-banner"
-      }
+      },
+      "use_case_en": "Make a first pass on a screen recording or talking-head take, then refine the cuts by hand.",
+      "use_case_zh": "先粗剪一版录屏或口播，再到编辑器里手动微调切点",
+      "guide_url": "https://auto-editor.com/docs"
     },
     {
       "number": 20,
@@ -405,8 +462,8 @@
       "repository": "hzwer/ECCV2022-RIFE",
       "category": "delivery",
       "source_url": "https://github.com/hzwer/ECCV2022-RIFE",
-      "description_en": "Interpolate video frames for smoother motion and slow motion.",
-      "description_zh": "通过视频补帧获得更流畅的画面与慢动作效果。",
+      "description_en": "RIFE estimates intermediate frames between existing images. Its inference scripts accept a video or image sequence and can produce output at a higher frame rate.",
+      "description_zh": "RIFE 在已有画面之间预测中间帧，推理脚本可处理视频或图片序列，输出更高帧率的结果",
       "license": {
         "label": "MIT",
         "source_url": "https://github.com/hzwer/ECCV2022-RIFE/blob/main/LICENSE",
@@ -416,7 +473,10 @@
         "image_url": "https://opengraph.githubassets.com/6cbb4110b9a5ca968f5f26919056594374c1f523b6cab86b418665d4491f68b1/hzwer/ECCV2022-RIFE",
         "source_page": "https://github.com/hzwer/ECCV2022-RIFE",
         "kind": "github-generated-repository-preview"
-      }
+      },
+      "use_case_en": "Create a slow-motion insert from a short clip and review fast movement and occlusions for interpolation artifacts.",
+      "use_case_zh": "把短片段做成慢动作插镜，再检查快速运动和遮挡处有没有插帧瑕疵",
+      "guide_url": "https://github.com/hzwer/ECCV2022-RIFE#cli-usage"
     },
     {
       "number": 21,
@@ -424,8 +484,8 @@
       "repository": "obsproject/obs-studio",
       "category": "delivery",
       "source_url": "https://github.com/obsproject/obs-studio",
-      "description_en": "Capture screens and record video.",
-      "description_zh": "采集屏幕并录制视频。",
+      "description_en": "OBS Studio records or streams scenes assembled from sources such as a window, display, camera, and microphone. You can switch scenes and mix audio during capture.",
+      "description_zh": "OBS Studio 可把窗口、屏幕、摄像头和麦克风等来源组合成场景，用于录制或直播，采集时可以切换场景并调节声音",
       "license": {
         "label": "GPL-2.0-or-later",
         "source_url": "https://github.com/obsproject/obs-studio/blob/master/COPYING",
@@ -435,7 +495,10 @@
         "image_url": "https://repository-images.githubusercontent.com/13233158/2e2fae80-da26-11e9-8da2-e1e0b931a235",
         "source_page": "https://github.com/obsproject/obs-studio",
         "kind": "upstream-custom-social-banner"
-      }
+      },
+      "use_case_en": "Record a software walkthrough with a webcam inset and a dedicated microphone track.",
+      "use_case_zh": "录制带摄像头小窗和独立麦克风音轨的软件演示",
+      "guide_url": "https://obsproject.com/kb/quick-start-guide"
     },
     {
       "number": 22,
@@ -443,8 +506,8 @@
       "repository": "FFmpeg/FFmpeg",
       "category": "delivery",
       "source_url": "https://github.com/FFmpeg/FFmpeg",
-      "description_en": "Encode, convert, and package the final video.",
-      "description_zh": "完成视频编码、格式转换与最终封装。",
+      "description_en": "FFmpeg is a command-line toolkit for reading, filtering, encoding, and packaging media streams. It can scale footage, select audio or subtitle tracks, and output different codecs and containers.",
+      "description_zh": "FFmpeg 是读写、滤镜处理、编码和封装媒体流的命令行工具，可以缩放画面、选择音轨或字幕轨，并输出不同编码和容器",
       "license": {
         "label": "LGPL-2.1-or-later / optional GPL",
         "source_url": "https://github.com/FFmpeg/FFmpeg/blob/master/LICENSE.md",
@@ -456,7 +519,10 @@
         "image_url": "https://opengraph.githubassets.com/fe798c68729ffbdf282625a25ebb7e39bc34de686d2b430fe870b6f14e06984a/FFmpeg/FFmpeg",
         "source_page": "https://github.com/FFmpeg/FFmpeg",
         "kind": "github-generated-repository-preview"
-      }
+      },
+      "use_case_en": "Produce delivery variants from a master render, such as a resized review MP4 with the intended audio track.",
+      "use_case_zh": "从母版批量制作交付版本，例如缩小分辨率并选对音轨的审片 MP4",
+      "guide_url": "https://ffmpeg.org/ffmpeg.html"
     },
     {
       "number": 23,
@@ -464,8 +530,8 @@
       "repository": "heygen-com/hyperframes",
       "category": "animation",
       "source_url": "https://github.com/heygen-com/hyperframes",
-      "description_en": "Compose titles, overlays, and motion graphics in HTML/CSS and render them to MP4 with the CLI.",
-      "description_zh": "用 HTML/CSS 制作片头、叠加层和动态图形，再通过 CLI 渲染成 MP4",
+      "description_en": "HyperFrames turns HTML, CSS, media, and seekable animation into video. Its CLI can preview a composition and render it to MP4.",
+      "description_zh": "HyperFrames 把 HTML、CSS、媒体素材和可定位时间的动画渲染成视频，CLI 支持预览合成并导出 MP4",
       "license": {
         "label": "Apache-2.0",
         "source_url": "https://github.com/heygen-com/hyperframes/blob/main/LICENSE",
@@ -476,7 +542,10 @@
         "source_page": "https://github.com/heygen-com/hyperframes",
         "kind": "github-generated-repository-preview"
       },
-      "checked_on": "2026-11-08"
+      "checked_on": "2026-11-08",
+      "use_case_en": "Render a title card, caption treatment, or launch animation using browser layout and GSAP timelines.",
+      "use_case_zh": "用浏览器布局和 GSAP 时间轴制作片头卡、字幕动效或发布动画",
+      "guide_url": "https://hyperframes.heygen.com/quickstart"
     },
     {
       "number": 24,
@@ -484,8 +553,8 @@
       "repository": "Leonxlnx/cinetic",
       "category": "animation",
       "source_url": "https://github.com/Leonxlnx/cinetic",
-      "description_en": "Guide a coding agent from script and animated typography to a rendered product launch or update video, using Remotion or HyperFrames.",
-      "description_zh": "让编码代理用 Remotion 或 HyperFrames 制作产品发布片或更新片，覆盖文案、文字动效到渲染",
+      "description_en": "cinetic gives coding agents a workflow for writing, designing, and rendering product launch or update films. It includes treatments for animated type and product UI and runs with Remotion or HyperFrames.",
+      "description_zh": "cinetic 给编码代理提供产品发布片和更新片的制作流程，覆盖文案、文字动效、产品界面和渲染，可用 Remotion 或 HyperFrames",
       "license": {
         "label": "MIT",
         "source_url": "https://github.com/Leonxlnx/cinetic/blob/main/LICENSE",
@@ -498,7 +567,10 @@
         "source_page": "https://github.com/Leonxlnx/cinetic",
         "kind": "github-generated-repository-preview"
       },
-      "checked_on": "2026-11-08"
+      "checked_on": "2026-11-08",
+      "use_case_en": "Turn a short product brief into a release trailer with moving type and a staged interface walkthrough.",
+      "use_case_zh": "把一份简短的产品简介做成发布预告，用文字动效串起一段界面演示",
+      "guide_url": "https://github.com/Leonxlnx/cinetic/blob/main/docs/setup.md"
     },
     {
       "number": 25,
@@ -506,8 +578,8 @@
       "repository": "op7418/guizang-product-video-skill",
       "category": "animation",
       "source_url": "https://github.com/op7418/guizang-product-video-skill",
-      "description_en": "Turn real software features and UI components into release videos with storyboards, code-driven motion, and sound design.",
-      "description_zh": "复用真实的软件功能与界面组件，通过分镜、代码动效和声音设计制作版本更新片",
+      "description_en": "Guizang Product Video Skill guides an agent through storyboarding, adapting real product components for video, and building motion and sound around each feature. The workflow uses the product’s own design language.",
+      "description_zh": "归藏 Product Video Skill 引导代理做分镜、把真实产品组件适配进视频，再围绕每项功能安排动效和声音，沿用产品自己的设计语言",
       "license": {
         "label": "AGPL-3.0",
         "source_url": "https://github.com/op7418/guizang-product-video-skill/blob/main/LICENSE",
@@ -520,7 +592,10 @@
         "source_page": "https://github.com/op7418/guizang-product-video-skill",
         "kind": "github-generated-repository-preview"
       },
-      "checked_on": "2026-11-08"
+      "checked_on": "2026-11-08",
+      "use_case_en": "Turn a software changelog into a short video that demonstrates updated features using the actual interface.",
+      "use_case_zh": "把一份软件更新日志做成短片，用真实界面演示改了哪些功能",
+      "guide_url": "https://github.com/op7418/guizang-product-video-skill/blob/main/SKILL.md"
     },
     {
       "number": 26,
@@ -528,8 +603,8 @@
       "repository": "ahujasid/mcp-for-blender",
       "category": "scenes",
       "source_url": "https://github.com/ahujasid/mcp-for-blender",
-      "description_en": "Connect an MCP client to Blender to lay out shots, adjust cameras, and review scene previews during previsualization.",
-      "description_zh": "将 MCP 客户端连接到 Blender，在预演阶段搭建镜头、调整相机并查看场景预览",
+      "description_en": "MCP for Blender connects an MCP client to a Blender add-on that can inspect and modify a scene. The agent can arrange objects and cameras and request viewport or camera views for review.",
+      "description_zh": "MCP for Blender 把 MCP 客户端连接到 Blender 插件，可检查和修改场景，代理能摆放物体和相机，并获取视口或相机画面",
       "license": {
         "label": "MIT",
         "source_url": "https://github.com/ahujasid/mcp-for-blender/blob/main/LICENSE",
@@ -540,7 +615,10 @@
         "source_page": "https://github.com/ahujasid/mcp-for-blender",
         "kind": "github-generated-repository-preview"
       },
-      "checked_on": "2026-11-08"
+      "checked_on": "2026-11-08",
+      "use_case_en": "Block out a sequence and compare alternate camera angles before adding detailed models or lighting.",
+      "use_case_zh": "先搭一组简模镜头，比较机位后再补精细模型和灯光",
+      "guide_url": "https://github.com/ahujasid/mcp-for-blender#quickstart"
     },
     {
       "number": 27,
@@ -548,8 +626,8 @@
       "repository": "MaxLiu22/Motion2MixamoRig",
       "category": "scenes",
       "source_url": "https://github.com/MaxLiu22/Motion2MixamoRig",
-      "description_en": "Extract body motion from video and retarget it to a Mixamo-rigged character for use in a 3D scene.",
-      "description_zh": "从视频中提取人体动作并重定向到 Mixamo 骨骼角色，供 3D 场景使用",
+      "description_en": "Motion2MixamoRig estimates body motion from video, then retargets it to a Mixamo rig. Its export can be imported into Blender as an animated character.",
+      "description_zh": "Motion2MixamoRig 从视频中估计人体动作，再把动作映射到 Mixamo 骨骼，可以把导出的动画角色导入 Blender",
       "license": {
         "label": "Apache-2.0 (code)",
         "source_url": "https://github.com/MaxLiu22/Motion2MixamoRig/blob/main/LICENSE",
@@ -562,7 +640,10 @@
         "source_page": "https://github.com/MaxLiu22/Motion2MixamoRig",
         "kind": "github-generated-repository-preview"
       },
-      "checked_on": "2026-11-08"
+      "checked_on": "2026-11-08",
+      "use_case_en": "Start a 3D performance from a filmed movement reference and refine the result in Blender.",
+      "use_case_zh": "用一段实拍动作参考起步做 3D 角色表演，再到 Blender 里精修",
+      "guide_url": "https://github.com/MaxLiu22/Motion2MixamoRig/blob/main/docs/user-guide.md"
     },
     {
       "number": 28,
@@ -570,8 +651,8 @@
       "repository": "JohnHeibel/ClaudeAnimationBase",
       "category": "physics",
       "source_url": "https://github.com/JohnHeibel/ClaudeAnimationBase",
-      "description_en": "Start a hand-painted character short with p5.js and p5.brush, using reusable expressions and shot-by-shot MP4 rendering.",
-      "description_zh": "用 p5.js 和 p5.brush 制作手绘风格的角色短片，复用现成的表情并逐镜头渲染为 MP4",
+      "description_en": "ClaudeAnimationBase is a p5.js and p5.brush starter kit with reusable character views, expressions, and scene code. It includes an agent guide and a renderer for contact sheets and MP4 output.",
+      "description_zh": "ClaudeAnimationBase 是用 p5.js 和 p5.brush 搭的起步套件，提供可复用的角色视角、表情和场景代码，还有代理指南以及能输出分镜缩略图和 MP4 的渲染器",
       "license": {
         "label": "MIT",
         "source_url": "https://github.com/JohnHeibel/ClaudeAnimationBase/blob/main/LICENSE",
@@ -582,7 +663,10 @@
         "source_page": "https://github.com/JohnHeibel/ClaudeAnimationBase",
         "kind": "github-generated-repository-preview"
       },
-      "checked_on": "2026-11-08"
+      "checked_on": "2026-11-08",
+      "use_case_en": "Storyboard a hand-painted reaction short, review the poses on a contact sheet, and render the scene.",
+      "use_case_zh": "做一段手绘风角色反应短片，先用镜头缩略图检查姿势，再渲染成片",
+      "guide_url": "https://github.com/JohnHeibel/ClaudeAnimationBase/blob/main/ANIMATION_GUIDE.md"
     },
     {
       "number": 29,
@@ -590,8 +674,8 @@
       "repository": "OpenCut-app/OpenCut",
       "category": "audio",
       "source_url": "https://github.com/OpenCut-app/OpenCut",
-      "description_en": "Edit clips on a browser timeline with OpenCut Classic and follow the next-generation editor in the main repository.",
-      "description_zh": "用 OpenCut Classic 在浏览器时间线上剪辑素材，并在主仓库跟进新版编辑器",
+      "description_en": "OpenCut Classic is the browser editor linked by the OpenCut project. It provides a timeline and preview for arranging and trimming video clips.",
+      "description_zh": "OpenCut Classic 是 OpenCut 项目提供的浏览器剪辑器，可以在时间线上排布、修剪视频片段并预览",
       "license": {
         "label": "MIT",
         "source_url": "https://github.com/OpenCut-app/OpenCut/blob/main/LICENSE",
@@ -604,7 +688,10 @@
         "source_page": "https://github.com/OpenCut-app/OpenCut",
         "kind": "github-generated-repository-preview"
       },
-      "checked_on": "2026-11-08"
+      "checked_on": "2026-11-08",
+      "use_case_en": "Assemble a short sequence from several existing clips in a browser.",
+      "use_case_zh": "在浏览器里把几段现有素材剪成一段短片",
+      "guide_url": "https://github.com/opencut-app/opencut-classic"
     },
     {
       "number": 30,
@@ -612,8 +699,8 @@
       "repository": "mifi/lossless-cut",
       "category": "audio",
       "source_url": "https://github.com/mifi/lossless-cut",
-      "description_en": "Pull selects and rough-cut camera footage without re-encoding when the source format and cut points allow it.",
-      "description_zh": "从相机素材中挑选可用镜头并做粗剪，在源格式和切点允许时跳过重新编码",
+      "description_en": "LosslessCut is an FFmpeg-based desktop app for trimming media and working with its tracks. It can copy streams without re-encoding when the format and cut points allow.",
+      "description_zh": "LosslessCut 是基于 FFmpeg 的桌面工具，用于剪取素材和处理媒体轨道，格式和切点允许时可以直接复制流，省去重新编码",
       "license": {
         "label": "GPL-2.0-only",
         "source_url": "https://github.com/mifi/lossless-cut/blob/master/LICENSE",
@@ -624,7 +711,10 @@
         "source_page": "https://github.com/mifi/lossless-cut",
         "kind": "github-generated-repository-preview"
       },
-      "checked_on": "2026-11-08"
+      "checked_on": "2026-11-08",
+      "use_case_en": "Pull usable segments out of a long camera recording before importing them into a full timeline editor.",
+      "use_case_zh": "从较长的相机录像里先挑出能用的片段，再导入完整的时间线编辑器",
+      "guide_url": "https://losslesscut.app/docs/getting-started"
     },
     {
       "number": 31,
@@ -632,8 +722,8 @@
       "repository": "browser-use/video-use",
       "category": "audio",
       "source_url": "https://github.com/browser-use/video-use",
-      "description_en": "Use an editing agent to select takes, remove filler words, and burn captions from word-level transcripts.",
-      "description_zh": "让剪辑代理依据逐词转录选择片段、删除口头填充词并烧录字幕",
+      "description_en": "video-use gives a coding agent a word-level transcript and visual checks near candidate cuts. It turns edit decisions into a rendered video with FFmpeg and can add captions or motion overlays.",
+      "description_zh": "video-use 为编码代理提供逐词转录和候选切点附近的画面，按剪辑决定用 FFmpeg 渲染，也能加字幕或动效叠加层",
       "license": {
         "label": "MIT",
         "source_url": "https://github.com/browser-use/video-use/blob/main/LICENSE",
@@ -646,7 +736,10 @@
         "source_page": "https://github.com/browser-use/video-use",
         "kind": "github-generated-repository-preview"
       },
-      "checked_on": "2026-11-08"
+      "checked_on": "2026-11-08",
+      "use_case_en": "Clean up a talking-head clip by choosing between retakes, removing false starts, and checking the rendered joins.",
+      "use_case_zh": "从多次口播中挑选合适的版本、剪掉重来前的片段，并回看渲染后的接缝",
+      "guide_url": "https://github.com/browser-use/video-use/blob/main/SKILL.md"
     },
     {
       "number": 32,
@@ -654,8 +747,8 @@
       "repository": "palmier-io/palmier-pro",
       "category": "audio",
       "source_url": "https://github.com/palmier-io/palmier-pro",
-      "description_en": "Edit on a macOS timeline with an MCP-connected agent and generate media inside the editor.",
-      "description_zh": "在 macOS 时间线上通过 MCP 让代理参与剪辑，并在编辑器内生成素材",
+      "description_en": "Palmier Pro is a macOS timeline editor with MCP support and in-editor media generation. An MCP client can issue editing actions while the timeline stays available for manual review.",
+      "description_zh": "Palmier Pro 是支持 MCP 和编辑器内素材生成的 macOS 时间线编辑器，可以让 MCP 客户端发出剪辑操作，再在时间线上人工检查",
       "license": {
         "label": "GPL-3.0 (source)",
         "source_url": "https://github.com/palmier-io/palmier-pro/blob/main/LICENSE",
@@ -668,7 +761,10 @@
         "source_page": "https://github.com/palmier-io/palmier-pro",
         "kind": "github-generated-repository-preview"
       },
-      "checked_on": "2026-11-08"
+      "checked_on": "2026-11-08",
+      "use_case_en": "Ask an agent to assemble or adjust a rough cut, then inspect and refine it on the timeline.",
+      "use_case_zh": "让代理搭一版粗剪或调整现有片段，再回到时间线上查看和微调",
+      "guide_url": "https://github.com/palmier-io/palmier-pro#mcp-server"
     }
   ]
 }
