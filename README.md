@@ -2,13 +2,13 @@
 
 <div align="center">
 
-<a href="assets/infographic-en.png"><img src="assets/infographic-en.png" width="760" alt="Infographic of 22 motion and animation GitHub projects in five categories; open full resolution"></a>
+<a href="assets/infographic-en.png"><img src="assets/infographic-en.png" width="760" alt="Infographic of 32 motion and animation GitHub projects in five categories; open full resolution"></a>
 
 <h1>Awesome Motion & Animation</h1>
 
-<p>22 GitHub projects for animation, 3D, physics, audio, editing, and delivery.</p>
+<p>32 GitHub projects for animation, 3D, physics, audio, editing, and delivery.</p>
 
-<p><a href="LICENSE"><img src="assets/badge-license.svg" alt="Collection license: CC BY 4.0"></a> <a href="#animation"><img src="assets/badge-projects.svg" alt="22 GitHub projects"></a> <a href="README.md"><img src="assets/badge-en.svg" alt="Read in English"></a> <a href="README_zh-CN.md"><img src="assets/badge-zh.svg" alt="阅读简体中文"></a></p>
+<p><a href="LICENSE"><img src="assets/badge-license.svg" alt="Collection license: CC BY 4.0"></a> <a href="#animation"><img src="assets/badge-projects.svg" alt="32 GitHub projects"></a> <a href="README.md"><img src="assets/badge-en.svg" alt="Read in English"></a> <a href="README_zh-CN.md"><img src="assets/badge-zh.svg" alt="阅读简体中文"></a></p>
 
 <p><a href="#animation">Explore the collection</a> · <a href="CONTRIBUTING.md">Suggest a resource</a></p>
 
@@ -42,10 +42,10 @@ This collection includes open-source projects and source-available software with
 ## 🧭 Overview
 | Category | Projects |
 | --- | ---: |
-| [Animation & Choreography](#animation) | 6 |
-| [3D & Scenes](#scenes) | 5 |
-| [Physics & Drawing](#physics) | 4 |
-| [Audio & Editing](#audio) | 4 |
+| [Animation & Choreography](#animation) | 9 |
+| [3D & Scenes](#scenes) | 7 |
+| [Physics & Drawing](#physics) | 5 |
+| [Audio & Editing](#audio) | 8 |
 | [Render & Delivery](#delivery) | 3 |
 
 <a id="getting-started"></a>
@@ -59,6 +59,12 @@ This collection includes open-source projects and source-available software with
 
 Use this collection for discovery and tool selection. Choose the pieces you need; there is no requirement to install the entire list.
 
+
+Start with the task you need to do:
+
+- **Animate and render with HTML:** [HyperFrames](#project-23).
+- **Make a product video:** [cinetic](#project-24) or [Guizang Product Video Skill](#project-25).
+- **Rough-cut footage:** [LosslessCut](#project-30) for source-quality selects or [video-use](#project-31) for transcript-based edits.
 
 <a id="workflow"></a>
 
@@ -138,6 +144,40 @@ Build data-driven graphics and visualizations.
 
 **License:** [ISC](https://github.com/d3/d3/blob/main/LICENSE).
 
+<a id="project-23"></a>
+
+### 23 · [HyperFrames](https://github.com/heygen-com/hyperframes)
+
+<a href="https://github.com/heygen-com/hyperframes"><img src="https://opengraph.githubassets.com/6e0fcb958680bae36cd27d37c5186f86a71d55124942594928be8f96b16407cc/heygen-com/hyperframes" alt="HyperFrames — official GitHub repository preview; open repository" width="760"></a>
+
+Compose titles, overlays, and motion graphics in HTML/CSS and render them to MP4 with the CLI.
+
+**License:** [Apache-2.0](https://github.com/heygen-com/hyperframes/blob/main/LICENSE).
+
+<a id="project-24"></a>
+
+### 24 · [cinetic](https://github.com/Leonxlnx/cinetic)
+
+<a href="https://github.com/Leonxlnx/cinetic"><img src="https://opengraph.githubassets.com/6243e867f2658391808e583356ce37ce36c9eb7b16410f04bbc75ef6680c2942/Leonxlnx/cinetic" alt="cinetic — official GitHub repository preview; open repository" width="760"></a>
+
+Guide a coding agent from script and animated typography to a rendered product launch or update video, using Remotion or HyperFrames.
+
+**License:** [MIT](https://github.com/Leonxlnx/cinetic/blob/main/LICENSE).
+
+Remotion, the default renderer, has [separate licensing terms](https://github.com/remotion-dev/remotion/blob/main/LICENSE.md).
+
+<a id="project-25"></a>
+
+### 25 · [Guizang Product Video Skill](https://github.com/op7418/guizang-product-video-skill)
+
+<a href="https://github.com/op7418/guizang-product-video-skill"><img src="https://opengraph.githubassets.com/c93b43abfb6d19922aff54dd39dab02d60b3b95a63a942a259fbaeeb83d3bcc0/op7418/guizang-product-video-skill" alt="Guizang Product Video Skill — official GitHub repository preview; open repository" width="760"></a>
+
+Turn real software features and UI components into release videos with storyboards, code-driven motion, and sound design.
+
+**License:** [AGPL-3.0](https://github.com/op7418/guizang-product-video-skill/blob/main/LICENSE).
+
+The bundled CodePilot fallback assets retain [Business Source License 1.1 terms](https://github.com/op7418/guizang-product-video-skill/blob/main/assets/fallback/LICENSE.CodePilot).
+
 <a id="scenes"></a>
 
 ## 🧊 3D & Scenes
@@ -194,6 +234,28 @@ Build node-based visual scenes in the standalone desktop editor.
 
 **License:** [MIT](https://github.com/cables-gl/cables_electron/blob/develop/LICENCE).
 
+<a id="project-26"></a>
+
+### 26 · [MCP for Blender](https://github.com/ahujasid/mcp-for-blender)
+
+<a href="https://github.com/ahujasid/mcp-for-blender"><img src="https://opengraph.githubassets.com/d0660785425b79050202708b4c7d9c4ba9cc60fc5c8ed3daee24bc87a00e6bbb/ahujasid/mcp-for-blender" alt="MCP for Blender — official GitHub repository preview; open repository" width="760"></a>
+
+Connect an MCP client to Blender to lay out shots, adjust cameras, and review scene previews during previsualization.
+
+**License:** [MIT](https://github.com/ahujasid/mcp-for-blender/blob/main/LICENSE).
+
+<a id="project-27"></a>
+
+### 27 · [Motion2MixamoRig](https://github.com/MaxLiu22/Motion2MixamoRig)
+
+<a href="https://github.com/MaxLiu22/Motion2MixamoRig"><img src="https://opengraph.githubassets.com/f92b2987f7f19941685f12d63ea735fdfa122bfaccffb50cc9aaa1f1f4b386c7/MaxLiu22/Motion2MixamoRig" alt="Motion2MixamoRig — official GitHub repository preview; open repository" width="760"></a>
+
+Extract body motion from video and retarget it to a Mixamo-rigged character for use in a 3D scene.
+
+**License:** [Apache-2.0 (code)](https://github.com/MaxLiu22/Motion2MixamoRig/blob/main/LICENSE).
+
+Downloaded models, weights, and character assets have [separate terms](https://github.com/MaxLiu22/Motion2MixamoRig#license); the default SMPL-X license limits commercial use.
+
 <a id="physics"></a>
 
 ## 🌊 Physics & Drawing
@@ -241,6 +303,16 @@ Create hand-drawn 2D character animation.
 **License:** [BSD-3-Clause + third-party notices](https://github.com/opentoonz/opentoonz/blob/master/LICENSE.txt).
 
 Third-party libraries and bundled brushes carry their own terms.
+
+<a id="project-28"></a>
+
+### 28 · [ClaudeAnimationBase](https://github.com/JohnHeibel/ClaudeAnimationBase)
+
+<a href="https://github.com/JohnHeibel/ClaudeAnimationBase"><img src="https://opengraph.githubassets.com/fa387dce7cb66fbf4d230c914ea4c3c1975b589de9b29283b56a47e6a916e061/JohnHeibel/ClaudeAnimationBase" alt="ClaudeAnimationBase — official GitHub repository preview; open repository" width="760"></a>
+
+Start a hand-painted character short with p5.js and p5.brush, using reusable expressions and shot-by-shot MP4 rendering.
+
+**License:** [MIT](https://github.com/JohnHeibel/ClaudeAnimationBase/blob/main/LICENSE).
 
 <a id="audio"></a>
 
@@ -290,6 +362,52 @@ Automatically edit video and audio using silence or loudness analysis.
 
 **License:** [Unlicense](https://github.com/WyattBlue/auto-editor/blob/master/LICENSE).
 
+<a id="project-29"></a>
+
+### 29 · [OpenCut](https://github.com/OpenCut-app/OpenCut)
+
+<a href="https://github.com/OpenCut-app/OpenCut"><img src="https://opengraph.githubassets.com/5a57619992da9efc4dcf7869aabf5cb091e376aa583a711ff392bb9f7896987c/OpenCut-app/OpenCut" alt="OpenCut — official GitHub repository preview; open repository" width="760"></a>
+
+Edit clips on a browser timeline with OpenCut Classic and follow the next-generation editor in the main repository.
+
+**License:** [MIT](https://github.com/OpenCut-app/OpenCut/blob/main/LICENSE).
+
+The main repository is undergoing a rewrite; use [OpenCut Classic](https://github.com/opencut-app/opencut-classic) for the current browser editor.
+
+<a id="project-30"></a>
+
+### 30 · [LosslessCut](https://github.com/mifi/lossless-cut)
+
+<a href="https://github.com/mifi/lossless-cut"><img src="https://opengraph.githubassets.com/0ef4c12c8fc988a82b1540dd1871c725836935904ffe8bb073de6e3cc8c56776/mifi/lossless-cut" alt="LosslessCut — official GitHub repository preview; open repository" width="760"></a>
+
+Pull selects and rough-cut camera footage without re-encoding when the source format and cut points allow it.
+
+**License:** [GPL-2.0-only](https://github.com/mifi/lossless-cut/blob/master/LICENSE).
+
+<a id="project-31"></a>
+
+### 31 · [video-use](https://github.com/browser-use/video-use)
+
+<a href="https://github.com/browser-use/video-use"><img src="https://opengraph.githubassets.com/e044180e0445e87a5dac37fe37a14c9470c7f102da044a18d09fc610dc6fb3dd/browser-use/video-use" alt="video-use — official GitHub repository preview; open repository" width="760"></a>
+
+Use an editing agent to select takes, remove filler words, and burn captions from word-level transcripts.
+
+**License:** [MIT](https://github.com/browser-use/video-use/blob/main/LICENSE).
+
+The documented transcription workflow requires an ElevenLabs API key.
+
+<a id="project-32"></a>
+
+### 32 · [Palmier Pro](https://github.com/palmier-io/palmier-pro)
+
+<a href="https://github.com/palmier-io/palmier-pro"><img src="https://opengraph.githubassets.com/9d76ad33143b460b80e11ea49cb59273868e211977e4bb11472dd7b00e2c3092/palmier-io/palmier-pro" alt="Palmier Pro — official GitHub repository preview; open repository" width="760"></a>
+
+Edit on a macOS timeline with an MCP-connected agent and generate media inside the editor.
+
+**License:** [GPL-3.0 (source)](https://github.com/palmier-io/palmier-pro/blob/main/LICENSE).
+
+Published source is GPLv3. Binary releases after v0.7.6 are distributed under a [proprietary license](https://github.com/palmier-io/palmier-pro/blob/main/BINARY_LICENSE.md).
+
 <a id="delivery"></a>
 
 ## 📦 Render & Delivery
@@ -338,7 +456,7 @@ Each resource includes an upstream license link. Remotion has free-use eligibili
 
 Project banners use the official social images configured on their GitHub pages; where no custom image is set, a GitHub-generated repository preview is used. Each image links to its project. [View banner sources](docs/media-sources.md). These upstream images are excluded from this collection's CC BY 4.0 license.
 
-Project sources and license information were checked on **2026-11-02**. Labels are navigation aids; the full upstream terms govern.
+Project sources and license information were checked on **2026-11-02** (01–22) and **2026-11-08** (23–32). Labels are navigation aids; the full upstream terms govern.
 
 
 <a id="contributing"></a>
@@ -355,6 +473,6 @@ Start by [reading the contribution guide](CONTRIBUTING.md), or [suggest a projec
 
 Thanks to the authors, contributors, and maintainers of every upstream project. Development, support, and licensing remain with each project.
 
-[Remotion](https://github.com/remotion-dev/remotion), [Anime.js](https://github.com/juliangarnier/anime), [mo.js](https://github.com/mojs/mojs), [Theatre.js](https://github.com/theatre-js/theatre), [Two.js](https://github.com/jonobr1/two.js), [D3](https://github.com/d3/d3), [Three.js](https://github.com/mrdoob/three.js), [Babylon.js](https://github.com/BabylonJS/Babylon.js), [Drei](https://github.com/pmndrs/drei), [Spark](https://github.com/sparkjsdev/spark), [cables.gl](https://github.com/cables-gl/cables_electron), [Taichi](https://github.com/taichi-dev/taichi), [SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH), [Custom Shader Material](https://github.com/FarazzShaikh/THREE-CustomShaderMaterial), [OpenToonz](https://github.com/opentoonz/opentoonz), [Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS), [Audacity](https://github.com/audacity/audacity), [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit), [Auto-Editor](https://github.com/WyattBlue/auto-editor), [RIFE](https://github.com/hzwer/ECCV2022-RIFE), [OBS Studio](https://github.com/obsproject/obs-studio), [FFmpeg](https://github.com/FFmpeg/FFmpeg).
+[Remotion](https://github.com/remotion-dev/remotion), [Anime.js](https://github.com/juliangarnier/anime), [mo.js](https://github.com/mojs/mojs), [Theatre.js](https://github.com/theatre-js/theatre), [Two.js](https://github.com/jonobr1/two.js), [D3](https://github.com/d3/d3), [Three.js](https://github.com/mrdoob/three.js), [Babylon.js](https://github.com/BabylonJS/Babylon.js), [Drei](https://github.com/pmndrs/drei), [Spark](https://github.com/sparkjsdev/spark), [cables.gl](https://github.com/cables-gl/cables_electron), [Taichi](https://github.com/taichi-dev/taichi), [SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH), [Custom Shader Material](https://github.com/FarazzShaikh/THREE-CustomShaderMaterial), [OpenToonz](https://github.com/opentoonz/opentoonz), [Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS), [Audacity](https://github.com/audacity/audacity), [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit), [Auto-Editor](https://github.com/WyattBlue/auto-editor), [RIFE](https://github.com/hzwer/ECCV2022-RIFE), [OBS Studio](https://github.com/obsproject/obs-studio), [FFmpeg](https://github.com/FFmpeg/FFmpeg), [HyperFrames](https://github.com/heygen-com/hyperframes), [cinetic](https://github.com/Leonxlnx/cinetic), [Guizang Product Video Skill](https://github.com/op7418/guizang-product-video-skill), [MCP for Blender](https://github.com/ahujasid/mcp-for-blender), [Motion2MixamoRig](https://github.com/MaxLiu22/Motion2MixamoRig), [ClaudeAnimationBase](https://github.com/JohnHeibel/ClaudeAnimationBase), [OpenCut](https://github.com/OpenCut-app/OpenCut), [LosslessCut](https://github.com/mifi/lossless-cut), [video-use](https://github.com/browser-use/video-use), [Palmier Pro](https://github.com/palmier-io/palmier-pro).
 
 Curated by **@林悦己 cheer**.

@@ -6,7 +6,7 @@ These upstream project images retain their respective rights and terms. They are
 
 两版 README 首图为本合集原创信息图。各项目封面来自对应官方 GitHub 仓库页面的 `og:image`：有自定义分享图时使用项目设置的图片，否则使用 GitHub 自动生成的仓库预览卡。图片点击后直接进入对应仓库。上游图片保留各自的权利与条款，不纳入本合集的 CC BY 4.0。
 
-Banner metadata and image availability checked on **2026-11-03**. / 封面元数据与可访问性核对日期：**2026-11-03**。
+Banner metadata and image availability checked on **2026-11-03** (01–22) and **2026-11-08** (23–32). / 封面元数据与可访问性核对日期：**2026-11-03**（01–22）、**2026-11-08**（23–32）
 
 | # | Project / 项目 | Preview type / 封面类型 | Source / 来源 | Image / 图片 |
 | --- | --- | --- | --- | --- |
@@ -32,3 +32,13 @@ Banner metadata and image availability checked on **2026-11-03**. / 封面元数
 | 20 | RIFE | GitHub repository preview / GitHub 仓库预览 | [Open upstream repository](https://github.com/hzwer/ECCV2022-RIFE) | [View image](https://opengraph.githubassets.com/6cbb4110b9a5ca968f5f26919056594374c1f523b6cab86b418665d4491f68b1/hzwer/ECCV2022-RIFE) |
 | 21 | OBS Studio | Project custom banner / 项目自定义封面 | [Open upstream repository](https://github.com/obsproject/obs-studio) | [View image](https://repository-images.githubusercontent.com/13233158/2e2fae80-da26-11e9-8da2-e1e0b931a235) |
 | 22 | FFmpeg | GitHub repository preview / GitHub 仓库预览 | [Open upstream repository](https://github.com/FFmpeg/FFmpeg) | [View image](https://opengraph.githubassets.com/fe798c68729ffbdf282625a25ebb7e39bc34de686d2b430fe870b6f14e06984a/FFmpeg/FFmpeg) |
+| 23 | HyperFrames | GitHub repository preview / GitHub 仓库预览 | [Open upstream repository](https://github.com/heygen-com/hyperframes) | [View image](https://opengraph.githubassets.com/6e0fcb958680bae36cd27d37c5186f86a71d55124942594928be8f96b16407cc/heygen-com/hyperframes) |
+| 24 | cinetic | GitHub repository preview / GitHub 仓库预览 | [Open upstream repository](https://github.com/Leonxlnx/cinetic) | [View image](https://opengraph.githubassets.com/6243e867f2658391808e583356ce37ce36c9eb7b16410f04bbc75ef6680c2942/Leonxlnx/cinetic) |
+| 25 | Guizang Product Video Skill | GitHub repository preview / GitHub 仓库预览 | [Open upstream repository](https://github.com/op7418/guizang-product-video-skill) | [View image](https://opengraph.githubassets.com/c93b43abfb6d19922aff54dd39dab02d60b3b95a63a942a259fbaeeb83d3bcc0/op7418/guizang-product-video-skill) |
+| 26 | MCP for Blender | GitHub repository preview / GitHub 仓库预览 | [Open upstream repository](https://github.com/ahujasid/mcp-for-blender) | [View image](https://opengraph.githubassets.com/d0660785425b79050202708b4c7d9c4ba9cc60fc5c8ed3daee24bc87a00e6bbb/ahujasid/mcp-for-blender) |
+| 27 | Motion2MixamoRig | GitHub repository preview / GitHub 仓库预览 | [Open upstream repository](https://github.com/MaxLiu22/Motion2MixamoRig) | [View image](https://opengraph.githubassets.com/f92b2987f7f19941685f12d63ea735fdfa122bfaccffb50cc9aaa1f1f4b386c7/MaxLiu22/Motion2MixamoRig) |
+| 28 | ClaudeAnimationBase | GitHub repository preview / GitHub 仓库预览 | [Open upstream repository](https://github.com/JohnHeibel/ClaudeAnimationBase) | [View image](https://opengraph.githubassets.com/fa387dce7cb66fbf4d230c914ea4c3c1975b589de9b29283b56a47e6a916e061/JohnHeibel/ClaudeAnimationBase) |
+| 29 | OpenCut | GitHub repository preview / GitHub 仓库预览 | [Open upstream repository](https://github.com/OpenCut-app/OpenCut) | [View image](https://opengraph.githubassets.com/5a57619992da9efc4dcf7869aabf5cb091e376aa583a711ff392bb9f7896987c/OpenCut-app/OpenCut) |
+| 30 | LosslessCut | GitHub repository preview / GitHub 仓库预览 | [Open upstream repository](https://github.com/mifi/lossless-cut) | [View image](https://opengraph.githubassets.com/0ef4c12c8fc988a82b1540dd1871c725836935904ffe8bb073de6e3cc8c56776/mifi/lossless-cut) |
+| 31 | video-use | GitHub repository preview / GitHub 仓库预览 | [Open upstream repository](https://github.com/browser-use/video-use) | [View image](https://opengraph.githubassets.com/e044180e0445e87a5dac37fe37a14c9470c7f102da044a18d09fc610dc6fb3dd/browser-use/video-use) |
+| 32 | Palmier Pro | GitHub repository preview / GitHub 仓库预览 | [Open upstream repository](https://github.com/palmier-io/palmier-pro) | [View image](https://opengraph.githubassets.com/9d76ad33143b460b80e11ea49cb59273868e211977e4bb11472dd7b00e2c3092/palmier-io/palmier-pro) |

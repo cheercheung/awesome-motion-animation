@@ -457,6 +457,218 @@
         "source_page": "https://github.com/FFmpeg/FFmpeg",
         "kind": "github-generated-repository-preview"
       }
+    },
+    {
+      "number": 23,
+      "name": "HyperFrames",
+      "repository": "heygen-com/hyperframes",
+      "category": "animation",
+      "source_url": "https://github.com/heygen-com/hyperframes",
+      "description_en": "Compose titles, overlays, and motion graphics in HTML/CSS and render them to MP4 with the CLI.",
+      "description_zh": "用 HTML/CSS 制作片头、叠加层和动态图形，再通过 CLI 渲染成 MP4",
+      "license": {
+        "label": "Apache-2.0",
+        "source_url": "https://github.com/heygen-com/hyperframes/blob/main/LICENSE",
+        "verified": true
+      },
+      "banner": {
+        "image_url": "https://opengraph.githubassets.com/6e0fcb958680bae36cd27d37c5186f86a71d55124942594928be8f96b16407cc/heygen-com/hyperframes",
+        "source_page": "https://github.com/heygen-com/hyperframes",
+        "kind": "github-generated-repository-preview"
+      },
+      "checked_on": "2026-11-08"
+    },
+    {
+      "number": 24,
+      "name": "cinetic",
+      "repository": "Leonxlnx/cinetic",
+      "category": "animation",
+      "source_url": "https://github.com/Leonxlnx/cinetic",
+      "description_en": "Guide a coding agent from script and animated typography to a rendered product launch or update video, using Remotion or HyperFrames.",
+      "description_zh": "让编码代理用 Remotion 或 HyperFrames 制作产品发布片或更新片，覆盖文案、文字动效到渲染",
+      "license": {
+        "label": "MIT",
+        "source_url": "https://github.com/Leonxlnx/cinetic/blob/main/LICENSE",
+        "verified": true,
+        "note_en": "Remotion, the default renderer, has [separate licensing terms](https://github.com/remotion-dev/remotion/blob/main/LICENSE.md).",
+        "note_zh": "默认渲染器 Remotion 适用[独立许可条款](https://github.com/remotion-dev/remotion/blob/main/LICENSE.md)"
+      },
+      "banner": {
+        "image_url": "https://opengraph.githubassets.com/6243e867f2658391808e583356ce37ce36c9eb7b16410f04bbc75ef6680c2942/Leonxlnx/cinetic",
+        "source_page": "https://github.com/Leonxlnx/cinetic",
+        "kind": "github-generated-repository-preview"
+      },
+      "checked_on": "2026-11-08"
+    },
+    {
+      "number": 25,
+      "name": "Guizang Product Video Skill",
+      "repository": "op7418/guizang-product-video-skill",
+      "category": "animation",
+      "source_url": "https://github.com/op7418/guizang-product-video-skill",
+      "description_en": "Turn real software features and UI components into release videos with storyboards, code-driven motion, and sound design.",
+      "description_zh": "复用真实的软件功能与界面组件，通过分镜、代码动效和声音设计制作版本更新片",
+      "license": {
+        "label": "AGPL-3.0",
+        "source_url": "https://github.com/op7418/guizang-product-video-skill/blob/main/LICENSE",
+        "verified": true,
+        "note_en": "The bundled CodePilot fallback assets retain [Business Source License 1.1 terms](https://github.com/op7418/guizang-product-video-skill/blob/main/assets/fallback/LICENSE.CodePilot).",
+        "note_zh": "内置的 CodePilot 回退素材保留 [Business Source License 1.1 条款](https://github.com/op7418/guizang-product-video-skill/blob/main/assets/fallback/LICENSE.CodePilot)"
+      },
+      "banner": {
+        "image_url": "https://opengraph.githubassets.com/c93b43abfb6d19922aff54dd39dab02d60b3b95a63a942a259fbaeeb83d3bcc0/op7418/guizang-product-video-skill",
+        "source_page": "https://github.com/op7418/guizang-product-video-skill",
+        "kind": "github-generated-repository-preview"
+      },
+      "checked_on": "2026-11-08"
+    },
+    {
+      "number": 26,
+      "name": "MCP for Blender",
+      "repository": "ahujasid/mcp-for-blender",
+      "category": "scenes",
+      "source_url": "https://github.com/ahujasid/mcp-for-blender",
+      "description_en": "Connect an MCP client to Blender to lay out shots, adjust cameras, and review scene previews during previsualization.",
+      "description_zh": "将 MCP 客户端连接到 Blender，在预演阶段搭建镜头、调整相机并查看场景预览",
+      "license": {
+        "label": "MIT",
+        "source_url": "https://github.com/ahujasid/mcp-for-blender/blob/main/LICENSE",
+        "verified": true
+      },
+      "banner": {
+        "image_url": "https://opengraph.githubassets.com/d0660785425b79050202708b4c7d9c4ba9cc60fc5c8ed3daee24bc87a00e6bbb/ahujasid/mcp-for-blender",
+        "source_page": "https://github.com/ahujasid/mcp-for-blender",
+        "kind": "github-generated-repository-preview"
+      },
+      "checked_on": "2026-11-08"
+    },
+    {
+      "number": 27,
+      "name": "Motion2MixamoRig",
+      "repository": "MaxLiu22/Motion2MixamoRig",
+      "category": "scenes",
+      "source_url": "https://github.com/MaxLiu22/Motion2MixamoRig",
+      "description_en": "Extract body motion from video and retarget it to a Mixamo-rigged character for use in a 3D scene.",
+      "description_zh": "从视频中提取人体动作并重定向到 Mixamo 骨骼角色，供 3D 场景使用",
+      "license": {
+        "label": "Apache-2.0 (code)",
+        "source_url": "https://github.com/MaxLiu22/Motion2MixamoRig/blob/main/LICENSE",
+        "verified": true,
+        "note_en": "Downloaded models, weights, and character assets have [separate terms](https://github.com/MaxLiu22/Motion2MixamoRig#license); the default SMPL-X license limits commercial use.",
+        "note_zh": "下载的模型、权重和角色素材适用[独立条款](https://github.com/MaxLiu22/Motion2MixamoRig#license)，SMPL-X 的默认许可限制商业使用"
+      },
+      "banner": {
+        "image_url": "https://opengraph.githubassets.com/f92b2987f7f19941685f12d63ea735fdfa122bfaccffb50cc9aaa1f1f4b386c7/MaxLiu22/Motion2MixamoRig",
+        "source_page": "https://github.com/MaxLiu22/Motion2MixamoRig",
+        "kind": "github-generated-repository-preview"
+      },
+      "checked_on": "2026-11-08"
+    },
+    {
+      "number": 28,
+      "name": "ClaudeAnimationBase",
+      "repository": "JohnHeibel/ClaudeAnimationBase",
+      "category": "physics",
+      "source_url": "https://github.com/JohnHeibel/ClaudeAnimationBase",
+      "description_en": "Start a hand-painted character short with p5.js and p5.brush, using reusable expressions and shot-by-shot MP4 rendering.",
+      "description_zh": "用 p5.js 和 p5.brush 制作手绘风格的角色短片，复用现成的表情并逐镜头渲染为 MP4",
+      "license": {
+        "label": "MIT",
+        "source_url": "https://github.com/JohnHeibel/ClaudeAnimationBase/blob/main/LICENSE",
+        "verified": true
+      },
+      "banner": {
+        "image_url": "https://opengraph.githubassets.com/fa387dce7cb66fbf4d230c914ea4c3c1975b589de9b29283b56a47e6a916e061/JohnHeibel/ClaudeAnimationBase",
+        "source_page": "https://github.com/JohnHeibel/ClaudeAnimationBase",
+        "kind": "github-generated-repository-preview"
+      },
+      "checked_on": "2026-11-08"
+    },
+    {
+      "number": 29,
+      "name": "OpenCut",
+      "repository": "OpenCut-app/OpenCut",
+      "category": "audio",
+      "source_url": "https://github.com/OpenCut-app/OpenCut",
+      "description_en": "Edit clips on a browser timeline with OpenCut Classic and follow the next-generation editor in the main repository.",
+      "description_zh": "用 OpenCut Classic 在浏览器时间线上剪辑素材，并在主仓库跟进新版编辑器",
+      "license": {
+        "label": "MIT",
+        "source_url": "https://github.com/OpenCut-app/OpenCut/blob/main/LICENSE",
+        "verified": true,
+        "note_en": "The main repository is undergoing a rewrite; use [OpenCut Classic](https://github.com/opencut-app/opencut-classic) for the current browser editor.",
+        "note_zh": "主仓库正在重写，目前可用的浏览器编辑器见 [OpenCut Classic](https://github.com/opencut-app/opencut-classic)"
+      },
+      "banner": {
+        "image_url": "https://opengraph.githubassets.com/5a57619992da9efc4dcf7869aabf5cb091e376aa583a711ff392bb9f7896987c/OpenCut-app/OpenCut",
+        "source_page": "https://github.com/OpenCut-app/OpenCut",
+        "kind": "github-generated-repository-preview"
+      },
+      "checked_on": "2026-11-08"
+    },
+    {
+      "number": 30,
+      "name": "LosslessCut",
+      "repository": "mifi/lossless-cut",
+      "category": "audio",
+      "source_url": "https://github.com/mifi/lossless-cut",
+      "description_en": "Pull selects and rough-cut camera footage without re-encoding when the source format and cut points allow it.",
+      "description_zh": "从相机素材中挑选可用镜头并做粗剪，在源格式和切点允许时跳过重新编码",
+      "license": {
+        "label": "GPL-2.0-only",
+        "source_url": "https://github.com/mifi/lossless-cut/blob/master/LICENSE",
+        "verified": true
+      },
+      "banner": {
+        "image_url": "https://opengraph.githubassets.com/0ef4c12c8fc988a82b1540dd1871c725836935904ffe8bb073de6e3cc8c56776/mifi/lossless-cut",
+        "source_page": "https://github.com/mifi/lossless-cut",
+        "kind": "github-generated-repository-preview"
+      },
+      "checked_on": "2026-11-08"
+    },
+    {
+      "number": 31,
+      "name": "video-use",
+      "repository": "browser-use/video-use",
+      "category": "audio",
+      "source_url": "https://github.com/browser-use/video-use",
+      "description_en": "Use an editing agent to select takes, remove filler words, and burn captions from word-level transcripts.",
+      "description_zh": "让剪辑代理依据逐词转录选择片段、删除口头填充词并烧录字幕",
+      "license": {
+        "label": "MIT",
+        "source_url": "https://github.com/browser-use/video-use/blob/main/LICENSE",
+        "verified": true,
+        "note_en": "The documented transcription workflow requires an ElevenLabs API key.",
+        "note_zh": "文档中的转录流程需要 ElevenLabs API Key"
+      },
+      "banner": {
+        "image_url": "https://opengraph.githubassets.com/e044180e0445e87a5dac37fe37a14c9470c7f102da044a18d09fc610dc6fb3dd/browser-use/video-use",
+        "source_page": "https://github.com/browser-use/video-use",
+        "kind": "github-generated-repository-preview"
+      },
+      "checked_on": "2026-11-08"
+    },
+    {
+      "number": 32,
+      "name": "Palmier Pro",
+      "repository": "palmier-io/palmier-pro",
+      "category": "audio",
+      "source_url": "https://github.com/palmier-io/palmier-pro",
+      "description_en": "Edit on a macOS timeline with an MCP-connected agent and generate media inside the editor.",
+      "description_zh": "在 macOS 时间线上通过 MCP 让代理参与剪辑，并在编辑器内生成素材",
+      "license": {
+        "label": "GPL-3.0 (source)",
+        "source_url": "https://github.com/palmier-io/palmier-pro/blob/main/LICENSE",
+        "verified": true,
+        "note_en": "Published source is GPLv3. Binary releases after v0.7.6 are distributed under a [proprietary license](https://github.com/palmier-io/palmier-pro/blob/main/BINARY_LICENSE.md).",
+        "note_zh": "公开源码使用 GPLv3，v0.7.6 之后的二进制发行版使用[专有许可](https://github.com/palmier-io/palmier-pro/blob/main/BINARY_LICENSE.md)"
+      },
+      "banner": {
+        "image_url": "https://opengraph.githubassets.com/9d76ad33143b460b80e11ea49cb59273868e211977e4bb11472dd7b00e2c3092/palmier-io/palmier-pro",
+        "source_page": "https://github.com/palmier-io/palmier-pro",
+        "kind": "github-generated-repository-preview"
+      },
+      "checked_on": "2026-11-08"
     }
   ]
 }
