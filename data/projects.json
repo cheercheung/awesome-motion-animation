@@ -367,28 +367,6 @@
       "guide_url": "https://opentoonz.readthedocs.io/en/latest/"
     },
     {
-      "number": 16,
-      "name": "Qwen3-TTS",
-      "repository": "QwenLM/Qwen3-TTS",
-      "category": "audio",
-      "source_url": "https://github.com/QwenLM/Qwen3-TTS",
-      "description_en": "Qwen3-TTS is a text-to-speech model family with variants for preset voices, voice design, and reference-based cloning. The upstream quickstart shows how to choose and run the model variant for each task.",
-      "description_zh": "Qwen3-TTS 是一组文字转语音模型，不同版本分别支持预设音色、音色设计或参考音频克隆，上游快速入门给出了各任务的用法",
-      "license": {
-        "label": "Apache-2.0",
-        "source_url": "https://github.com/QwenLM/Qwen3-TTS/blob/main/LICENSE",
-        "verified": true
-      },
-      "banner": {
-        "image_url": "https://opengraph.githubassets.com/77e2240c1ce87a5a0b898992b90e670d5857070c6b0c8f8cfb59f93faceaef82/QwenLM/Qwen3-TTS",
-        "source_page": "https://github.com/QwenLM/Qwen3-TTS",
-        "kind": "github-generated-repository-preview"
-      },
-      "use_case_en": "Audition different narration styles against the same rough cut before settling on a voice.",
-      "use_case_zh": "给同一版粗剪试配不同风格的旁白，再决定用哪种声音",
-      "guide_url": "https://github.com/QwenLM/Qwen3-TTS#quickstart"
-    },
-    {
       "number": 17,
       "name": "Audacity",
       "repository": "audacity/audacity",
@@ -477,28 +455,6 @@
       "use_case_en": "Create a slow-motion insert from a short clip and review fast movement and occlusions for interpolation artifacts.",
       "use_case_zh": "把短片段做成慢动作插镜，再检查快速运动和遮挡处有没有插帧瑕疵",
       "guide_url": "https://github.com/hzwer/ECCV2022-RIFE#cli-usage"
-    },
-    {
-      "number": 21,
-      "name": "OBS Studio",
-      "repository": "obsproject/obs-studio",
-      "category": "delivery",
-      "source_url": "https://github.com/obsproject/obs-studio",
-      "description_en": "OBS Studio records or streams scenes assembled from sources such as a window, display, camera, and microphone. You can switch scenes and mix audio during capture.",
-      "description_zh": "OBS Studio 可把窗口、屏幕、摄像头和麦克风等来源组合成场景，用于录制或直播，采集时可以切换场景并调节声音",
-      "license": {
-        "label": "GPL-2.0-or-later",
-        "source_url": "https://github.com/obsproject/obs-studio/blob/master/COPYING",
-        "verified": true
-      },
-      "banner": {
-        "image_url": "https://repository-images.githubusercontent.com/13233158/2e2fae80-da26-11e9-8da2-e1e0b931a235",
-        "source_page": "https://github.com/obsproject/obs-studio",
-        "kind": "upstream-custom-social-banner"
-      },
-      "use_case_en": "Record a software walkthrough with a webcam inset and a dedicated microphone track.",
-      "use_case_zh": "录制带摄像头小窗和独立麦克风音轨的软件演示",
-      "guide_url": "https://obsproject.com/kb/quick-start-guide"
     },
     {
       "number": 22,
@@ -765,6 +721,403 @@
       "use_case_en": "Ask an agent to assemble or adjust a rough cut, then inspect and refine it on the timeline.",
       "use_case_zh": "让代理搭一版粗剪或调整现有片段，再回到时间线上查看和微调",
       "guide_url": "https://github.com/palmier-io/palmier-pro#mcp-server"
+    },
+    {
+      "number": 33,
+      "name": "liquid-glass-react",
+      "repository": "rdev/liquid-glass-react",
+      "category": "animation",
+      "source_url": "https://github.com/rdev/liquid-glass-react",
+      "description_en": "A React component for refractive glass effects with configurable displacement, elasticity, and pointer feedback.",
+      "description_zh": "React 液态玻璃组件，可调折射位移、弹性和鼠标交互反馈",
+      "license": {
+        "label": "MIT",
+        "source_url": "https://github.com/rdev/liquid-glass-react/blob/master/LICENSE",
+        "verified": true,
+        "note_en": "The displacement effect has limited support in Safari and Firefox.",
+        "note_zh": "Safari 和 Firefox 对位移效果的支持有限"
+      },
+      "banner": {
+        "image_url": "https://opengraph.githubassets.com/ff4b85397a8ce27632a488776f72d22067a82559ddd014d8dd7141c7407d956a/rdev/liquid-glass-react",
+        "source_page": "https://github.com/rdev/liquid-glass-react",
+        "kind": "github-generated-repository-preview"
+      },
+      "checked_on": "2026-11-08",
+      "use_case_en": "Add a tactile hover and press treatment to a product UI card or button.",
+      "use_case_zh": "为产品界面里的卡片或按钮加上悬停和按压时的弹性形变",
+      "guide_url": "https://github.com/rdev/liquid-glass-react#basic-usage"
+    },
+    {
+      "number": 34,
+      "name": "Chart.js",
+      "repository": "chartjs/Chart.js",
+      "category": "animation",
+      "source_url": "https://github.com/chartjs/Chart.js",
+      "description_en": "A Canvas chart library with per-property animation options for start and end values, easing, duration, and transitions between chart states.",
+      "description_zh": "Canvas 图表库，可单独设置图表属性的动画起止值、缓动、时长和状态切换",
+      "license": {
+        "label": "MIT",
+        "source_url": "https://github.com/chartjs/Chart.js/blob/master/LICENSE.md",
+        "verified": true
+      },
+      "banner": {
+        "image_url": "https://opengraph.githubassets.com/11486419ab3f242f4bcc603bab6bc128874cfb51875b1a304d3c4c49005893bc/chartjs/Chart.js",
+        "source_page": "https://github.com/chartjs/Chart.js",
+        "kind": "github-generated-repository-preview"
+      },
+      "checked_on": "2026-11-08",
+      "use_case_en": "Reveal a trend line or animate a bar chart when a filter changes.",
+      "use_case_zh": "制作趋势线入场，或在筛选条件切换时让柱状图过渡到新值",
+      "guide_url": "https://www.chartjs.org/docs/latest/configuration/animations.html"
+    },
+    {
+      "number": 35,
+      "name": "Apache ECharts",
+      "repository": "apache/echarts",
+      "category": "animation",
+      "source_url": "https://github.com/apache/echarts",
+      "description_en": "A JavaScript charting library that animates data entering, updating, and leaving a chart, with controls for timing, easing, and delay.",
+      "description_zh": "JavaScript 图表库，为数据新增、更新和移除提供过渡动画，可设置时长、缓动和延迟",
+      "license": {
+        "label": "Apache-2.0",
+        "source_url": "https://github.com/apache/echarts/blob/master/LICENSE",
+        "verified": true
+      },
+      "banner": {
+        "image_url": "https://opengraph.githubassets.com/9957fce95001093a1cd13094908630115ec5b140b0d57d07e9781f2d414a82d0/apache/echarts",
+        "source_page": "https://github.com/apache/echarts",
+        "kind": "github-generated-repository-preview"
+      },
+      "checked_on": "2026-11-08",
+      "use_case_en": "Animate the change between two reporting periods in a data story.",
+      "use_case_zh": "做一段数据叙事动效，让观众看清两个报告周期之间的变化",
+      "guide_url": "https://echarts.apache.org/handbook/en/how-to/animation/transition/"
+    },
+    {
+      "number": 36,
+      "name": "Matplotlib",
+      "repository": "matplotlib/matplotlib",
+      "category": "animation",
+      "source_url": "https://github.com/matplotlib/matplotlib",
+      "description_en": "A Python plotting library with an animation API that updates plot elements at each frame. Its writers can save the sequence as a video or animated image.",
+      "description_zh": "Python 绘图库，可逐帧更新图形元素，并通过写出器将动画保存为视频或动图",
+      "license": {
+        "label": "Matplotlib license",
+        "source_url": "https://github.com/matplotlib/matplotlib/blob/main/LICENSE/LICENSE",
+        "verified": true,
+        "note_en": "Bundled fonts and other components have separate terms in the [license directory](https://github.com/matplotlib/matplotlib/tree/main/LICENSE).",
+        "note_zh": "内置字体等组件的独立条款见[许可目录](https://github.com/matplotlib/matplotlib/tree/main/LICENSE)"
+      },
+      "banner": {
+        "image_url": "https://opengraph.githubassets.com/e278a31bbea57303c7ef0f1dfed0fbe8f152049b7e9fc55ce11deae7bf3802be/matplotlib/matplotlib",
+        "source_page": "https://github.com/matplotlib/matplotlib",
+        "kind": "github-generated-repository-preview"
+      },
+      "checked_on": "2026-11-08",
+      "use_case_en": "Animate a trajectory, simulation, or time series frame by frame for a scientific explainer.",
+      "use_case_zh": "为科学解说片逐帧制作运动轨迹、模拟过程或时间序列",
+      "guide_url": "https://matplotlib.org/stable/api/animation_api.html"
+    },
+    {
+      "number": 37,
+      "name": "Plotly.py",
+      "repository": "plotly/plotly.py",
+      "category": "animation",
+      "source_url": "https://github.com/plotly/plotly.py",
+      "description_en": "A Python charting library that plays a sequence of chart states using animation frames, with optional play and pause controls.",
+      "description_zh": "Python 图表库，可用动画帧编排一系列图表状态，并添加播放和暂停按钮",
+      "license": {
+        "label": "MIT",
+        "source_url": "https://github.com/plotly/plotly.py/blob/main/LICENSE.txt",
+        "verified": true
+      },
+      "banner": {
+        "image_url": "https://opengraph.githubassets.com/1ea600ea02640a047655142be440721cf03162e2871a09523a91ba88db72b319/plotly/plotly.py",
+        "source_page": "https://github.com/plotly/plotly.py",
+        "kind": "github-generated-repository-preview"
+      },
+      "checked_on": "2026-11-08",
+      "use_case_en": "Build an interactive chart that reveals how values move over successive years.",
+      "use_case_zh": "做一个可播放的交互图表，展示数值逐年怎么变化",
+      "guide_url": "https://plotly.com/python/animations/"
+    },
+    {
+      "number": 38,
+      "name": "GSAP",
+      "repository": "greensock/GSAP",
+      "category": "animation",
+      "source_url": "https://github.com/greensock/GSAP",
+      "description_en": "Sequence tweens on a timeline and control how elements enter, transform, and leave. Plugins add scroll progress, SVG morphing, and motion paths.",
+      "description_zh": "用时间轴编排补间动画，控制元素的入场、变形和退场。插件支持滚动进度、SVG 变形和路径运动",
+      "license": {
+        "label": "GSAP Standard License",
+        "source_url": "https://gsap.com/community/standard-license/",
+        "verified": true,
+        "note_en": "The standard license restricts certain uses in visual animation builders that compete with Webflow. Review the terms for your integration.",
+        "note_zh": "标准许可限制在与 Webflow 竞争的可视化动画构建工具中的部分用途，请按实际集成方式核对条款"
+      },
+      "banner": {
+        "image_url": "https://repository-images.githubusercontent.com/5905330/b77da600-0330-11ea-965b-ec11bc9d0759",
+        "source_page": "https://github.com/greensock/GSAP",
+        "kind": "upstream-custom-social-banner"
+      },
+      "checked_on": "2026-11-09",
+      "use_case_en": "Synchronize a title reveal, icon movement, and product shot with a single timeline.",
+      "use_case_zh": "在同一条时间轴上同步片头文字、图标运动和产品镜头",
+      "guide_url": "https://gsap.com/docs/v3/"
+    },
+    {
+      "number": 39,
+      "name": "Motion",
+      "repository": "motiondivision/motion",
+      "category": "animation",
+      "source_url": "https://github.com/motiondivision/motion",
+      "description_en": "Animate layout changes, shared elements, gestures, and presence in React. Its motion values and spring transitions can connect an input to several animated properties.",
+      "description_zh": "在 React 中为布局变化、共享元素、手势和进出场加动画，也可用动态值和弹簧过渡把一个输入关联到多个属性",
+      "license": {
+        "label": "MIT",
+        "source_url": "https://github.com/motiondivision/motion/blob/main/LICENSE.md",
+        "verified": true
+      },
+      "banner": {
+        "image_url": "https://repository-images.githubusercontent.com/157846876/2a38d0a3-269e-45b1-bd76-d95cdc971579",
+        "source_page": "https://github.com/motiondivision/motion",
+        "kind": "upstream-custom-social-banner"
+      },
+      "checked_on": "2026-11-09",
+      "use_case_en": "Animate a card moving between a grid and its detail view while preserving the visual connection.",
+      "use_case_zh": "让卡片在列表与详情之间平滑过渡，保持同一个元素的视觉连续性",
+      "guide_url": "https://motion.dev/docs/react-layout-animations"
+    },
+    {
+      "number": 40,
+      "name": "Motion Canvas",
+      "repository": "motion-canvas/motion-canvas",
+      "category": "animation",
+      "source_url": "https://github.com/motion-canvas/motion-canvas",
+      "description_en": "Build vector animations from TypeScript scenes. Generator functions sequence and synchronize changes, and the editor previews timing and scene properties.",
+      "description_zh": "用 TypeScript 场景创建矢量动画，通过生成器函数安排动作顺序和同步关系，在编辑器里预览时序和场景参数",
+      "license": {
+        "label": "MIT",
+        "source_url": "https://github.com/motion-canvas/motion-canvas/blob/main/LICENSE",
+        "verified": true
+      },
+      "banner": {
+        "image_url": "https://repository-images.githubusercontent.com/520955562/cc460c06-142c-4559-bd70-5ed5a5a797e3",
+        "source_page": "https://github.com/motion-canvas/motion-canvas",
+        "kind": "upstream-custom-social-banner"
+      },
+      "checked_on": "2026-11-09",
+      "use_case_en": "Animate a process diagram step by step, then align the scene changes with narration.",
+      "use_case_zh": "逐步演示流程图，再把各场景的切换对齐旁白",
+      "guide_url": "https://motioncanvas.io/docs/quickstart/"
+    },
+    {
+      "number": 41,
+      "name": "Manim",
+      "repository": "ManimCommunity/manim",
+      "category": "animation",
+      "source_url": "https://github.com/ManimCommunity/manim",
+      "description_en": "Write Python scenes that transform equations, shapes, graphs, and other objects over time. Its scene and camera classes give code explicit control over composition and framing.",
+      "description_zh": "用 Python 场景编排公式、图形和曲线的变化，通过场景和相机类控制构图与镜头",
+      "license": {
+        "label": "MIT",
+        "source_url": "https://github.com/ManimCommunity/manim/blob/main/LICENSE",
+        "verified": true
+      },
+      "banner": {
+        "image_url": "https://opengraph.githubassets.com/c79f4ca51562765675c86e5879c9cb4ca96a4471b552d5c841c39047dd46eca9/ManimCommunity/manim",
+        "source_page": "https://github.com/ManimCommunity/manim",
+        "kind": "github-generated-repository-preview"
+      },
+      "checked_on": "2026-11-09",
+      "use_case_en": "Morph one equation into the next while highlighting the term that changed.",
+      "use_case_zh": "将一个公式逐步变形成下一个公式，同时突出发生变化的项",
+      "guide_url": "https://docs.manim.community/en/stable/tutorials/quickstart.html"
+    },
+    {
+      "number": 42,
+      "name": "Rive Web Runtime",
+      "repository": "rive-app/rive-wasm",
+      "category": "animation",
+      "source_url": "https://github.com/rive-app/rive-wasm",
+      "description_en": "Run Rive files in the browser through JavaScript and WebAssembly. A state machine can drive animations in response to interaction or changes in application data.",
+      "description_zh": "通过 JavaScript 和 WebAssembly 在浏览器里运行 Rive 文件，用状态机响应交互和应用数据变化",
+      "license": {
+        "label": "MIT",
+        "source_url": "https://github.com/rive-app/rive-wasm/blob/master/LICENSE",
+        "verified": true
+      },
+      "banner": {
+        "image_url": "https://opengraph.githubassets.com/ead13c613493740dab4f48b9b28b843c71f38bccd7389576e59ab6369992b52b/rive-app/rive-wasm",
+        "source_page": "https://github.com/rive-app/rive-wasm",
+        "kind": "github-generated-repository-preview"
+      },
+      "checked_on": "2026-11-09",
+      "use_case_en": "Give a button or mascot distinct idle, hover, and success states driven by the application.",
+      "use_case_zh": "为按钮或吉祥物设计待机、悬停和成功状态，再由应用触发切换",
+      "guide_url": "https://rive.app/docs/runtimes/web/web-js"
+    },
+    {
+      "number": 43,
+      "name": "lottie-web",
+      "repository": "airbnb/lottie-web",
+      "category": "animation",
+      "source_url": "https://github.com/airbnb/lottie-web",
+      "description_en": "Play Lottie JSON animations exported from After Effects in a browser. Playback controls let you seek, change speed or direction, and play a defined frame segment.",
+      "description_zh": "在浏览器里播放从 After Effects 导出的 Lottie JSON 动画，可定位帧、调整速度和方向或播放指定片段",
+      "license": {
+        "label": "MIT",
+        "source_url": "https://github.com/airbnb/lottie-web/blob/master/LICENSE.md",
+        "verified": true
+      },
+      "banner": {
+        "image_url": "https://opengraph.githubassets.com/4696024a5842c3b2f05c40e0ef28ae122740ff3ab7f441924dc57c3721eeb8a9/airbnb/lottie-web",
+        "source_page": "https://github.com/airbnb/lottie-web",
+        "kind": "github-generated-repository-preview"
+      },
+      "checked_on": "2026-11-09",
+      "use_case_en": "Embed an animated icon and play only its confirmation segment after a form is submitted.",
+      "use_case_zh": "把动画图标放进产品界面，在表单提交后只播放确认片段",
+      "guide_url": "https://github.com/airbnb/lottie-web#usage"
+    },
+    {
+      "number": 44,
+      "name": "react-spring",
+      "repository": "pmndrs/react-spring",
+      "category": "animation",
+      "source_url": "https://github.com/pmndrs/react-spring",
+      "description_en": "Animate React values with spring physics. Parameters such as mass, tension, and friction shape how elements respond when their targets change.",
+      "description_zh": "用弹簧物理驱动 React 中的动画值，通过质量、张力和摩擦力控制元素如何跟随目标变化",
+      "license": {
+        "label": "MIT",
+        "source_url": "https://github.com/pmndrs/react-spring/blob/next/LICENSE",
+        "verified": true
+      },
+      "banner": {
+        "image_url": "https://repository-images.githubusercontent.com/124257233/7bdde70a-e54f-4623-8cbc-537da87daba6",
+        "source_page": "https://github.com/pmndrs/react-spring",
+        "kind": "upstream-custom-social-banner"
+      },
+      "checked_on": "2026-11-09",
+      "use_case_en": "Tune how a draggable card settles back into position after release.",
+      "use_case_zh": "调节拖拽卡片松手后回到原位时的回弹幅度和停止速度",
+      "guide_url": "https://www.react-spring.dev/docs/getting-started"
+    },
+    {
+      "number": 45,
+      "name": "AutoAnimate",
+      "repository": "formkit/auto-animate",
+      "category": "animation",
+      "source_url": "https://github.com/formkit/auto-animate",
+      "description_en": "Attach animation to a parent element so its children transition when added, removed, or moved in the DOM.",
+      "description_zh": "给父元素启用动画，子元素在 DOM 中新增、移除或移动时会自动过渡",
+      "license": {
+        "label": "MIT",
+        "source_url": "https://github.com/formkit/auto-animate/blob/master/LICENSE",
+        "verified": true
+      },
+      "banner": {
+        "image_url": "https://repository-images.githubusercontent.com/491235501/1409bd0d-1d33-445a-9cf1-d59e951edb07",
+        "source_page": "https://github.com/formkit/auto-animate",
+        "kind": "upstream-custom-social-banner"
+      },
+      "checked_on": "2026-11-09",
+      "use_case_en": "Smooth the reordering of cards in a filterable grid.",
+      "use_case_zh": "让筛选后的卡片网格在重排时自然移动",
+      "guide_url": "https://auto-animate.formkit.com/#usage"
+    },
+    {
+      "number": 46,
+      "name": "Popmotion",
+      "repository": "Popmotion/popmotion",
+      "category": "animation",
+      "source_url": "https://github.com/Popmotion/popmotion",
+      "description_en": "Use low-level JavaScript primitives for keyframe, spring, and inertia animations. An update callback lets you apply each value to your own renderer.",
+      "description_zh": "用底层 JavaScript 原语做关键帧、弹簧和惯性动画，通过更新回调把动画值交给自己的渲染器",
+      "license": {
+        "label": "MIT (popmotion package)",
+        "source_url": "https://github.com/Popmotion/popmotion/blob/master/packages/popmotion/LICENSE.md",
+        "verified": true
+      },
+      "banner": {
+        "image_url": "https://opengraph.githubassets.com/6f48b75682a4cb9ff27ca34405b4cd5bf51e24acb15540dd4849f7ce695d422b/Popmotion/popmotion",
+        "source_page": "https://github.com/Popmotion/popmotion",
+        "kind": "github-generated-repository-preview"
+      },
+      "checked_on": "2026-11-09",
+      "use_case_en": "Drive a custom canvas control with an inertial release and spring return.",
+      "use_case_zh": "为 Canvas 控件实现松手后的惯性滑动和弹簧复位",
+      "guide_url": "https://github.com/Popmotion/popmotion#animation"
+    },
+    {
+      "number": 47,
+      "name": "tsParticles",
+      "repository": "tsparticles/tsparticles",
+      "category": "physics",
+      "source_url": "https://github.com/tsparticles/tsparticles",
+      "description_en": "Configure particle emitters, motion, interactions, and presets to build effects such as confetti and fireworks in the browser.",
+      "description_zh": "在浏览器里配置粒子发射、运动和交互，组合出彩纸、烟花等效果",
+      "license": {
+        "label": "MIT",
+        "source_url": "https://github.com/tsparticles/tsparticles/blob/main/LICENSE",
+        "verified": true
+      },
+      "banner": {
+        "image_url": "https://repository-images.githubusercontent.com/238514517/0b2e31ff-aef0-45de-99ab-938bae64a744",
+        "source_page": "https://github.com/tsparticles/tsparticles",
+        "kind": "upstream-custom-social-banner"
+      },
+      "checked_on": "2026-11-09",
+      "use_case_en": "Trigger a short confetti burst when a product demo reaches a success state.",
+      "use_case_zh": "在产品演示进入成功状态时触发一段短暂的彩纸爆发",
+      "guide_url": "https://particles.js.org/"
+    },
+    {
+      "number": 48,
+      "name": "PixiJS",
+      "repository": "pixijs/pixijs",
+      "category": "physics",
+      "source_url": "https://github.com/pixijs/pixijs",
+      "description_en": "Render a real-time 2D scene with sprites, textures, filters, and an update loop. Animated sprites can play texture frames while code controls scene transforms.",
+      "description_zh": "用精灵、纹理、滤镜和更新循环渲染实时 2D 场景。精灵可播放纹理帧，场景变换可由代码控制",
+      "license": {
+        "label": "MIT",
+        "source_url": "https://github.com/pixijs/pixijs/blob/dev/LICENSE",
+        "verified": true
+      },
+      "banner": {
+        "image_url": "https://repository-images.githubusercontent.com/7741856/20ddf680-86b9-11e9-90e3-aa6dd61c184a",
+        "source_page": "https://github.com/pixijs/pixijs",
+        "kind": "upstream-custom-social-banner"
+      },
+      "checked_on": "2026-11-09",
+      "use_case_en": "Build an interactive 2D hero with looping sprite animation and a reactive filter.",
+      "use_case_zh": "制作一个带循环精灵动画和响应式滤镜的 2D 交互首屏",
+      "guide_url": "https://pixijs.com/8.x/guides/getting-started/quick-start"
+    },
+    {
+      "number": 49,
+      "name": "p5.js",
+      "repository": "processing/p5.js",
+      "category": "physics",
+      "source_url": "https://github.com/processing/p5.js",
+      "description_en": "Draw graphics in JavaScript with a recurring draw loop, time and input variables, and 2D or WebGL renderers.",
+      "description_zh": "用 JavaScript 的绘图循环、时间和输入变量逐帧更新图形，支持 2D 和 WebGL 渲染",
+      "license": {
+        "label": "LGPL-2.1",
+        "source_url": "https://github.com/processing/p5.js/blob/main/license.txt",
+        "verified": true
+      },
+      "banner": {
+        "image_url": "https://opengraph.githubassets.com/7b59b190b1f02477594855877e51bd3e9783c066ed55fd897a74cb641879ca51/processing/p5.js",
+        "source_page": "https://github.com/processing/p5.js",
+        "kind": "github-generated-repository-preview"
+      },
+      "checked_on": "2026-11-09",
+      "use_case_en": "Make a kinetic typography study or an interactive procedural pattern that changes each frame.",
+      "use_case_zh": "制作动态字体练习，或编写逐帧变化并响应鼠标的程序化图案",
+      "guide_url": "https://p5js.org/reference/p5/draw/"
     }
   ]
 }
