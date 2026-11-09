@@ -2,13 +2,13 @@
 
 <div align="center">
 
-<a href="assets/infographic-zh-CN.png"><img src="assets/infographic-zh-CN.png" width="760" alt="35 个动效与动画 GitHub 项目的五分类信息图，点击查看高清版"></a>
+<a href="assets/infographic-zh-CN.png"><img src="assets/infographic-zh-CN.png" width="760" alt="47 个动效与动画 GitHub 项目的五分类信息图，点击查看高清版"></a>
 
 <h1>用代码，搭一间动效工作室</h1>
 
-<p>35 个 GitHub 项目，覆盖动画、3D、物理模拟、声音、剪辑与交付</p>
+<p>47 个 GitHub 项目，覆盖动画、3D、物理模拟、声音、剪辑与交付</p>
 
-<p><a href="LICENSE"><img src="assets/badge-license.svg" alt="Collection license: CC BY 4.0"></a> <a href="#animation"><img src="assets/badge-projects.svg" alt="35 GitHub projects"></a> <a href="README.md"><img src="assets/badge-en.svg" alt="Read in English"></a> <a href="README_zh-CN.md"><img src="assets/badge-zh.svg" alt="阅读简体中文"></a></p>
+<p><a href="LICENSE"><img src="assets/badge-license.svg" alt="Collection license: CC BY 4.0"></a> <a href="#animation"><img src="assets/badge-projects.svg" alt="47 GitHub projects"></a> <a href="README.md"><img src="assets/badge-en.svg" alt="Read in English"></a> <a href="README_zh-CN.md"><img src="assets/badge-zh.svg" alt="阅读简体中文"></a></p>
 
 <p><a href="#animation">浏览工具合集</a> · <a href="CONTRIBUTING.md">提交资源建议</a></p>
 
@@ -43,9 +43,9 @@
 ## 🧭 合集概览
 | 分类 | 项目数 |
 | --- | ---: |
-| [动画与编排](#animation) | 14 |
+| [动画与编排](#animation) | 23 |
 | [3D 与场景](#scenes) | 7 |
-| [物理与手绘](#physics) | 5 |
+| [物理与手绘](#physics) | 8 |
 | [声音与剪辑](#audio) | 7 |
 | [渲染与交付](#delivery) | 2 |
 
@@ -210,6 +210,116 @@ React 液态玻璃组件，可调折射位移、弹性和鼠标交互反馈
 Safari 和 Firefox 对位移效果的支持有限
 
 <a href="https://github.com/rdev/liquid-glass-react"><img src="https://opengraph.githubassets.com/ff4b85397a8ce27632a488776f72d22067a82559ddd014d8dd7141c7407d956a/rdev/liquid-glass-react" alt="liquid-glass-react — GitHub 官方仓库预览图，点击访问仓库" width="760"></a>
+
+<a id="project-38"></a>
+
+### 38 · [GSAP](https://github.com/greensock/GSAP)
+
+用时间轴编排补间动画，控制元素的入场、变形和退场。插件支持滚动进度、SVG 变形和路径运动
+
+**制作场景** — 在同一条时间轴上同步片头文字、图标运动和产品镜头
+
+[上游指南](https://gsap.com/docs/v3/) · **上游许可** [GSAP Standard License](https://gsap.com/community/standard-license/)
+
+标准许可限制在与 Webflow 竞争的可视化动画构建工具中的部分用途，请按实际集成方式核对条款
+
+<a href="https://github.com/greensock/GSAP"><img src="https://repository-images.githubusercontent.com/5905330/b77da600-0330-11ea-965b-ec11bc9d0759" alt="GSAP — 官方项目封面，点击访问仓库" width="760"></a>
+
+<a id="project-39"></a>
+
+### 39 · [Motion](https://github.com/motiondivision/motion)
+
+在 React 中为布局变化、共享元素、手势和进出场加动画，也可用动态值和弹簧过渡把一个输入关联到多个属性
+
+**制作场景** — 让卡片在列表与详情之间平滑过渡，保持同一个元素的视觉连续性
+
+[上游指南](https://motion.dev/docs/react-layout-animations) · **上游许可** [MIT](https://github.com/motiondivision/motion/blob/main/LICENSE.md)
+
+<a href="https://github.com/motiondivision/motion"><img src="https://repository-images.githubusercontent.com/157846876/2a38d0a3-269e-45b1-bd76-d95cdc971579" alt="Motion — 官方项目封面，点击访问仓库" width="760"></a>
+
+<a id="project-40"></a>
+
+### 40 · [Motion Canvas](https://github.com/motion-canvas/motion-canvas)
+
+用 TypeScript 场景创建矢量动画，通过生成器函数安排动作顺序和同步关系，在编辑器里预览时序和场景参数
+
+**制作场景** — 逐步演示流程图，再把各场景的切换对齐旁白
+
+[上游指南](https://motioncanvas.io/docs/quickstart/) · **上游许可** [MIT](https://github.com/motion-canvas/motion-canvas/blob/main/LICENSE)
+
+<a href="https://github.com/motion-canvas/motion-canvas"><img src="https://repository-images.githubusercontent.com/520955562/cc460c06-142c-4559-bd70-5ed5a5a797e3" alt="Motion Canvas — 官方项目封面，点击访问仓库" width="760"></a>
+
+<a id="project-41"></a>
+
+### 41 · [Manim](https://github.com/ManimCommunity/manim)
+
+用 Python 场景编排公式、图形和曲线的变化，通过场景和相机类控制构图与镜头
+
+**制作场景** — 将一个公式逐步变形成下一个公式，同时突出发生变化的项
+
+[上游指南](https://docs.manim.community/en/stable/tutorials/quickstart.html) · **上游许可** [MIT](https://github.com/ManimCommunity/manim/blob/main/LICENSE)
+
+<a href="https://github.com/ManimCommunity/manim"><img src="https://opengraph.githubassets.com/c79f4ca51562765675c86e5879c9cb4ca96a4471b552d5c841c39047dd46eca9/ManimCommunity/manim" alt="Manim — GitHub 官方仓库预览图，点击访问仓库" width="760"></a>
+
+<a id="project-42"></a>
+
+### 42 · [Rive Web Runtime](https://github.com/rive-app/rive-wasm)
+
+通过 JavaScript 和 WebAssembly 在浏览器里运行 Rive 文件，用状态机响应交互和应用数据变化
+
+**制作场景** — 为按钮或吉祥物设计待机、悬停和成功状态，再由应用触发切换
+
+[上游指南](https://rive.app/docs/runtimes/web/web-js) · **上游许可** [MIT](https://github.com/rive-app/rive-wasm/blob/master/LICENSE)
+
+<a href="https://github.com/rive-app/rive-wasm"><img src="https://opengraph.githubassets.com/ead13c613493740dab4f48b9b28b843c71f38bccd7389576e59ab6369992b52b/rive-app/rive-wasm" alt="Rive Web Runtime — GitHub 官方仓库预览图，点击访问仓库" width="760"></a>
+
+<a id="project-43"></a>
+
+### 43 · [lottie-web](https://github.com/airbnb/lottie-web)
+
+在浏览器里播放从 After Effects 导出的 Lottie JSON 动画，可定位帧、调整速度和方向或播放指定片段
+
+**制作场景** — 把动画图标放进产品界面，在表单提交后只播放确认片段
+
+[上游指南](https://github.com/airbnb/lottie-web#usage) · **上游许可** [MIT](https://github.com/airbnb/lottie-web/blob/master/LICENSE.md)
+
+<a href="https://github.com/airbnb/lottie-web"><img src="https://opengraph.githubassets.com/4696024a5842c3b2f05c40e0ef28ae122740ff3ab7f441924dc57c3721eeb8a9/airbnb/lottie-web" alt="lottie-web — GitHub 官方仓库预览图，点击访问仓库" width="760"></a>
+
+<a id="project-44"></a>
+
+### 44 · [react-spring](https://github.com/pmndrs/react-spring)
+
+用弹簧物理驱动 React 中的动画值，通过质量、张力和摩擦力控制元素如何跟随目标变化
+
+**制作场景** — 调节拖拽卡片松手后回到原位时的回弹幅度和停止速度
+
+[上游指南](https://www.react-spring.dev/docs/getting-started) · **上游许可** [MIT](https://github.com/pmndrs/react-spring/blob/next/LICENSE)
+
+<a href="https://github.com/pmndrs/react-spring"><img src="https://repository-images.githubusercontent.com/124257233/7bdde70a-e54f-4623-8cbc-537da87daba6" alt="react-spring — 官方项目封面，点击访问仓库" width="760"></a>
+
+<a id="project-45"></a>
+
+### 45 · [AutoAnimate](https://github.com/formkit/auto-animate)
+
+给父元素启用动画，子元素在 DOM 中新增、移除或移动时会自动过渡
+
+**制作场景** — 让筛选后的卡片网格在重排时自然移动
+
+[上游指南](https://auto-animate.formkit.com/#usage) · **上游许可** [MIT](https://github.com/formkit/auto-animate/blob/master/LICENSE)
+
+<a href="https://github.com/formkit/auto-animate"><img src="https://repository-images.githubusercontent.com/491235501/1409bd0d-1d33-445a-9cf1-d59e951edb07" alt="AutoAnimate — 官方项目封面，点击访问仓库" width="760"></a>
+
+<a id="project-46"></a>
+
+### 46 · [Popmotion](https://github.com/Popmotion/popmotion)
+
+用底层 JavaScript 原语做关键帧、弹簧和惯性动画，通过更新回调把动画值交给自己的渲染器
+
+**制作场景** — 为 Canvas 控件实现松手后的惯性滑动和弹簧复位
+
+[上游指南](https://github.com/Popmotion/popmotion#animation) · **上游许可** [MIT (popmotion package)](https://github.com/Popmotion/popmotion/blob/master/packages/popmotion/LICENSE.md)
+
+<a href="https://github.com/Popmotion/popmotion"><img src="https://opengraph.githubassets.com/6f48b75682a4cb9ff27ca34405b4cd5bf51e24acb15540dd4849f7ce695d422b/Popmotion/popmotion" alt="Popmotion — GitHub 官方仓库预览图，点击访问仓库" width="760"></a>
 
 <a id="data-motion-tools"></a>
 
@@ -427,6 +537,42 @@ ClaudeAnimationBase 是用 p5.js 和 p5.brush 搭的起步套件，提供可复�
 
 <a href="https://github.com/JohnHeibel/ClaudeAnimationBase"><img src="https://opengraph.githubassets.com/fa387dce7cb66fbf4d230c914ea4c3c1975b589de9b29283b56a47e6a916e061/JohnHeibel/ClaudeAnimationBase" alt="ClaudeAnimationBase — GitHub 官方仓库预览图，点击访问仓库" width="760"></a>
 
+<a id="project-47"></a>
+
+### 47 · [tsParticles](https://github.com/tsparticles/tsparticles)
+
+在浏览器里配置粒子发射、运动和交互，组合出彩纸、烟花等效果
+
+**制作场景** — 在产品演示进入成功状态时触发一段短暂的彩纸爆发
+
+[上游指南](https://particles.js.org/) · **上游许可** [MIT](https://github.com/tsparticles/tsparticles/blob/main/LICENSE)
+
+<a href="https://github.com/tsparticles/tsparticles"><img src="https://repository-images.githubusercontent.com/238514517/0b2e31ff-aef0-45de-99ab-938bae64a744" alt="tsParticles — 官方项目封面，点击访问仓库" width="760"></a>
+
+<a id="project-48"></a>
+
+### 48 · [PixiJS](https://github.com/pixijs/pixijs)
+
+用精灵、纹理、滤镜和更新循环渲染实时 2D 场景。精灵可播放纹理帧，场景变换可由代码控制
+
+**制作场景** — 制作一个带循环精灵动画和响应式滤镜的 2D 交互首屏
+
+[上游指南](https://pixijs.com/8.x/guides/getting-started/quick-start) · **上游许可** [MIT](https://github.com/pixijs/pixijs/blob/dev/LICENSE)
+
+<a href="https://github.com/pixijs/pixijs"><img src="https://repository-images.githubusercontent.com/7741856/20ddf680-86b9-11e9-90e3-aa6dd61c184a" alt="PixiJS — 官方项目封面，点击访问仓库" width="760"></a>
+
+<a id="project-49"></a>
+
+### 49 · [p5.js](https://github.com/processing/p5.js)
+
+用 JavaScript 的绘图循环、时间和输入变量逐帧更新图形，支持 2D 和 WebGL 渲染
+
+**制作场景** — 制作动态字体练习，或编写逐帧变化并响应鼠标的程序化图案
+
+[上游指南](https://p5js.org/reference/p5/draw/) · **上游许可** [LGPL-2.1](https://github.com/processing/p5.js/blob/main/license.txt)
+
+<a href="https://github.com/processing/p5.js"><img src="https://opengraph.githubassets.com/7b59b190b1f02477594855877e51bd3e9783c066ed55fd897a74cb641879ca51/processing/p5.js" alt="p5.js — GitHub 官方仓库预览图，点击访问仓库" width="760"></a>
+
 <a id="audio"></a>
 
 ## 🎧 声音与剪辑
@@ -567,7 +713,7 @@ FFmpeg 是读写、滤镜处理、编码和封装媒体流的命令行工具，�
 
 项目 banner 优先使用其 GitHub 页面设置的官方分享图；没有自定义分享图时使用 GitHub 生成的仓库预览卡。所有图片均可点击访问对应项目。[查看封面来源](docs/media-sources.md)。这些上游图片不属于本合集的 CC BY 4.0 授权范围。
 
-项目来源与许可信息核对日期：**2026-11-02**（01–22）、**2026-11-08**（23–37）。许可标签用于导航，完整条款以上游文件为准
+项目来源与许可信息核对日期：**2026-11-02**（01–22）、**2026-11-08**（23–37）、**2026-11-09**（38–49）。许可标签用于导航，完整条款以上游文件为准
 
 
 <a id="contributing"></a>
@@ -584,6 +730,6 @@ FFmpeg 是读写、滤镜处理、编码和封装媒体流的命令行工具，�
 
 感谢所有上游项目的作者、贡献者与维护者。工具的开发、支持与许可由各自项目负责。
 
-[Remotion](https://github.com/remotion-dev/remotion), [Anime.js](https://github.com/juliangarnier/anime), [mo.js](https://github.com/mojs/mojs), [Theatre.js](https://github.com/theatre-js/theatre), [Two.js](https://github.com/jonobr1/two.js), [D3](https://github.com/d3/d3), [Three.js](https://github.com/mrdoob/three.js), [Babylon.js](https://github.com/BabylonJS/Babylon.js), [Drei](https://github.com/pmndrs/drei), [Spark](https://github.com/sparkjsdev/spark), [cables.gl](https://github.com/cables-gl/cables_electron), [Taichi](https://github.com/taichi-dev/taichi), [SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH), [Custom Shader Material](https://github.com/FarazzShaikh/THREE-CustomShaderMaterial), [OpenToonz](https://github.com/opentoonz/opentoonz), [Audacity](https://github.com/audacity/audacity), [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit), [Auto-Editor](https://github.com/WyattBlue/auto-editor), [RIFE](https://github.com/hzwer/ECCV2022-RIFE), [FFmpeg](https://github.com/FFmpeg/FFmpeg), [HyperFrames](https://github.com/heygen-com/hyperframes), [cinetic](https://github.com/Leonxlnx/cinetic), [Guizang Product Video Skill](https://github.com/op7418/guizang-product-video-skill), [MCP for Blender](https://github.com/ahujasid/mcp-for-blender), [Motion2MixamoRig](https://github.com/MaxLiu22/Motion2MixamoRig), [ClaudeAnimationBase](https://github.com/JohnHeibel/ClaudeAnimationBase), [OpenCut](https://github.com/OpenCut-app/OpenCut), [LosslessCut](https://github.com/mifi/lossless-cut), [video-use](https://github.com/browser-use/video-use), [Palmier Pro](https://github.com/palmier-io/palmier-pro), [liquid-glass-react](https://github.com/rdev/liquid-glass-react), [Chart.js](https://github.com/chartjs/Chart.js), [Apache ECharts](https://github.com/apache/echarts), [Matplotlib](https://github.com/matplotlib/matplotlib), [Plotly.py](https://github.com/plotly/plotly.py)
+[Remotion](https://github.com/remotion-dev/remotion), [Anime.js](https://github.com/juliangarnier/anime), [mo.js](https://github.com/mojs/mojs), [Theatre.js](https://github.com/theatre-js/theatre), [Two.js](https://github.com/jonobr1/two.js), [D3](https://github.com/d3/d3), [Three.js](https://github.com/mrdoob/three.js), [Babylon.js](https://github.com/BabylonJS/Babylon.js), [Drei](https://github.com/pmndrs/drei), [Spark](https://github.com/sparkjsdev/spark), [cables.gl](https://github.com/cables-gl/cables_electron), [Taichi](https://github.com/taichi-dev/taichi), [SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH), [Custom Shader Material](https://github.com/FarazzShaikh/THREE-CustomShaderMaterial), [OpenToonz](https://github.com/opentoonz/opentoonz), [Audacity](https://github.com/audacity/audacity), [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit), [Auto-Editor](https://github.com/WyattBlue/auto-editor), [RIFE](https://github.com/hzwer/ECCV2022-RIFE), [FFmpeg](https://github.com/FFmpeg/FFmpeg), [HyperFrames](https://github.com/heygen-com/hyperframes), [cinetic](https://github.com/Leonxlnx/cinetic), [Guizang Product Video Skill](https://github.com/op7418/guizang-product-video-skill), [MCP for Blender](https://github.com/ahujasid/mcp-for-blender), [Motion2MixamoRig](https://github.com/MaxLiu22/Motion2MixamoRig), [ClaudeAnimationBase](https://github.com/JohnHeibel/ClaudeAnimationBase), [OpenCut](https://github.com/OpenCut-app/OpenCut), [LosslessCut](https://github.com/mifi/lossless-cut), [video-use](https://github.com/browser-use/video-use), [Palmier Pro](https://github.com/palmier-io/palmier-pro), [liquid-glass-react](https://github.com/rdev/liquid-glass-react), [Chart.js](https://github.com/chartjs/Chart.js), [Apache ECharts](https://github.com/apache/echarts), [Matplotlib](https://github.com/matplotlib/matplotlib), [Plotly.py](https://github.com/plotly/plotly.py), [GSAP](https://github.com/greensock/GSAP), [Motion](https://github.com/motiondivision/motion), [Motion Canvas](https://github.com/motion-canvas/motion-canvas), [Manim](https://github.com/ManimCommunity/manim), [Rive Web Runtime](https://github.com/rive-app/rive-wasm), [lottie-web](https://github.com/airbnb/lottie-web), [react-spring](https://github.com/pmndrs/react-spring), [AutoAnimate](https://github.com/formkit/auto-animate), [Popmotion](https://github.com/Popmotion/popmotion), [tsParticles](https://github.com/tsparticles/tsparticles), [PixiJS](https://github.com/pixijs/pixijs), [p5.js](https://github.com/processing/p5.js)
 
 整理：**@林悦己 cheer**

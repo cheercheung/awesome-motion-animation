@@ -2,13 +2,13 @@
 
 <div align="center">
 
-<a href="assets/infographic-en.png"><img src="assets/infographic-en.png" width="760" alt="Infographic of 35 motion and animation GitHub projects in five categories; open full resolution"></a>
+<a href="assets/infographic-en.png"><img src="assets/infographic-en.png" width="760" alt="Infographic of 47 motion and animation GitHub projects in five categories; open full resolution"></a>
 
 <h1>Awesome Motion & Animation</h1>
 
-<p>35 GitHub projects for animation, 3D, physics, audio, editing, and delivery.</p>
+<p>47 GitHub projects for animation, 3D, physics, audio, editing, and delivery.</p>
 
-<p><a href="LICENSE"><img src="assets/badge-license.svg" alt="Collection license: CC BY 4.0"></a> <a href="#animation"><img src="assets/badge-projects.svg" alt="35 GitHub projects"></a> <a href="README.md"><img src="assets/badge-en.svg" alt="Read in English"></a> <a href="README_zh-CN.md"><img src="assets/badge-zh.svg" alt="阅读简体中文"></a></p>
+<p><a href="LICENSE"><img src="assets/badge-license.svg" alt="Collection license: CC BY 4.0"></a> <a href="#animation"><img src="assets/badge-projects.svg" alt="47 GitHub projects"></a> <a href="README.md"><img src="assets/badge-en.svg" alt="Read in English"></a> <a href="README_zh-CN.md"><img src="assets/badge-zh.svg" alt="阅读简体中文"></a></p>
 
 <p><a href="#animation">Explore the collection</a> · <a href="CONTRIBUTING.md">Suggest a resource</a></p>
 
@@ -43,9 +43,9 @@ This collection includes open-source projects and source-available software with
 ## 🧭 Overview
 | Category | Projects |
 | --- | ---: |
-| [Animation & Choreography](#animation) | 14 |
+| [Animation & Choreography](#animation) | 23 |
 | [3D & Scenes](#scenes) | 7 |
-| [Physics & Drawing](#physics) | 5 |
+| [Physics & Drawing](#physics) | 8 |
 | [Audio & Editing](#audio) | 7 |
 | [Render & Delivery](#delivery) | 2 |
 
@@ -210,6 +210,116 @@ A React component for refractive glass effects with configurable displacement, e
 The displacement effect has limited support in Safari and Firefox.
 
 <a href="https://github.com/rdev/liquid-glass-react"><img src="https://opengraph.githubassets.com/ff4b85397a8ce27632a488776f72d22067a82559ddd014d8dd7141c7407d956a/rdev/liquid-glass-react" alt="liquid-glass-react — official GitHub repository preview; open repository" width="760"></a>
+
+<a id="project-38"></a>
+
+### 38 · [GSAP](https://github.com/greensock/GSAP)
+
+Sequence tweens on a timeline and control how elements enter, transform, and leave. Plugins add scroll progress, SVG morphing, and motion paths.
+
+**In production** — Synchronize a title reveal, icon movement, and product shot with a single timeline.
+
+[Upstream guide](https://gsap.com/docs/v3/) · **License** [GSAP Standard License](https://gsap.com/community/standard-license/)
+
+The standard license restricts certain uses in visual animation builders that compete with Webflow. Review the terms for your integration.
+
+<a href="https://github.com/greensock/GSAP"><img src="https://repository-images.githubusercontent.com/5905330/b77da600-0330-11ea-965b-ec11bc9d0759" alt="GSAP — official project banner; open repository" width="760"></a>
+
+<a id="project-39"></a>
+
+### 39 · [Motion](https://github.com/motiondivision/motion)
+
+Animate layout changes, shared elements, gestures, and presence in React. Its motion values and spring transitions can connect an input to several animated properties.
+
+**In production** — Animate a card moving between a grid and its detail view while preserving the visual connection.
+
+[Upstream guide](https://motion.dev/docs/react-layout-animations) · **License** [MIT](https://github.com/motiondivision/motion/blob/main/LICENSE.md)
+
+<a href="https://github.com/motiondivision/motion"><img src="https://repository-images.githubusercontent.com/157846876/2a38d0a3-269e-45b1-bd76-d95cdc971579" alt="Motion — official project banner; open repository" width="760"></a>
+
+<a id="project-40"></a>
+
+### 40 · [Motion Canvas](https://github.com/motion-canvas/motion-canvas)
+
+Build vector animations from TypeScript scenes. Generator functions sequence and synchronize changes, and the editor previews timing and scene properties.
+
+**In production** — Animate a process diagram step by step, then align the scene changes with narration.
+
+[Upstream guide](https://motioncanvas.io/docs/quickstart/) · **License** [MIT](https://github.com/motion-canvas/motion-canvas/blob/main/LICENSE)
+
+<a href="https://github.com/motion-canvas/motion-canvas"><img src="https://repository-images.githubusercontent.com/520955562/cc460c06-142c-4559-bd70-5ed5a5a797e3" alt="Motion Canvas — official project banner; open repository" width="760"></a>
+
+<a id="project-41"></a>
+
+### 41 · [Manim](https://github.com/ManimCommunity/manim)
+
+Write Python scenes that transform equations, shapes, graphs, and other objects over time. Its scene and camera classes give code explicit control over composition and framing.
+
+**In production** — Morph one equation into the next while highlighting the term that changed.
+
+[Upstream guide](https://docs.manim.community/en/stable/tutorials/quickstart.html) · **License** [MIT](https://github.com/ManimCommunity/manim/blob/main/LICENSE)
+
+<a href="https://github.com/ManimCommunity/manim"><img src="https://opengraph.githubassets.com/c79f4ca51562765675c86e5879c9cb4ca96a4471b552d5c841c39047dd46eca9/ManimCommunity/manim" alt="Manim — official GitHub repository preview; open repository" width="760"></a>
+
+<a id="project-42"></a>
+
+### 42 · [Rive Web Runtime](https://github.com/rive-app/rive-wasm)
+
+Run Rive files in the browser through JavaScript and WebAssembly. A state machine can drive animations in response to interaction or changes in application data.
+
+**In production** — Give a button or mascot distinct idle, hover, and success states driven by the application.
+
+[Upstream guide](https://rive.app/docs/runtimes/web/web-js) · **License** [MIT](https://github.com/rive-app/rive-wasm/blob/master/LICENSE)
+
+<a href="https://github.com/rive-app/rive-wasm"><img src="https://opengraph.githubassets.com/ead13c613493740dab4f48b9b28b843c71f38bccd7389576e59ab6369992b52b/rive-app/rive-wasm" alt="Rive Web Runtime — official GitHub repository preview; open repository" width="760"></a>
+
+<a id="project-43"></a>
+
+### 43 · [lottie-web](https://github.com/airbnb/lottie-web)
+
+Play Lottie JSON animations exported from After Effects in a browser. Playback controls let you seek, change speed or direction, and play a defined frame segment.
+
+**In production** — Embed an animated icon and play only its confirmation segment after a form is submitted.
+
+[Upstream guide](https://github.com/airbnb/lottie-web#usage) · **License** [MIT](https://github.com/airbnb/lottie-web/blob/master/LICENSE.md)
+
+<a href="https://github.com/airbnb/lottie-web"><img src="https://opengraph.githubassets.com/4696024a5842c3b2f05c40e0ef28ae122740ff3ab7f441924dc57c3721eeb8a9/airbnb/lottie-web" alt="lottie-web — official GitHub repository preview; open repository" width="760"></a>
+
+<a id="project-44"></a>
+
+### 44 · [react-spring](https://github.com/pmndrs/react-spring)
+
+Animate React values with spring physics. Parameters such as mass, tension, and friction shape how elements respond when their targets change.
+
+**In production** — Tune how a draggable card settles back into position after release.
+
+[Upstream guide](https://www.react-spring.dev/docs/getting-started) · **License** [MIT](https://github.com/pmndrs/react-spring/blob/next/LICENSE)
+
+<a href="https://github.com/pmndrs/react-spring"><img src="https://repository-images.githubusercontent.com/124257233/7bdde70a-e54f-4623-8cbc-537da87daba6" alt="react-spring — official project banner; open repository" width="760"></a>
+
+<a id="project-45"></a>
+
+### 45 · [AutoAnimate](https://github.com/formkit/auto-animate)
+
+Attach animation to a parent element so its children transition when added, removed, or moved in the DOM.
+
+**In production** — Smooth the reordering of cards in a filterable grid.
+
+[Upstream guide](https://auto-animate.formkit.com/#usage) · **License** [MIT](https://github.com/formkit/auto-animate/blob/master/LICENSE)
+
+<a href="https://github.com/formkit/auto-animate"><img src="https://repository-images.githubusercontent.com/491235501/1409bd0d-1d33-445a-9cf1-d59e951edb07" alt="AutoAnimate — official project banner; open repository" width="760"></a>
+
+<a id="project-46"></a>
+
+### 46 · [Popmotion](https://github.com/Popmotion/popmotion)
+
+Use low-level JavaScript primitives for keyframe, spring, and inertia animations. An update callback lets you apply each value to your own renderer.
+
+**In production** — Drive a custom canvas control with an inertial release and spring return.
+
+[Upstream guide](https://github.com/Popmotion/popmotion#animation) · **License** [MIT (popmotion package)](https://github.com/Popmotion/popmotion/blob/master/packages/popmotion/LICENSE.md)
+
+<a href="https://github.com/Popmotion/popmotion"><img src="https://opengraph.githubassets.com/6f48b75682a4cb9ff27ca34405b4cd5bf51e24acb15540dd4849f7ce695d422b/Popmotion/popmotion" alt="Popmotion — official GitHub repository preview; open repository" width="760"></a>
 
 <a id="data-motion-tools"></a>
 
@@ -427,6 +537,42 @@ ClaudeAnimationBase is a p5.js and p5.brush starter kit with reusable character 
 
 <a href="https://github.com/JohnHeibel/ClaudeAnimationBase"><img src="https://opengraph.githubassets.com/fa387dce7cb66fbf4d230c914ea4c3c1975b589de9b29283b56a47e6a916e061/JohnHeibel/ClaudeAnimationBase" alt="ClaudeAnimationBase — official GitHub repository preview; open repository" width="760"></a>
 
+<a id="project-47"></a>
+
+### 47 · [tsParticles](https://github.com/tsparticles/tsparticles)
+
+Configure particle emitters, motion, interactions, and presets to build effects such as confetti and fireworks in the browser.
+
+**In production** — Trigger a short confetti burst when a product demo reaches a success state.
+
+[Upstream guide](https://particles.js.org/) · **License** [MIT](https://github.com/tsparticles/tsparticles/blob/main/LICENSE)
+
+<a href="https://github.com/tsparticles/tsparticles"><img src="https://repository-images.githubusercontent.com/238514517/0b2e31ff-aef0-45de-99ab-938bae64a744" alt="tsParticles — official project banner; open repository" width="760"></a>
+
+<a id="project-48"></a>
+
+### 48 · [PixiJS](https://github.com/pixijs/pixijs)
+
+Render a real-time 2D scene with sprites, textures, filters, and an update loop. Animated sprites can play texture frames while code controls scene transforms.
+
+**In production** — Build an interactive 2D hero with looping sprite animation and a reactive filter.
+
+[Upstream guide](https://pixijs.com/8.x/guides/getting-started/quick-start) · **License** [MIT](https://github.com/pixijs/pixijs/blob/dev/LICENSE)
+
+<a href="https://github.com/pixijs/pixijs"><img src="https://repository-images.githubusercontent.com/7741856/20ddf680-86b9-11e9-90e3-aa6dd61c184a" alt="PixiJS — official project banner; open repository" width="760"></a>
+
+<a id="project-49"></a>
+
+### 49 · [p5.js](https://github.com/processing/p5.js)
+
+Draw graphics in JavaScript with a recurring draw loop, time and input variables, and 2D or WebGL renderers.
+
+**In production** — Make a kinetic typography study or an interactive procedural pattern that changes each frame.
+
+[Upstream guide](https://p5js.org/reference/p5/draw/) · **License** [LGPL-2.1](https://github.com/processing/p5.js/blob/main/license.txt)
+
+<a href="https://github.com/processing/p5.js"><img src="https://opengraph.githubassets.com/7b59b190b1f02477594855877e51bd3e9783c066ed55fd897a74cb641879ca51/processing/p5.js" alt="p5.js — official GitHub repository preview; open repository" width="760"></a>
+
 <a id="audio"></a>
 
 ## 🎧 Audio & Editing
@@ -567,7 +713,7 @@ Each resource includes an upstream license link. Remotion has free-use eligibili
 
 Project banners use the official social images configured on their GitHub pages; where no custom image is set, a GitHub-generated repository preview is used. Each image links to its project. [View banner sources](docs/media-sources.md). These upstream images are excluded from this collection's CC BY 4.0 license.
 
-Project sources and license information were checked on **2026-11-02** (01–22) and **2026-11-08** (23–37). Labels are navigation aids; the full upstream terms govern.
+Project sources and license information were checked on **2026-11-02** (01–22) **2026-11-08** (23–37), and **2026-11-09** (38–49). Labels are navigation aids; the full upstream terms govern.
 
 
 <a id="contributing"></a>
@@ -584,6 +730,6 @@ Start by [reading the contribution guide](CONTRIBUTING.md), or [suggest a projec
 
 Thanks to the authors, contributors, and maintainers of every upstream project. Development, support, and licensing remain with each project.
 
-[Remotion](https://github.com/remotion-dev/remotion), [Anime.js](https://github.com/juliangarnier/anime), [mo.js](https://github.com/mojs/mojs), [Theatre.js](https://github.com/theatre-js/theatre), [Two.js](https://github.com/jonobr1/two.js), [D3](https://github.com/d3/d3), [Three.js](https://github.com/mrdoob/three.js), [Babylon.js](https://github.com/BabylonJS/Babylon.js), [Drei](https://github.com/pmndrs/drei), [Spark](https://github.com/sparkjsdev/spark), [cables.gl](https://github.com/cables-gl/cables_electron), [Taichi](https://github.com/taichi-dev/taichi), [SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH), [Custom Shader Material](https://github.com/FarazzShaikh/THREE-CustomShaderMaterial), [OpenToonz](https://github.com/opentoonz/opentoonz), [Audacity](https://github.com/audacity/audacity), [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit), [Auto-Editor](https://github.com/WyattBlue/auto-editor), [RIFE](https://github.com/hzwer/ECCV2022-RIFE), [FFmpeg](https://github.com/FFmpeg/FFmpeg), [HyperFrames](https://github.com/heygen-com/hyperframes), [cinetic](https://github.com/Leonxlnx/cinetic), [Guizang Product Video Skill](https://github.com/op7418/guizang-product-video-skill), [MCP for Blender](https://github.com/ahujasid/mcp-for-blender), [Motion2MixamoRig](https://github.com/MaxLiu22/Motion2MixamoRig), [ClaudeAnimationBase](https://github.com/JohnHeibel/ClaudeAnimationBase), [OpenCut](https://github.com/OpenCut-app/OpenCut), [LosslessCut](https://github.com/mifi/lossless-cut), [video-use](https://github.com/browser-use/video-use), [Palmier Pro](https://github.com/palmier-io/palmier-pro), [liquid-glass-react](https://github.com/rdev/liquid-glass-react), [Chart.js](https://github.com/chartjs/Chart.js), [Apache ECharts](https://github.com/apache/echarts), [Matplotlib](https://github.com/matplotlib/matplotlib), [Plotly.py](https://github.com/plotly/plotly.py).
+[Remotion](https://github.com/remotion-dev/remotion), [Anime.js](https://github.com/juliangarnier/anime), [mo.js](https://github.com/mojs/mojs), [Theatre.js](https://github.com/theatre-js/theatre), [Two.js](https://github.com/jonobr1/two.js), [D3](https://github.com/d3/d3), [Three.js](https://github.com/mrdoob/three.js), [Babylon.js](https://github.com/BabylonJS/Babylon.js), [Drei](https://github.com/pmndrs/drei), [Spark](https://github.com/sparkjsdev/spark), [cables.gl](https://github.com/cables-gl/cables_electron), [Taichi](https://github.com/taichi-dev/taichi), [SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH), [Custom Shader Material](https://github.com/FarazzShaikh/THREE-CustomShaderMaterial), [OpenToonz](https://github.com/opentoonz/opentoonz), [Audacity](https://github.com/audacity/audacity), [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit), [Auto-Editor](https://github.com/WyattBlue/auto-editor), [RIFE](https://github.com/hzwer/ECCV2022-RIFE), [FFmpeg](https://github.com/FFmpeg/FFmpeg), [HyperFrames](https://github.com/heygen-com/hyperframes), [cinetic](https://github.com/Leonxlnx/cinetic), [Guizang Product Video Skill](https://github.com/op7418/guizang-product-video-skill), [MCP for Blender](https://github.com/ahujasid/mcp-for-blender), [Motion2MixamoRig](https://github.com/MaxLiu22/Motion2MixamoRig), [ClaudeAnimationBase](https://github.com/JohnHeibel/ClaudeAnimationBase), [OpenCut](https://github.com/OpenCut-app/OpenCut), [LosslessCut](https://github.com/mifi/lossless-cut), [video-use](https://github.com/browser-use/video-use), [Palmier Pro](https://github.com/palmier-io/palmier-pro), [liquid-glass-react](https://github.com/rdev/liquid-glass-react), [Chart.js](https://github.com/chartjs/Chart.js), [Apache ECharts](https://github.com/apache/echarts), [Matplotlib](https://github.com/matplotlib/matplotlib), [Plotly.py](https://github.com/plotly/plotly.py), [GSAP](https://github.com/greensock/GSAP), [Motion](https://github.com/motiondivision/motion), [Motion Canvas](https://github.com/motion-canvas/motion-canvas), [Manim](https://github.com/ManimCommunity/manim), [Rive Web Runtime](https://github.com/rive-app/rive-wasm), [lottie-web](https://github.com/airbnb/lottie-web), [react-spring](https://github.com/pmndrs/react-spring), [AutoAnimate](https://github.com/formkit/auto-animate), [Popmotion](https://github.com/Popmotion/popmotion), [tsParticles](https://github.com/tsparticles/tsparticles), [PixiJS](https://github.com/pixijs/pixijs), [p5.js](https://github.com/processing/p5.js).
 
 Curated by **@林悦己 cheer**.

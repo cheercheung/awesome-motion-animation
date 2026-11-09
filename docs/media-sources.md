@@ -6,7 +6,7 @@ These upstream project images retain their respective rights and terms. They are
 
 两版 README 首图为本合集原创信息图。各项目封面来自对应官方 GitHub 仓库页面的 `og:image`：有自定义分享图时使用项目设置的图片，否则使用 GitHub 自动生成的仓库预览卡。图片点击后直接进入对应仓库。上游图片保留各自的权利与条款，不纳入本合集的 CC BY 4.0。
 
-Banner metadata and image availability checked on **2026-11-03** (01–22) and **2026-11-08** (23–37). / 封面元数据与可访问性核对日期：**2026-11-03**（01–22）、**2026-11-08**（23–37）
+Banner metadata and image availability checked on **2026-11-03** (01–22) **2026-11-08** (23–37), and **2026-11-09** (38–49). / 封面元数据与可访问性核对日期：**2026-11-03**（01–22）、**2026-11-08**（23–37）、**2026-11-09**（38–49）
 
 | # | Project / 项目 | Preview type / 封面类型 | Source / 来源 | Image / 图片 |
 | --- | --- | --- | --- | --- |
@@ -45,3 +45,15 @@ Banner metadata and image availability checked on **2026-11-03** (01–22) and *
 | 35 | Apache ECharts | GitHub repository preview / GitHub 仓库预览 | [Open upstream repository](https://github.com/apache/echarts) | [View image](https://opengraph.githubassets.com/9957fce95001093a1cd13094908630115ec5b140b0d57d07e9781f2d414a82d0/apache/echarts) |
 | 36 | Matplotlib | GitHub repository preview / GitHub 仓库预览 | [Open upstream repository](https://github.com/matplotlib/matplotlib) | [View image](https://opengraph.githubassets.com/e278a31bbea57303c7ef0f1dfed0fbe8f152049b7e9fc55ce11deae7bf3802be/matplotlib/matplotlib) |
 | 37 | Plotly.py | GitHub repository preview / GitHub 仓库预览 | [Open upstream repository](https://github.com/plotly/plotly.py) | [View image](https://opengraph.githubassets.com/1ea600ea02640a047655142be440721cf03162e2871a09523a91ba88db72b319/plotly/plotly.py) |
+| 38 | GSAP | Project custom banner / 项目自定义封面 | [Open upstream repository](https://github.com/greensock/GSAP) | [View image](https://repository-images.githubusercontent.com/5905330/b77da600-0330-11ea-965b-ec11bc9d0759) |
+| 39 | Motion | Project custom banner / 项目自定义封面 | [Open upstream repository](https://github.com/motiondivision/motion) | [View image](https://repository-images.githubusercontent.com/157846876/2a38d0a3-269e-45b1-bd76-d95cdc971579) |
+| 40 | Motion Canvas | Project custom banner / 项目自定义封面 | [Open upstream repository](https://github.com/motion-canvas/motion-canvas) | [View image](https://repository-images.githubusercontent.com/520955562/cc460c06-142c-4559-bd70-5ed5a5a797e3) |
+| 41 | Manim | GitHub repository preview / GitHub 仓库预览 | [Open upstream repository](https://github.com/ManimCommunity/manim) | [View image](https://opengraph.githubassets.com/c79f4ca51562765675c86e5879c9cb4ca96a4471b552d5c841c39047dd46eca9/ManimCommunity/manim) |
+| 42 | Rive Web Runtime | GitHub repository preview / GitHub 仓库预览 | [Open upstream repository](https://github.com/rive-app/rive-wasm) | [View image](https://opengraph.githubassets.com/ead13c613493740dab4f48b9b28b843c71f38bccd7389576e59ab6369992b52b/rive-app/rive-wasm) |
+| 43 | lottie-web | GitHub repository preview / GitHub 仓库预览 | [Open upstream repository](https://github.com/airbnb/lottie-web) | [View image](https://opengraph.githubassets.com/4696024a5842c3b2f05c40e0ef28ae122740ff3ab7f441924dc57c3721eeb8a9/airbnb/lottie-web) |
+| 44 | react-spring | Project custom banner / 项目自定义封面 | [Open upstream repository](https://github.com/pmndrs/react-spring) | [View image](https://repository-images.githubusercontent.com/124257233/7bdde70a-e54f-4623-8cbc-537da87daba6) |
+| 45 | AutoAnimate | Project custom banner / 项目自定义封面 | [Open upstream repository](https://github.com/formkit/auto-animate) | [View image](https://repository-images.githubusercontent.com/491235501/1409bd0d-1d33-445a-9cf1-d59e951edb07) |
+| 46 | Popmotion | GitHub repository preview / GitHub 仓库预览 | [Open upstream repository](https://github.com/Popmotion/popmotion) | [View image](https://opengraph.githubassets.com/6f48b75682a4cb9ff27ca34405b4cd5bf51e24acb15540dd4849f7ce695d422b/Popmotion/popmotion) |
+| 47 | tsParticles | Project custom banner / 项目自定义封面 | [Open upstream repository](https://github.com/tsparticles/tsparticles) | [View image](https://repository-images.githubusercontent.com/238514517/0b2e31ff-aef0-45de-99ab-938bae64a744) |
+| 48 | PixiJS | Project custom banner / 项目自定义封面 | [Open upstream repository](https://github.com/pixijs/pixijs) | [View image](https://repository-images.githubusercontent.com/7741856/20ddf680-86b9-11e9-90e3-aa6dd61c184a) |
+| 49 | p5.js | GitHub repository preview / GitHub 仓库预览 | [Open upstream repository](https://github.com/processing/p5.js) | [View image](https://opengraph.githubassets.com/7b59b190b1f02477594855877e51bd3e9783c066ed55fd897a74cb641879ca51/processing/p5.js) |

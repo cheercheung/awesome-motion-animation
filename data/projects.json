@@ -840,6 +840,284 @@
       "use_case_en": "Build an interactive chart that reveals how values move over successive years.",
       "use_case_zh": "做一个可播放的交互图表，展示数值逐年怎么变化",
       "guide_url": "https://plotly.com/python/animations/"
+    },
+    {
+      "number": 38,
+      "name": "GSAP",
+      "repository": "greensock/GSAP",
+      "category": "animation",
+      "source_url": "https://github.com/greensock/GSAP",
+      "description_en": "Sequence tweens on a timeline and control how elements enter, transform, and leave. Plugins add scroll progress, SVG morphing, and motion paths.",
+      "description_zh": "用时间轴编排补间动画，控制元素的入场、变形和退场。插件支持滚动进度、SVG 变形和路径运动",
+      "license": {
+        "label": "GSAP Standard License",
+        "source_url": "https://gsap.com/community/standard-license/",
+        "verified": true,
+        "note_en": "The standard license restricts certain uses in visual animation builders that compete with Webflow. Review the terms for your integration.",
+        "note_zh": "标准许可限制在与 Webflow 竞争的可视化动画构建工具中的部分用途，请按实际集成方式核对条款"
+      },
+      "banner": {
+        "image_url": "https://repository-images.githubusercontent.com/5905330/b77da600-0330-11ea-965b-ec11bc9d0759",
+        "source_page": "https://github.com/greensock/GSAP",
+        "kind": "upstream-custom-social-banner"
+      },
+      "checked_on": "2026-11-09",
+      "use_case_en": "Synchronize a title reveal, icon movement, and product shot with a single timeline.",
+      "use_case_zh": "在同一条时间轴上同步片头文字、图标运动和产品镜头",
+      "guide_url": "https://gsap.com/docs/v3/"
+    },
+    {
+      "number": 39,
+      "name": "Motion",
+      "repository": "motiondivision/motion",
+      "category": "animation",
+      "source_url": "https://github.com/motiondivision/motion",
+      "description_en": "Animate layout changes, shared elements, gestures, and presence in React. Its motion values and spring transitions can connect an input to several animated properties.",
+      "description_zh": "在 React 中为布局变化、共享元素、手势和进出场加动画，也可用动态值和弹簧过渡把一个输入关联到多个属性",
+      "license": {
+        "label": "MIT",
+        "source_url": "https://github.com/motiondivision/motion/blob/main/LICENSE.md",
+        "verified": true
+      },
+      "banner": {
+        "image_url": "https://repository-images.githubusercontent.com/157846876/2a38d0a3-269e-45b1-bd76-d95cdc971579",
+        "source_page": "https://github.com/motiondivision/motion",
+        "kind": "upstream-custom-social-banner"
+      },
+      "checked_on": "2026-11-09",
+      "use_case_en": "Animate a card moving between a grid and its detail view while preserving the visual connection.",
+      "use_case_zh": "让卡片在列表与详情之间平滑过渡，保持同一个元素的视觉连续性",
+      "guide_url": "https://motion.dev/docs/react-layout-animations"
+    },
+    {
+      "number": 40,
+      "name": "Motion Canvas",
+      "repository": "motion-canvas/motion-canvas",
+      "category": "animation",
+      "source_url": "https://github.com/motion-canvas/motion-canvas",
+      "description_en": "Build vector animations from TypeScript scenes. Generator functions sequence and synchronize changes, and the editor previews timing and scene properties.",
+      "description_zh": "用 TypeScript 场景创建矢量动画，通过生成器函数安排动作顺序和同步关系，在编辑器里预览时序和场景参数",
+      "license": {
+        "label": "MIT",
+        "source_url": "https://github.com/motion-canvas/motion-canvas/blob/main/LICENSE",
+        "verified": true
+      },
+      "banner": {
+        "image_url": "https://repository-images.githubusercontent.com/520955562/cc460c06-142c-4559-bd70-5ed5a5a797e3",
+        "source_page": "https://github.com/motion-canvas/motion-canvas",
+        "kind": "upstream-custom-social-banner"
+      },
+      "checked_on": "2026-11-09",
+      "use_case_en": "Animate a process diagram step by step, then align the scene changes with narration.",
+      "use_case_zh": "逐步演示流程图，再把各场景的切换对齐旁白",
+      "guide_url": "https://motioncanvas.io/docs/quickstart/"
+    },
+    {
+      "number": 41,
+      "name": "Manim",
+      "repository": "ManimCommunity/manim",
+      "category": "animation",
+      "source_url": "https://github.com/ManimCommunity/manim",
+      "description_en": "Write Python scenes that transform equations, shapes, graphs, and other objects over time. Its scene and camera classes give code explicit control over composition and framing.",
+      "description_zh": "用 Python 场景编排公式、图形和曲线的变化，通过场景和相机类控制构图与镜头",
+      "license": {
+        "label": "MIT",
+        "source_url": "https://github.com/ManimCommunity/manim/blob/main/LICENSE",
+        "verified": true
+      },
+      "banner": {
+        "image_url": "https://opengraph.githubassets.com/c79f4ca51562765675c86e5879c9cb4ca96a4471b552d5c841c39047dd46eca9/ManimCommunity/manim",
+        "source_page": "https://github.com/ManimCommunity/manim",
+        "kind": "github-generated-repository-preview"
+      },
+      "checked_on": "2026-11-09",
+      "use_case_en": "Morph one equation into the next while highlighting the term that changed.",
+      "use_case_zh": "将一个公式逐步变形成下一个公式，同时突出发生变化的项",
+      "guide_url": "https://docs.manim.community/en/stable/tutorials/quickstart.html"
+    },
+    {
+      "number": 42,
+      "name": "Rive Web Runtime",
+      "repository": "rive-app/rive-wasm",
+      "category": "animation",
+      "source_url": "https://github.com/rive-app/rive-wasm",
+      "description_en": "Run Rive files in the browser through JavaScript and WebAssembly. A state machine can drive animations in response to interaction or changes in application data.",
+      "description_zh": "通过 JavaScript 和 WebAssembly 在浏览器里运行 Rive 文件，用状态机响应交互和应用数据变化",
+      "license": {
+        "label": "MIT",
+        "source_url": "https://github.com/rive-app/rive-wasm/blob/master/LICENSE",
+        "verified": true
+      },
+      "banner": {
+        "image_url": "https://opengraph.githubassets.com/ead13c613493740dab4f48b9b28b843c71f38bccd7389576e59ab6369992b52b/rive-app/rive-wasm",
+        "source_page": "https://github.com/rive-app/rive-wasm",
+        "kind": "github-generated-repository-preview"
+      },
+      "checked_on": "2026-11-09",
+      "use_case_en": "Give a button or mascot distinct idle, hover, and success states driven by the application.",
+      "use_case_zh": "为按钮或吉祥物设计待机、悬停和成功状态，再由应用触发切换",
+      "guide_url": "https://rive.app/docs/runtimes/web/web-js"
+    },
+    {
+      "number": 43,
+      "name": "lottie-web",
+      "repository": "airbnb/lottie-web",
+      "category": "animation",
+      "source_url": "https://github.com/airbnb/lottie-web",
+      "description_en": "Play Lottie JSON animations exported from After Effects in a browser. Playback controls let you seek, change speed or direction, and play a defined frame segment.",
+      "description_zh": "在浏览器里播放从 After Effects 导出的 Lottie JSON 动画，可定位帧、调整速度和方向或播放指定片段",
+      "license": {
+        "label": "MIT",
+        "source_url": "https://github.com/airbnb/lottie-web/blob/master/LICENSE.md",
+        "verified": true
+      },
+      "banner": {
+        "image_url": "https://opengraph.githubassets.com/4696024a5842c3b2f05c40e0ef28ae122740ff3ab7f441924dc57c3721eeb8a9/airbnb/lottie-web",
+        "source_page": "https://github.com/airbnb/lottie-web",
+        "kind": "github-generated-repository-preview"
+      },
+      "checked_on": "2026-11-09",
+      "use_case_en": "Embed an animated icon and play only its confirmation segment after a form is submitted.",
+      "use_case_zh": "把动画图标放进产品界面，在表单提交后只播放确认片段",
+      "guide_url": "https://github.com/airbnb/lottie-web#usage"
+    },
+    {
+      "number": 44,
+      "name": "react-spring",
+      "repository": "pmndrs/react-spring",
+      "category": "animation",
+      "source_url": "https://github.com/pmndrs/react-spring",
+      "description_en": "Animate React values with spring physics. Parameters such as mass, tension, and friction shape how elements respond when their targets change.",
+      "description_zh": "用弹簧物理驱动 React 中的动画值，通过质量、张力和摩擦力控制元素如何跟随目标变化",
+      "license": {
+        "label": "MIT",
+        "source_url": "https://github.com/pmndrs/react-spring/blob/next/LICENSE",
+        "verified": true
+      },
+      "banner": {
+        "image_url": "https://repository-images.githubusercontent.com/124257233/7bdde70a-e54f-4623-8cbc-537da87daba6",
+        "source_page": "https://github.com/pmndrs/react-spring",
+        "kind": "upstream-custom-social-banner"
+      },
+      "checked_on": "2026-11-09",
+      "use_case_en": "Tune how a draggable card settles back into position after release.",
+      "use_case_zh": "调节拖拽卡片松手后回到原位时的回弹幅度和停止速度",
+      "guide_url": "https://www.react-spring.dev/docs/getting-started"
+    },
+    {
+      "number": 45,
+      "name": "AutoAnimate",
+      "repository": "formkit/auto-animate",
+      "category": "animation",
+      "source_url": "https://github.com/formkit/auto-animate",
+      "description_en": "Attach animation to a parent element so its children transition when added, removed, or moved in the DOM.",
+      "description_zh": "给父元素启用动画，子元素在 DOM 中新增、移除或移动时会自动过渡",
+      "license": {
+        "label": "MIT",
+        "source_url": "https://github.com/formkit/auto-animate/blob/master/LICENSE",
+        "verified": true
+      },
+      "banner": {
+        "image_url": "https://repository-images.githubusercontent.com/491235501/1409bd0d-1d33-445a-9cf1-d59e951edb07",
+        "source_page": "https://github.com/formkit/auto-animate",
+        "kind": "upstream-custom-social-banner"
+      },
+      "checked_on": "2026-11-09",
+      "use_case_en": "Smooth the reordering of cards in a filterable grid.",
+      "use_case_zh": "让筛选后的卡片网格在重排时自然移动",
+      "guide_url": "https://auto-animate.formkit.com/#usage"
+    },
+    {
+      "number": 46,
+      "name": "Popmotion",
+      "repository": "Popmotion/popmotion",
+      "category": "animation",
+      "source_url": "https://github.com/Popmotion/popmotion",
+      "description_en": "Use low-level JavaScript primitives for keyframe, spring, and inertia animations. An update callback lets you apply each value to your own renderer.",
+      "description_zh": "用底层 JavaScript 原语做关键帧、弹簧和惯性动画，通过更新回调把动画值交给自己的渲染器",
+      "license": {
+        "label": "MIT (popmotion package)",
+        "source_url": "https://github.com/Popmotion/popmotion/blob/master/packages/popmotion/LICENSE.md",
+        "verified": true
+      },
+      "banner": {
+        "image_url": "https://opengraph.githubassets.com/6f48b75682a4cb9ff27ca34405b4cd5bf51e24acb15540dd4849f7ce695d422b/Popmotion/popmotion",
+        "source_page": "https://github.com/Popmotion/popmotion",
+        "kind": "github-generated-repository-preview"
+      },
+      "checked_on": "2026-11-09",
+      "use_case_en": "Drive a custom canvas control with an inertial release and spring return.",
+      "use_case_zh": "为 Canvas 控件实现松手后的惯性滑动和弹簧复位",
+      "guide_url": "https://github.com/Popmotion/popmotion#animation"
+    },
+    {
+      "number": 47,
+      "name": "tsParticles",
+      "repository": "tsparticles/tsparticles",
+      "category": "physics",
+      "source_url": "https://github.com/tsparticles/tsparticles",
+      "description_en": "Configure particle emitters, motion, interactions, and presets to build effects such as confetti and fireworks in the browser.",
+      "description_zh": "在浏览器里配置粒子发射、运动和交互，组合出彩纸、烟花等效果",
+      "license": {
+        "label": "MIT",
+        "source_url": "https://github.com/tsparticles/tsparticles/blob/main/LICENSE",
+        "verified": true
+      },
+      "banner": {
+        "image_url": "https://repository-images.githubusercontent.com/238514517/0b2e31ff-aef0-45de-99ab-938bae64a744",
+        "source_page": "https://github.com/tsparticles/tsparticles",
+        "kind": "upstream-custom-social-banner"
+      },
+      "checked_on": "2026-11-09",
+      "use_case_en": "Trigger a short confetti burst when a product demo reaches a success state.",
+      "use_case_zh": "在产品演示进入成功状态时触发一段短暂的彩纸爆发",
+      "guide_url": "https://particles.js.org/"
+    },
+    {
+      "number": 48,
+      "name": "PixiJS",
+      "repository": "pixijs/pixijs",
+      "category": "physics",
+      "source_url": "https://github.com/pixijs/pixijs",
+      "description_en": "Render a real-time 2D scene with sprites, textures, filters, and an update loop. Animated sprites can play texture frames while code controls scene transforms.",
+      "description_zh": "用精灵、纹理、滤镜和更新循环渲染实时 2D 场景。精灵可播放纹理帧，场景变换可由代码控制",
+      "license": {
+        "label": "MIT",
+        "source_url": "https://github.com/pixijs/pixijs/blob/dev/LICENSE",
+        "verified": true
+      },
+      "banner": {
+        "image_url": "https://repository-images.githubusercontent.com/7741856/20ddf680-86b9-11e9-90e3-aa6dd61c184a",
+        "source_page": "https://github.com/pixijs/pixijs",
+        "kind": "upstream-custom-social-banner"
+      },
+      "checked_on": "2026-11-09",
+      "use_case_en": "Build an interactive 2D hero with looping sprite animation and a reactive filter.",
+      "use_case_zh": "制作一个带循环精灵动画和响应式滤镜的 2D 交互首屏",
+      "guide_url": "https://pixijs.com/8.x/guides/getting-started/quick-start"
+    },
+    {
+      "number": 49,
+      "name": "p5.js",
+      "repository": "processing/p5.js",
+      "category": "physics",
+      "source_url": "https://github.com/processing/p5.js",
+      "description_en": "Draw graphics in JavaScript with a recurring draw loop, time and input variables, and 2D or WebGL renderers.",
+      "description_zh": "用 JavaScript 的绘图循环、时间和输入变量逐帧更新图形，支持 2D 和 WebGL 渲染",
+      "license": {
+        "label": "LGPL-2.1",
+        "source_url": "https://github.com/processing/p5.js/blob/main/license.txt",
+        "verified": true
+      },
+      "banner": {
+        "image_url": "https://opengraph.githubassets.com/7b59b190b1f02477594855877e51bd3e9783c066ed55fd897a74cb641879ca51/processing/p5.js",
+        "source_page": "https://github.com/processing/p5.js",
+        "kind": "github-generated-repository-preview"
+      },
+      "checked_on": "2026-11-09",
+      "use_case_en": "Make a kinetic typography study or an interactive procedural pattern that changes each frame.",
+      "use_case_zh": "制作动态字体练习，或编写逐帧变化并响应鼠标的程序化图案",
+      "guide_url": "https://p5js.org/reference/p5/draw/"
     }
   ]
 }

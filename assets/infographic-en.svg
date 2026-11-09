@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="3840" height="2160" viewBox="0 0 1920 1080" role="img" aria-labelledby="title desc">
 <title id="title">Build a motion studio with code</title>
-<desc id="desc">35 GitHub projects grouped into five production stages, from idea to export.</desc>
+<desc id="desc">47 GitHub projects grouped into five production stages, from idea to export.</desc>
 <defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M1 1L6 4L1 7" fill="none" stroke="#23765F" stroke-width="1.2"/></marker></defs>
 <rect width="1920" height="1080" fill="#F7F8F3"/>
 <style>text{font-family:'Noto Sans CJK SC','PingFang SC',sans-serif;fill:#192C28}.en{font-family:Arial,'Noto Sans CJK SC',sans-serif}.muted{fill:#64726C}.green{fill:#23765F}.sketch{fill:none;stroke:#23765F;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}.fine{fill:none;stroke:#CCD4CD;stroke-width:1.2;stroke-linecap:round}</style>
 <text x="64" y="54" font-size="16" font-weight="700" class="en green" letter-spacing="2.5">MOTION WITH CODE</text>
 <path d="M285 47H352" class="fine" />
-<text x="370" y="54" font-size="16" font-weight="400" class="muted">35 GITHUB REPOS · ONE WORKFLOW MAP</text>
+<text x="370" y="54" font-size="16" font-weight="400" class="muted">47 GITHUB REPOS · ONE WORKFLOW MAP</text>
 <text x="61" y="151" font-size="60" font-weight="700" class="">Build a motion studio with code</text>
 <text x="65" y="206" font-size="25" font-weight="400" class="muted">Animation, 3D, physics, sound, editing, and final delivery.</text>
 <g transform="translate(1490,62)">
@@ -33,168 +33,193 @@
 <circle cx="197" cy="5" r="4" class="sketch" fill="#F7F8F3"/>
 <path d="M214 10L240 25L214 40Z" class="sketch" />
 </g>
-<text x="64" y="409" font-size="27" font-weight="700" class="">Animation</text>
-<text x="64" y="436" font-size="12" font-weight="700" class="en muted" letter-spacing="1.7">ANIMATION</text>
+<text x="64" y="409" font-size="27" font-weight="700">Animation</text>
+<text x="64" y="436" font-size="12" font-weight="700" class="en muted" letter-spacing="1.4">ANIMATION</text>
 <path d="M64 452H389" class="fine" />
-<text x="64" y="481" font-size="13" font-weight="500" class="en green">01</text>
-<text x="98" y="481" font-size="22" font-weight="700" class="en">Remotion</text>
-<text x="98" y="498" font-size="15" font-weight="400" class="muted">Programmatic video with React</text>
-<text x="64" y="522" font-size="13" font-weight="500" class="en green">02</text>
-<text x="98" y="522" font-size="22" font-weight="700" class="en">Anime.js</text>
-<text x="98" y="539" font-size="15" font-weight="400" class="muted">Timeline choreography</text>
-<text x="64" y="563" font-size="13" font-weight="500" class="en green">03</text>
-<text x="98" y="563" font-size="22" font-weight="700" class="en">mo.js</text>
-<text x="98" y="580" font-size="15" font-weight="400" class="muted">Shape bursts and motion effects</text>
-<text x="64" y="604" font-size="13" font-weight="500" class="en green">04</text>
-<text x="98" y="604" font-size="22" font-weight="700" class="en">Theatre.js</text>
-<text x="98" y="621" font-size="15" font-weight="400" class="muted">Visual keyframe editing</text>
-<text x="64" y="645" font-size="13" font-weight="500" class="en green">05</text>
-<text x="98" y="645" font-size="22" font-weight="700" class="en">Two.js</text>
-<text x="98" y="662" font-size="15" font-weight="400" class="muted">Animated 2D vector scenes</text>
-<text x="64" y="686" font-size="13" font-weight="500" class="en green">06</text>
-<text x="98" y="686" font-size="22" font-weight="700" class="en">D3</text>
-<text x="98" y="703" font-size="15" font-weight="400" class="muted">Data-driven graphics</text>
-<text x="64" y="727" font-size="13" font-weight="500" class="en green">23</text>
-<text x="98" y="727" font-size="22" font-weight="700" class="en">HyperFrames</text>
-<text x="98" y="744" font-size="15" font-weight="400" class="muted">HTML-to-video motion graphics</text>
-<text x="64" y="768" font-size="13" font-weight="500" class="en green">24</text>
-<text x="98" y="768" font-size="22" font-weight="700" class="en">cinetic</text>
-<text x="98" y="785" font-size="15" font-weight="400" class="muted">Launch films from code</text>
-<text x="64" y="809" font-size="13" font-weight="500" class="en green">25</text>
-<text x="98" y="809" font-size="20" font-weight="700" class="en">Guizang Product Video Skill</text>
-<text x="98" y="826" font-size="15" font-weight="400" class="muted">Release videos from real UI</text>
-<text x="64" y="850" font-size="13" font-weight="500" class="en green">33</text>
-<text x="98" y="850" font-size="22" font-weight="700" class="en">liquid-glass-react</text>
-<text x="98" y="867" font-size="15" font-weight="400" class="muted">Interactive glass effects</text>
-<path d="M408 290V879" class="fine" />
+<path d="M408 290V878" class="fine" />
+<text x="64" y="482" font-size="13" font-weight="500" class="en green">01</text>
+<text x="98" y="482" font-size="20" font-weight="700" class="en">Remotion</text>
+<text x="98" y="496" font-size="14" font-weight="400" class="muted">Programmatic video with React</text>
+<text x="64" y="516" font-size="13" font-weight="500" class="en green">02</text>
+<text x="98" y="516" font-size="20" font-weight="700" class="en">Anime.js</text>
+<text x="98" y="530" font-size="14" font-weight="400" class="muted">Timeline choreography</text>
+<text x="64" y="550" font-size="13" font-weight="500" class="en green">03</text>
+<text x="98" y="550" font-size="20" font-weight="700" class="en">mo.js</text>
+<text x="98" y="564" font-size="14" font-weight="400" class="muted">Shape bursts and motion effects</text>
+<text x="64" y="584" font-size="13" font-weight="500" class="en green">04</text>
+<text x="98" y="584" font-size="20" font-weight="700" class="en">Theatre.js</text>
+<text x="98" y="598" font-size="14" font-weight="400" class="muted">Visual keyframe editing</text>
+<text x="64" y="618" font-size="13" font-weight="500" class="en green">05</text>
+<text x="98" y="618" font-size="20" font-weight="700" class="en">Two.js</text>
+<text x="98" y="632" font-size="14" font-weight="400" class="muted">Animated 2D vector scenes</text>
+<text x="64" y="652" font-size="13" font-weight="500" class="en green">06</text>
+<text x="98" y="652" font-size="20" font-weight="700" class="en">D3</text>
+<text x="98" y="666" font-size="14" font-weight="400" class="muted">Data-driven graphics</text>
+<text x="64" y="686" font-size="13" font-weight="500" class="en green">23</text>
+<text x="98" y="686" font-size="20" font-weight="700" class="en">HyperFrames</text>
+<text x="98" y="700" font-size="14" font-weight="400" class="muted">HTML-to-video motion graphics</text>
+<text x="64" y="720" font-size="13" font-weight="500" class="en green">24</text>
+<text x="98" y="720" font-size="20" font-weight="700" class="en">cinetic</text>
+<text x="98" y="734" font-size="14" font-weight="400" class="muted">Launch films from code</text>
+<text x="64" y="754" font-size="13" font-weight="500" class="en green">25</text>
+<text x="98" y="754" font-size="18" font-weight="700" class="en">Guizang Product Video Skill</text>
+<text x="98" y="768" font-size="14" font-weight="400" class="muted">Release videos from real UI</text>
+<text x="64" y="788" font-size="13" font-weight="500" class="en green">33</text>
+<text x="98" y="788" font-size="20" font-weight="700" class="en">liquid-glass-react</text>
+<text x="98" y="802" font-size="14" font-weight="400" class="muted">Interactive glass effects</text>
+<text x="64" y="822" font-size="13" font-weight="500" class="en green">38</text>
+<text x="98" y="822" font-size="20" font-weight="700" class="en">GSAP</text>
+<text x="98" y="836" font-size="14" font-weight="400" class="muted">Timeline and SVG morphing</text>
+<text x="64" y="856" font-size="13" font-weight="500" class="en green">39</text>
+<text x="98" y="856" font-size="20" font-weight="700" class="en">Motion</text>
+<text x="98" y="870" font-size="14" font-weight="400" class="muted">Layout and gesture motion</text>
 <g transform="translate(427,290)">
+<path d="M0 45H244M0 20H244M0 70H244" class="fine" />
+<path d="M4 65L52 47L104 61L161 30L236 16" class="sketch" />
+<circle cx="52" cy="47" r="4" class="sketch" fill="#F7F8F3" />
+<circle cx="161" cy="30" r="4" class="sketch" fill="#F7F8F3" />
+</g>
+<text x="427" y="409" font-size="27" font-weight="700">Interaction &amp; Data</text>
+<text x="427" y="436" font-size="12" font-weight="700" class="en muted" letter-spacing="1.4">INTERACTION &amp; DATA</text>
+<path d="M427 452H752" class="fine" />
+<path d="M771 290V878" class="fine" />
+<text x="427" y="482" font-size="13" font-weight="500" class="en green">40</text>
+<text x="461" y="482" font-size="20" font-weight="700" class="en">Motion Canvas</text>
+<text x="461" y="496" font-size="14" font-weight="400" class="muted">TypeScript scene timelines</text>
+<text x="427" y="516" font-size="13" font-weight="500" class="en green">41</text>
+<text x="461" y="516" font-size="20" font-weight="700" class="en">Manim</text>
+<text x="461" y="530" font-size="14" font-weight="400" class="muted">Math and diagram animation</text>
+<text x="427" y="550" font-size="13" font-weight="500" class="en green">42</text>
+<text x="461" y="550" font-size="20" font-weight="700" class="en">Rive Web Runtime</text>
+<text x="461" y="564" font-size="14" font-weight="400" class="muted">Interactive state machines</text>
+<text x="427" y="584" font-size="13" font-weight="500" class="en green">43</text>
+<text x="461" y="584" font-size="20" font-weight="700" class="en">lottie-web</text>
+<text x="461" y="598" font-size="14" font-weight="400" class="muted">Lottie playback and seeking</text>
+<text x="427" y="618" font-size="13" font-weight="500" class="en green">44</text>
+<text x="461" y="618" font-size="20" font-weight="700" class="en">react-spring</text>
+<text x="461" y="632" font-size="14" font-weight="400" class="muted">Spring physics for React</text>
+<text x="427" y="652" font-size="13" font-weight="500" class="en green">45</text>
+<text x="461" y="652" font-size="20" font-weight="700" class="en">AutoAnimate</text>
+<text x="461" y="666" font-size="14" font-weight="400" class="muted">List and grid transitions</text>
+<text x="427" y="686" font-size="13" font-weight="500" class="en green">46</text>
+<text x="461" y="686" font-size="20" font-weight="700" class="en">Popmotion</text>
+<text x="461" y="700" font-size="14" font-weight="400" class="muted">Keyframes, springs, inertia</text>
+<text x="427" y="716" font-size="12" font-weight="700" class="muted" letter-spacing="1.2">DATA MOTION</text>
+<text x="427" y="738" font-size="13" font-weight="500" class="en green">34</text>
+<text x="461" y="738" font-size="20" font-weight="700" class="en">Chart.js</text>
+<text x="461" y="752" font-size="14" font-weight="400" class="muted">Canvas chart transitions</text>
+<text x="427" y="772" font-size="13" font-weight="500" class="en green">35</text>
+<text x="461" y="772" font-size="20" font-weight="700" class="en">Apache ECharts</text>
+<text x="461" y="786" font-size="14" font-weight="400" class="muted">Data update animation</text>
+<text x="427" y="806" font-size="13" font-weight="500" class="en green">36</text>
+<text x="461" y="806" font-size="20" font-weight="700" class="en">Matplotlib</text>
+<text x="461" y="820" font-size="14" font-weight="400" class="muted">Frame-by-frame plots</text>
+<text x="427" y="840" font-size="13" font-weight="500" class="en green">37</text>
+<text x="461" y="840" font-size="20" font-weight="700" class="en">Plotly.py</text>
+<text x="461" y="854" font-size="14" font-weight="400" class="muted">Animated chart frames</text>
+<g transform="translate(790,290)">
 <path d="M26 17L59 0L92 17V53L59 71L26 53ZM26 17L59 35L92 17M59 35V71" class="sketch" />
 <path d="M59 0V35" class="fine" stroke-dasharray="3 4"/>
 <path d="M112 50H205L184 19H126ZM149 50V67M133 67H170" class="sketch" />
 <path d="M210 32L232 20V54L210 42Z" class="sketch" />
 </g>
-<text x="427" y="409" font-size="27" font-weight="700" class="">3D &amp; Scenes</text>
-<text x="427" y="436" font-size="12" font-weight="700" class="en muted" letter-spacing="1.7">3D &amp; SCENES</text>
-<path d="M427 452H752" class="fine" />
-<text x="427" y="483" font-size="14" font-weight="500" class="en green">07</text>
-<text x="461" y="483" font-size="24" font-weight="700" class="en">Three.js</text>
-<text x="461" y="502" font-size="16" font-weight="400" class="muted">3D scenes and cameras</text>
-<text x="427" y="527" font-size="14" font-weight="500" class="en green">08</text>
-<text x="461" y="527" font-size="24" font-weight="700" class="en">Babylon.js</text>
-<text x="461" y="546" font-size="16" font-weight="400" class="muted">Real-time 3D rendering</text>
-<text x="427" y="571" font-size="14" font-weight="500" class="en green">09</text>
-<text x="461" y="571" font-size="24" font-weight="700" class="en">Drei</text>
-<text x="461" y="590" font-size="15" font-weight="400" class="muted">React Three Fiber helpers</text>
-<text x="427" y="615" font-size="14" font-weight="500" class="en green">10</text>
-<text x="461" y="615" font-size="24" font-weight="700" class="en">Spark</text>
-<text x="461" y="634" font-size="16" font-weight="400" class="muted">Gaussian splat rendering</text>
-<text x="427" y="659" font-size="14" font-weight="500" class="en green">11</text>
-<text x="461" y="659" font-size="24" font-weight="700" class="en">cables.gl</text>
-<text x="461" y="678" font-size="16" font-weight="400" class="muted">Visual node-based scenes</text>
-<text x="427" y="703" font-size="14" font-weight="500" class="en green">26</text>
-<text x="461" y="703" font-size="24" font-weight="700" class="en">MCP for Blender</text>
-<text x="461" y="722" font-size="16" font-weight="400" class="muted">Agent-assisted Blender previs</text>
-<text x="427" y="747" font-size="14" font-weight="500" class="en green">27</text>
-<text x="461" y="747" font-size="24" font-weight="700" class="en">Motion2MixamoRig</text>
-<text x="461" y="766" font-size="16" font-weight="400" class="muted">Video-to-character retargeting</text>
-<path d="M771 290V862" class="fine" />
-<g transform="translate(790,290)">
+<text x="790" y="409" font-size="27" font-weight="700">3D &amp; Scenes</text>
+<text x="790" y="436" font-size="12" font-weight="700" class="en muted" letter-spacing="1.4">3D &amp; SCENES</text>
+<path d="M790 452H1115" class="fine" />
+<path d="M1134 290V878" class="fine" />
+<text x="790" y="482" font-size="13" font-weight="500" class="en green">07</text>
+<text x="824" y="482" font-size="20" font-weight="700" class="en">Three.js</text>
+<text x="824" y="496" font-size="14" font-weight="400" class="muted">3D scenes and cameras</text>
+<text x="790" y="524" font-size="13" font-weight="500" class="en green">08</text>
+<text x="824" y="524" font-size="20" font-weight="700" class="en">Babylon.js</text>
+<text x="824" y="538" font-size="14" font-weight="400" class="muted">Real-time 3D rendering</text>
+<text x="790" y="566" font-size="13" font-weight="500" class="en green">09</text>
+<text x="824" y="566" font-size="20" font-weight="700" class="en">Drei</text>
+<text x="824" y="580" font-size="14" font-weight="400" class="muted">React Three Fiber helpers</text>
+<text x="790" y="608" font-size="13" font-weight="500" class="en green">10</text>
+<text x="824" y="608" font-size="20" font-weight="700" class="en">Spark</text>
+<text x="824" y="622" font-size="14" font-weight="400" class="muted">Gaussian splat rendering</text>
+<text x="790" y="650" font-size="13" font-weight="500" class="en green">11</text>
+<text x="824" y="650" font-size="20" font-weight="700" class="en">cables.gl</text>
+<text x="824" y="664" font-size="14" font-weight="400" class="muted">Visual node-based scenes</text>
+<text x="790" y="692" font-size="13" font-weight="500" class="en green">26</text>
+<text x="824" y="692" font-size="20" font-weight="700" class="en">MCP for Blender</text>
+<text x="824" y="706" font-size="14" font-weight="400" class="muted">Agent-assisted Blender previs</text>
+<text x="790" y="734" font-size="13" font-weight="500" class="en green">27</text>
+<text x="824" y="734" font-size="20" font-weight="700" class="en">Motion2MixamoRig</text>
+<text x="824" y="748" font-size="14" font-weight="400" class="muted">Video-to-character retargeting</text>
+<g transform="translate(1153,290)">
 <path d="M3 44C21 18 37 69 58 41S91 18 112 44S148 70 170 42S204 15 229 42" class="sketch" />
 <path d="M3 58C21 32 37 83 58 55S91 32 112 58S148 84 170 56S204 29 229 56" class="fine" />
 <circle cx="104" cy="6" r="6" class="sketch" />
 <circle cx="150" cy="17" r="3" class="sketch" />
 <path d="M202 4L214 15M211 1L218 8M211 12L201 22L193 24L195 16L205 6" class="sketch" />
 </g>
-<text x="790" y="409" font-size="27" font-weight="700" class="">Physics &amp; Drawing</text>
-<text x="790" y="436" font-size="12" font-weight="700" class="en muted" letter-spacing="1.7">PHYSICS &amp; DRAWING</text>
-<path d="M790 452H1115" class="fine" />
-<text x="790" y="483" font-size="14" font-weight="500" class="en green">12</text>
-<text x="824" y="483" font-size="24" font-weight="700" class="en">Taichi</text>
-<text x="824" y="502" font-size="16" font-weight="400" class="muted">GPU-powered physics</text>
-<text x="790" y="527" font-size="14" font-weight="500" class="en green">13</text>
-<text x="824" y="527" font-size="24" font-weight="700" class="en">SPlisHSPlasH</text>
-<text x="824" y="546" font-size="16" font-weight="400" class="muted">Fluids, foam, and splashes</text>
-<text x="790" y="571" font-size="14" font-weight="500" class="en green">14</text>
-<text x="824" y="571" font-size="21" font-weight="700" class="en">Custom Shader Material</text>
-<text x="824" y="590" font-size="15" font-weight="400" class="muted">Custom shaders with Three.js lighting</text>
-<text x="790" y="615" font-size="14" font-weight="500" class="en green">15</text>
-<text x="824" y="615" font-size="24" font-weight="700" class="en">OpenToonz</text>
-<text x="824" y="634" font-size="16" font-weight="400" class="muted">Hand-drawn character animation</text>
-<text x="790" y="659" font-size="14" font-weight="500" class="en green">28</text>
-<text x="824" y="659" font-size="24" font-weight="700" class="en">ClaudeAnimationBase</text>
-<text x="824" y="678" font-size="16" font-weight="400" class="muted">Hand-painted cartoon starter</text>
-<path d="M1134 290V862" class="fine" />
-<g transform="translate(1153,290)">
+<text x="1153" y="409" font-size="27" font-weight="700">Physics &amp; Drawing</text>
+<text x="1153" y="436" font-size="12" font-weight="700" class="en muted" letter-spacing="1.4">PHYSICS &amp; DRAWING</text>
+<path d="M1153 452H1478" class="fine" />
+<path d="M1497 290V878" class="fine" />
+<text x="1153" y="482" font-size="13" font-weight="500" class="en green">12</text>
+<text x="1187" y="482" font-size="20" font-weight="700" class="en">Taichi</text>
+<text x="1187" y="496" font-size="14" font-weight="400" class="muted">GPU-powered physics</text>
+<text x="1153" y="524" font-size="13" font-weight="500" class="en green">13</text>
+<text x="1187" y="524" font-size="20" font-weight="700" class="en">SPlisHSPlasH</text>
+<text x="1187" y="538" font-size="14" font-weight="400" class="muted">Fluids, foam, and splashes</text>
+<text x="1153" y="566" font-size="13" font-weight="500" class="en green">14</text>
+<text x="1187" y="566" font-size="20" font-weight="700" class="en">Custom Shader Material</text>
+<text x="1187" y="580" font-size="14" font-weight="400" class="muted">Custom shaders with Three.js lighting</text>
+<text x="1153" y="608" font-size="13" font-weight="500" class="en green">15</text>
+<text x="1187" y="608" font-size="20" font-weight="700" class="en">OpenToonz</text>
+<text x="1187" y="622" font-size="14" font-weight="400" class="muted">Hand-drawn character animation</text>
+<text x="1153" y="650" font-size="13" font-weight="500" class="en green">28</text>
+<text x="1187" y="650" font-size="20" font-weight="700" class="en">ClaudeAnimationBase</text>
+<text x="1187" y="664" font-size="14" font-weight="400" class="muted">Hand-painted cartoon starter</text>
+<text x="1153" y="692" font-size="13" font-weight="500" class="en green">47</text>
+<text x="1187" y="692" font-size="20" font-weight="700" class="en">tsParticles</text>
+<text x="1187" y="706" font-size="14" font-weight="400" class="muted">Particles and emitters</text>
+<text x="1153" y="734" font-size="13" font-weight="500" class="en green">48</text>
+<text x="1187" y="734" font-size="20" font-weight="700" class="en">PixiJS</text>
+<text x="1187" y="748" font-size="14" font-weight="400" class="muted">Real-time 2D sprite effects</text>
+<text x="1153" y="776" font-size="13" font-weight="500" class="en green">49</text>
+<text x="1187" y="776" font-size="20" font-weight="700" class="en">p5.js</text>
+<text x="1187" y="790" font-size="14" font-weight="400" class="muted">Creative coding and draw loops</text>
+<g transform="translate(1516,290)">
 <path d="M3 33H16M23 21V45M33 9V57M43 0V66M53 15V51M63 24V42M73 13V53M83 26V40M91 33H105" class="sketch" />
 <rect x="131" y="7" width="103" height="53" rx="3" class="sketch"/>
 <path d="M144 25H221M144 38H193M144 48H212" class="sketch" />
 </g>
-<text x="1153" y="409" font-size="27" font-weight="700" class="">Audio &amp; Editing</text>
-<text x="1153" y="436" font-size="12" font-weight="700" class="en muted" letter-spacing="1.7">AUDIO &amp; EDITING</text>
-<path d="M1153 452H1478" class="fine" />
-<text x="1153" y="483" font-size="14" font-weight="500" class="en green">17</text>
-<text x="1187" y="483" font-size="24" font-weight="700" class="en">Audacity</text>
-<text x="1187" y="502" font-size="16" font-weight="400" class="muted">Audio cleanup and mixing</text>
-<text x="1153" y="527" font-size="14" font-weight="500" class="en green">18</text>
-<text x="1187" y="527" font-size="24" font-weight="700" class="en">Subtitle Edit</text>
-<text x="1187" y="546" font-size="16" font-weight="400" class="muted">Subtitle editing and timing</text>
-<text x="1153" y="571" font-size="14" font-weight="500" class="en green">19</text>
-<text x="1187" y="571" font-size="24" font-weight="700" class="en">Auto-Editor</text>
-<text x="1187" y="590" font-size="16" font-weight="400" class="muted">Automatic silence cuts</text>
-<text x="1153" y="615" font-size="14" font-weight="500" class="en green">29</text>
-<text x="1187" y="615" font-size="24" font-weight="700" class="en">OpenCut</text>
-<text x="1187" y="634" font-size="16" font-weight="400" class="muted">Browser timeline editing</text>
-<text x="1153" y="659" font-size="14" font-weight="500" class="en green">30</text>
-<text x="1187" y="659" font-size="24" font-weight="700" class="en">LosslessCut</text>
-<text x="1187" y="678" font-size="16" font-weight="400" class="muted">Rough cuts without re-encoding</text>
-<text x="1153" y="703" font-size="14" font-weight="500" class="en green">31</text>
-<text x="1187" y="703" font-size="24" font-weight="700" class="en">video-use</text>
-<text x="1187" y="722" font-size="16" font-weight="400" class="muted">Transcript-driven editing</text>
-<text x="1153" y="747" font-size="14" font-weight="500" class="en green">32</text>
-<text x="1187" y="747" font-size="24" font-weight="700" class="en">Palmier Pro</text>
-<text x="1187" y="766" font-size="16" font-weight="400" class="muted">macOS timeline with MCP</text>
-<path d="M1497 290V862" class="fine" />
-<g transform="translate(1516,290)">
-<rect x="3" y="1" width="112" height="66" rx="3" class="sketch"/>
-<path d="M47 18L72 34L47 49ZM25 79H93M59 67V79" class="sketch" />
-<path d="M132 34H168" class="sketch" marker-end="url(#arrow)"/>
-<path d="M190 0H219L235 16V68H190ZM219 0V16H235M201 33H223M201 45H223M201 57H216" class="sketch" />
-</g>
-<text x="1516" y="409" font-size="27" font-weight="700" class="">Render &amp; Delivery</text>
-<text x="1516" y="436" font-size="12" font-weight="700" class="en muted" letter-spacing="1.7">RENDER &amp; DELIVERY</text>
+<text x="1516" y="409" font-size="27" font-weight="700">Editing &amp; Delivery</text>
+<text x="1516" y="436" font-size="12" font-weight="700" class="en muted" letter-spacing="1.4">EDITING &amp; DELIVERY</text>
 <path d="M1516 452H1841" class="fine" />
-<text x="1516" y="483" font-size="14" font-weight="500" class="en green">20</text>
-<text x="1550" y="483" font-size="24" font-weight="700" class="en">RIFE</text>
-<text x="1550" y="502" font-size="16" font-weight="400" class="muted">Frame interpolation and slow motion</text>
-<text x="1516" y="527" font-size="14" font-weight="500" class="en green">22</text>
-<text x="1550" y="527" font-size="24" font-weight="700" class="en">FFmpeg</text>
-<text x="1550" y="546" font-size="16" font-weight="400" class="muted">Encoding and final delivery</text>
-<g transform="translate(801,769)">
-<path d="M0 55H280" class="fine" />
-<path d="M33 55L71 0L109 55ZM71 0L74 55M46 36H96M55 22H86" class="fine" />
-<path d="M145 55C145 17 188 8 209 23S231 55 231 55M146 52C164 30 208 31 229 50M155 26C173 57 207 59 220 33M185 18C169 34 171 44 184 55" class="fine" />
-<circle cx="71" cy="0" r="3" class="sketch" />
-<circle cx="185" cy="18" r="3" class="sketch" />
-</g>
-<g transform="translate(1187,837) scale(0.4)">
-<path d="M0 5H290M0 35H290M0 65H290" class="fine" />
-<rect x="12" y="10" width="80" height="20" rx="2" class="fine"/><rect x="103" y="10" width="120" height="20" rx="2" class="fine"/><rect x="32" y="40" width="128" height="20" rx="2" class="fine"/>
-<path d="M184 -4V72M179 -4H189" class="sketch" />
-</g>
-<path d="M1516 616H1841" class="fine" />
-<text x="1516" y="644" font-size="12" font-weight="700" class="muted" letter-spacing="1.4">DATA MOTION · ANIMATION</text>
-<text x="1516" y="674" font-size="13" font-weight="500" class="en green">34</text>
-<text x="1550" y="674" font-size="21" font-weight="700" class="en">Chart.js</text>
-<text x="1550" y="691" font-size="15" font-weight="400" class="muted">Canvas chart transitions</text>
-<text x="1516" y="720" font-size="13" font-weight="500" class="en green">35</text>
-<text x="1550" y="720" font-size="21" font-weight="700" class="en">Apache ECharts</text>
-<text x="1550" y="737" font-size="15" font-weight="400" class="muted">Data update animation</text>
-<text x="1516" y="766" font-size="13" font-weight="500" class="en green">36</text>
-<text x="1550" y="766" font-size="21" font-weight="700" class="en">Matplotlib</text>
-<text x="1550" y="783" font-size="15" font-weight="400" class="muted">Frame-by-frame plots</text>
-<text x="1516" y="812" font-size="13" font-weight="500" class="en green">37</text>
-<text x="1550" y="812" font-size="21" font-weight="700" class="en">Plotly.py</text>
-<text x="1550" y="829" font-size="15" font-weight="400" class="muted">Animated chart frames</text>
+<text x="1516" y="478" font-size="12" font-weight="700" class="muted" letter-spacing="1.2">AUDIO &amp; EDITING</text>
+<text x="1516" y="500" font-size="13" font-weight="500" class="en green">17</text>
+<text x="1550" y="500" font-size="20" font-weight="700" class="en">Audacity</text>
+<text x="1550" y="514" font-size="14" font-weight="400" class="muted">Audio cleanup and mixing</text>
+<text x="1516" y="534" font-size="13" font-weight="500" class="en green">18</text>
+<text x="1550" y="534" font-size="20" font-weight="700" class="en">Subtitle Edit</text>
+<text x="1550" y="548" font-size="14" font-weight="400" class="muted">Subtitle editing and timing</text>
+<text x="1516" y="568" font-size="13" font-weight="500" class="en green">19</text>
+<text x="1550" y="568" font-size="20" font-weight="700" class="en">Auto-Editor</text>
+<text x="1550" y="582" font-size="14" font-weight="400" class="muted">Automatic silence cuts</text>
+<text x="1516" y="602" font-size="13" font-weight="500" class="en green">29</text>
+<text x="1550" y="602" font-size="20" font-weight="700" class="en">OpenCut</text>
+<text x="1550" y="616" font-size="14" font-weight="400" class="muted">Browser timeline editing</text>
+<text x="1516" y="636" font-size="13" font-weight="500" class="en green">30</text>
+<text x="1550" y="636" font-size="20" font-weight="700" class="en">LosslessCut</text>
+<text x="1550" y="650" font-size="14" font-weight="400" class="muted">Rough cuts without re-encoding</text>
+<text x="1516" y="670" font-size="13" font-weight="500" class="en green">31</text>
+<text x="1550" y="670" font-size="20" font-weight="700" class="en">video-use</text>
+<text x="1550" y="684" font-size="14" font-weight="400" class="muted">Transcript-driven editing</text>
+<text x="1516" y="704" font-size="13" font-weight="500" class="en green">32</text>
+<text x="1550" y="704" font-size="20" font-weight="700" class="en">Palmier Pro</text>
+<text x="1550" y="718" font-size="14" font-weight="400" class="muted">macOS timeline with MCP</text>
+<text x="1516" y="734" font-size="12" font-weight="700" class="muted" letter-spacing="1.2">RENDER &amp; DELIVERY</text>
+<text x="1516" y="756" font-size="13" font-weight="500" class="en green">20</text>
+<text x="1550" y="756" font-size="20" font-weight="700" class="en">RIFE</text>
+<text x="1550" y="770" font-size="14" font-weight="400" class="muted">Frame interpolation and slow motion</text>
+<text x="1516" y="790" font-size="13" font-weight="500" class="en green">22</text>
+<text x="1550" y="790" font-size="20" font-weight="700" class="en">FFmpeg</text>
+<text x="1550" y="804" font-size="14" font-weight="400" class="muted">Encoding and final delivery</text>
 <path d="M64 902H1856" class="fine" />
 <text x="64" y="949" font-size="20" font-weight="700" class="">CONNECT THE WORKFLOW</text>
 <circle cx="397" cy="941" r="6" class="sketch" fill="#F7F8F3"/>
